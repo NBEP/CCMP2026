@@ -16,7 +16,7 @@ meta:
 color:
   palette:
     aqua: "#0D7CA9"
-    # dark-aqua: "#0d5d82"
+    dark-aqua: "#0d5d82"
     # blue: "#054469"
     # olive: "#9FB566"
     # sand: "#E3D78B"
