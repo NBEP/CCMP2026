@@ -8,7 +8,6 @@ renv.lock
 .Rprofile
 /.quarto/
 /*_files
-/docs/*_files
-/docs/people/*_files
 *.html
 /_site/site_libs
+_site/search.json

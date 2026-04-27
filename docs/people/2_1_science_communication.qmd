@@ -1,6 +1,5 @@
 ---
 title: "Action People-2.1: Science Communication Tools"
-format: html
 ---
 
 Full Action Statement: Develop compelling open-source data visualizations, stories, and dashboards.
@@ -17,25 +16,25 @@ Through its roles to convene and synthesize and communicate science, NBEP will f
 
 # Potential Projects
 
-* Collaborate with local water quality monitoring groups and other National Estuary Programs to develop water quality dashboards that aid in analyzing and sharing data.
+-   Collaborate with local water quality monitoring groups and other National Estuary Programs to develop water quality dashboards that aid in analyzing and sharing data.
 
-* Create tool(s) to document and showcase habitat restoration projects in the region.
+-   Create tool(s) to document and showcase habitat restoration projects in the region.
 
-* Build tool(s) to help local organizations prioritize areas for conservation or restoration.
+-   Build tool(s) to help local organizations prioritize areas for conservation or restoration.
 
-* Collaborate with data developers, NBEP committee experts, and end users to develop tools that respond to current needs.
+-   Collaborate with data developers, NBEP committee experts, and end users to develop tools that respond to current needs.
 
 # Outputs
 
-* New tools
+-   New tools
 
-* Ongoing maintenance and updates to existing tools
+-   Ongoing maintenance and updates to existing tools
 
 # Outcomes
 
-* Greater ability for end users to understand technical issues and be proactive
+-   Greater ability for end users to understand technical issues and be proactive
 
-* Decreased technical debt and shorter, more efficient workflows for local organizations, leading to faster data analysis and availability
+-   Decreased technical debt and shorter, more efficient workflows for local organizations, leading to faster data analysis and availability
 
 # Indicators
 

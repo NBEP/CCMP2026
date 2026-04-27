@@ -7,7 +7,7 @@ Full Action Statement: Develop and implement the NBEP Engagement Plan to convene
 
 # Action Description and Statement of Need
 
-This Action will develop a coordinated and collaborative NBEP Engagement Plan to guide NBEP’s convening services and partnership-building activities. The Engagement Plan will include work to articulate and promote a unique identity for the Narragansett Bay region that highlights specific CCMP implementation opportunities and challenges within the broader southern New England context (see [Finance Plan Action: People-3.1](3_1_finance_plan.qmd)).
+This Action will develop a coordinated and collaborative NBEP Engagement Plan to guide NBEP’s convening services and partnership-building activities. The Engagement Plan will include work to articulate and promote a unique identity for the Narragansett Bay region that highlights specific CCMP implementation opportunities and challenges within the broader southern New England context (see Finance Plan Action: [People-3.1](3_1_finance_plan.qmd)).
 
 Successful implementation of the NBEP CCMP requires an informed, engaged, and empowered community of partners making choices and taking actions that increase environmental health and resilience. Coproduction of knowledge and management solutions can build trust among resource users and managers and provide deeper understandings and diverse perspectives about what the people of the Narragansett Bay region value most about the environment. NBEP seeks to energize effective partnerships to implement CCMP actions and develop a strategic framework of networks and services to support partner needs for targeted engagement throughout the watershed.
 

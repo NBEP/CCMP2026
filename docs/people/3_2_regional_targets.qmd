@@ -1,5 +1,59 @@
 ---
-title: "3_2_regional_targets"
-format: html
+title: "Action People-3.2: Regional Targets"
 ---
 
+Full Action Statement: Establish shared regional ecosystem targets with public reporting systems to track progress.
+
+# Action Description and Statement of Need
+
+This Action calls for NBEP to lead the development of priority regional ecosystem targets for the Narragansett Bay region to motivate collective action.
+
+Effective protection and restoration of water, habitats, fish and wildlife, and quality of life in the Narragansett Bay region depends on 1) understanding the status and trends of key environmental and socioeconomic indicators; 2) establishing measurable targets for those indicators that equate to a desired future condition; and 3) adopting reporting systems to monitor progress and foster additional collaborative work to reach targets.
+
+In 2017, NBEP and partners identified and characterized the status and trends of 24 key stressor and condition indicators underlying the ecosystem health of Narragansett Bay and its communities (NBEP 2017). NBEP and partners will continue to develop indicators (Action: [People-2.3](2_3_indicators.qmd)) and monitor and model their status and trends (Actions: Water-1.1, Habitat-1.1, and [People-2.2](2_2_research_plan.qmd)).
+
+NBEP will collaborate with partners to develop targets at appropriate scales that define desired future conditions for indicators. Target development will take into consideration existing targets, such as those required by the Clean Water Act to support designated uses of waters, Total Maximum Daily Loads (TMDLs), Special Areas Management Plans (SAMPs), and habitat restoration plans. Targets should encompass topics that NBEP and partners have agency and capacity to advance and ideally derive from metrics that NBEP already measures for State of the Watershed indicators (*e.g.*, habitat acres, pollution reductions, number of public access points).
+
+# Potential Projects
+
+-   Convene partners to create numeric targets for priority ecosystem and socioeconomic system indicators that span watershed boundaries and authorities.
+
+-   Establish reporting systems for tracking progress toward shared targets.
+
+# Outputs
+
+-   Facilitated meetings
+
+-   Numeric targets and reporting system(s) for priority environmental and socioeconomic indicators
+
+# Outcomes
+
+-   Improved coordination and collaboration among protection and restoration partners
+
+-   Increased public awareness of management goals and the effectiveness of actions and investments to attain them
+
+# Indicators
+
+All indicators
+
+# NBEP role
+
+Convene, Synthesize and communicate science
+
+# Implementing Partners
+
+Steering Committee
+
+# Location
+
+Narragansett Bay region
+
+# Timeline for initiation
+
+2026-2029
+
+# Estimated costs/potential funding sources
+
+\$500K–1M
+
+NBEP 320/SNEP

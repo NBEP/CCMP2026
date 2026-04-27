@@ -1,5 +1,69 @@
 ---
-title: "2_2_ecosystem_modeling"
-format: html
+title: "Action People-2.2: Ecosystem Modeling and Decision-Support Tools"
 ---
 
+Full Action Statement: Support, improve, and create efficiencies for integrated ecosystem models and decision-support tools that foster effective resource management.
+
+# Action Description and Statement of Need
+
+This Action will advance the development and use of ecosystem modeling and decision-support tools for filling knowledge gaps, informing key management decisions, and setting and tracking progress toward environmental protection and restoration targets.
+
+Significant environmental research and monitoring has occurred in the Narragansett Bay region since at least the 1950s which has fueled multiple modeling efforts to understand how ecosystems respond to pollution drivers and management actions (Humphries *et al.* 2022). Applied models focus on answering key management-related questions related to water quality, food-chain dynamics, fisheries resources, and larger ecosystem-based challenges. Localized needs have been met with models and other tools that support TMDL development and permitting, prioritize restoration projects, and highlight gaps in current monitoring activities.
+
+There has long been a desire for linked hydrodynamic, water quality, and ecosystem-based models to help increase understanding of the impact of system stressors and responsive management actions. Using monitoring data in models can assist in forecasting future conditions, selecting responsive actions, tracking their effectiveness, and adapting as needed. Ecosystem models can be used to compare multiple future ecosystem scenarios and identify management strategies that sustain benefits for ecosystem, people, and economies across various time scales and uncertainties.
+
+The rising and interlaced challenges of nutrient loading, stormwater pollution, and socioeconomic concerns necessitate the revision, update, and creation of models and other decision-support tools to better understand ecosystem health, evaluate management strategies, and help set and track progress against management targets. Further, not all models or tools are in forms that are available or useful to end users. Data visualizations and dashboards are simple and elegant ways to accurately and broadly communicate information to a wide audience of partners and other end users. Creating tools using free open-source software ensures that they can be widely shared, modified, and accessible to all.
+
+NBEP will collaborate with partners to convene interests across state boundaries to coordinate modeling and tool development. Activities could include assessing current modeling and tool-development projects to avoid duplication of efforts, discussing gaps in monitoring needed to accurately develop or update models and tools, and gaining consensus on a preferred pathway to developing a bay-wide water quality model. NBEP will participate on partner-led committees to develop or improve models or tools. NBEP can partially or fully fund development, update, or implementation of open-source models or tools to answer key management questions. NBEP will regularly provide guidance and updates to ensure modeling and tool development aligns with CCMP actions.
+
+# Potential Projects
+
+* Convene stakeholders and other experts to review available modeling tools and their limitations.
+
+* Convene partners to build consensus on pathways for development of validated and calibrated bay water quality and ecosystem models to support management and assist in setting restoration targets.
+
+* Collaborate with data developers, NBEP committee experts, and end users to develop technical tools that respond to current needs.
+
+* Develop and/or update natural heritage database models to inform land use decisions.
+
+# Outputs
+
+* Assessment of existing water quality and hydrodynamic models, their intended use, and a pathway toward a larger, linked hydrodynamic model
+
+* Assessment of data needs for existing models and tools
+
+* Working group meetings
+
+# Outcomes
+
+* More efficient and accurate modeling tools for decision-making and policy
+
+* Broader understanding of available modeling tools and their applicability to resource management
+
+* Ecosystem management that is better informed by modeling and monitoring data
+
+# Indicators
+
+All indicators
+
+# NBEP role
+
+Convene, Fund capacity and projects
+
+# Implementing Partners
+
+RIDEM, MassDEP, URI Coastal Institute, RI Environmental Monitoring Collaborative, Rhode Island Natural History Survey, NBNERR, Mass Audubon, MassWildlife, TNC (RI and MA), ASRI, Salt Ponds Coalition, URI Watershed Watch, Save The Bay, Brown University, URI, EPA-ORD-ACESD
+
+# Location
+
+Narragansett Bay region
+
+# Timeline for Initiation
+
+2030-2032
+
+# Estimated costs/potential funding sources
+
+\$5M–10M
+
+NBEP 320/SNEP, National Science Foundation, Foundation Grants, URI Coastal Institute, RIDEM, MassDEP, TNC

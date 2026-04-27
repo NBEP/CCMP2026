@@ -3,9 +3,9 @@ project:
   type: website
 
 website:
-  title: "NBEP Internal SOPs"
+  title: "NBEP 2026 CCMP"
   sidebar:
-    style: "floating"
+    style: "docked"
     search: true
     contents:
       - text: "Home"
@@ -18,8 +18,8 @@ website:
         href: docs/about_nbep.qmd
       - text: "About the CCMP Vision and Strategy"
         href: docs/about_ccmp.qmd
-      - text: "People Ready to Act Action Plan"
-        href: docs/people/action_plan.qmd
+      - section: "People Ready to Act"
+        contents: docs/people/*
       - text: "Water Quality Improvement Action Plan"
       - text: "Habitat Protection and Restoration Action Plan"
       - text: "Public Spaces Accessible to All Action Plan"

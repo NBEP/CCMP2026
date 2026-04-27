@@ -1,5 +1,67 @@
 ---
-title: "1_2_3_indicators"
-format: html
+title: "Action People-2.3: Indicators"
 ---
 
+Full Action Statement: Develop and update indicators to track environmental and socioeconomic trends.
+
+# Action Description and Statement of Need
+
+This Action calls NBEP and partners to develop and update indicators to track environmental and socioeconomic trends. Stressor indicators provide information about water quality, landscape and chemical processes that can cause changes in the estuaries and their watersheds. Condition indicators provide information about the status and trends of natural ecosystems and human socioeconomic systems, like public health (NBEP 2017).
+
+NBEP convened more than 50 experts from universities, agencies, and organizations in Rhode Island and Massachusetts to develop environmental indicators and evaluate their status and trends. The resulting report identified and analyzed the status and trends of 24 key environmental and socioeconomic indicators (NBEP 2017). The geographic scope of most indicators was limited to Narragansett Bay and its watershed. Since the report’s publication, some indicators have been updated and expanded to include the Coastal Salt Ponds and Little Narragansett Bay. In addition, NBEP has refined three indicators to include new information, including Nuisance Flooding (Sea Level), Atmospheric Nitrogen Deposition (Nutrient Loading), and Solar Project Installations in Forests (Land Use) (Appendix A). NBEP continues to work with the Southeast New England Program to align indicator development to improve efficiency and create consistent messaging.
+
+In 2023, NBEP’s Social Science Working Group nominated four new socioeconomic indicators for development, including Public Access, Resilient Municipalities, Public Health, and Economy. NBEP will develop and implement Public Access and Resilient Municipalities indicators over the next ten years (NBEP 2023a).
+
+NBEP will lead development, metric refinement, and updates of environmental and socioeconomic indicators as guided by the Research Plan, Science Advisory Committee, Steering Committee, and topical work groups. NBEP will also expand the geographic scope of indicators to include Little Narragansett Bay and Rhode Island Coastal Ponds watersheds. Results will be published as an update to *The State of Narragansett Bay and Its Watershed* report.
+
+# Potential Projects
+
+-   Develop refined metrics, assess and update existing indicators, and create new environmental and socioeconomic indicators.
+
+-   Expand the geographic scope of all indicators to include the Rhode Island Coastal Ponds and Little Narragansett Bay watersheds.
+
+-   Update *The State of Narragansett Bay and Its Watershed* report in 2027, emphasizing indicators that facilitate tracking CCMP goals and objectives.
+
+# Outputs
+
+-   Indicator updates
+
+-   New indicators, including socioeconomic indicators
+
+-   Update of *The State of Narragansett Bay and Its Watershed* report
+
+-   Expanded geographic scope of indicators
+
+# Outcomes
+
+-   Improved understanding of environmental stressors and conditions in the region
+
+-   Improved capacity to track implementation of CCMP Actions
+
+-   Improved understanding of human-ecosystem interactions
+
+# Indicators
+
+All indicators
+
+# NBEP role
+
+Convene, Synthesize and communicate science
+
+# Implementing Partners
+
+Science Advisory Committee, Southeast New England Program (SNEP), EPA Region 1, Other researchers
+
+# Location
+
+Narragansett Bay region
+
+# Timeline for initiation
+
+Ongoing
+
+# Estimated costs/potential funding sources
+
+\$500K–1M
+
+NBEP 320/SNEP
