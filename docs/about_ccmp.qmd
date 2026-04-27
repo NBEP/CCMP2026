@@ -1,13 +1,10 @@
 ---
-title: "3_about_ccmp"
-format: html
+title: "About the CCMP Vision and Strategy"
 ---
-
-# About the CCMP Vision and Strategy
 
 This 2026 CCMP Revision is a regional call to action for shared efforts that can measurably improve the region’s water quality, wildlife, and quality of life over the next decade. Rather than a comprehensive list of the many ongoing initiatives that will benefit the region’s estuaries and watersheds, this 2026 CCMP Revision contains a targeted set of priority Actions for collaborative work among NBEP staff, organizations represented on NBEP’s committees, and other partners throughout the watershed. The list of priority Actions was crafted using a cooperative process that reflects best available science.
 
-## Partner Engagement for Revising the CCMP
+# Partner Engagement for Revising the CCMP
 
 NBEP’s first CCMP was adopted in 1992, then updated in 2012 (NBEP 2012). In 2019, NBEP began work on this 10-year Revision. The program sought, obtained, and responded to broad input from scientists, resource managers, and environmental advocates through:
 
@@ -21,50 +18,50 @@ NBEP’s first CCMP was adopted in 1992, then updated in 2012 (NBEP 2012). In 20
 
 NBEP’s process focused on priority actions that NBEP and its partners have the expertise and agency to complete within ten years, rather than long lists of aspirational actions. A crosswalk of the status of 2012 CCMP Actions versus 2026 CCMP Actions highlights the more focused approach (Appendix C).
 
-## Strategic Lenses for Action
+# Strategic Lenses for Action
 
 Actions in this 2026 CCMP Revision reflect four cross-cutting issues important to the partnership:
 
-### Regionalism
+## Regionalism
 
 Actions leverage the partnership’s unique geopolitical identity as the Narragansett Bay region to build regional partnerships for collaboration and cross-boundary coordination.
 
 Since the publication of the 2012 CCMP, several interstate watershed groups focused on the Taunton, Blackstone, and Wood-Pawcatuck watersheds have gained strength, visibility, and agency to pursue priorities at watershed scales. The SNEP Network, which provides technical assistance services to communities throughout Southern New England, emerged in 2019 as a crucial support and networking tool for communities seeking assistance with watershed planning. NBEP and partners will build upon these strengths to continue providing services to Massachusetts and Rhode Island partners while seeking to establish new partnerships with communities and organizations in the Little Narragansett Bay watershed in Connecticut.
 
-### Connectivity
+## Connectivity
 
 Actions reflect the importance of connection—people to people, people to natural spaces, watersheds to estuaries, and wildlife to their habitats—by protecting access, removing barriers, and facilitating dialogue.
 
 Habitat connectivity is a prime focus area for NBEP over the next ten years. Priorities include facilitating and funding progress on reconnecting rivers and streams from their headwaters to their receiving estuaries and connecting coastal marshes to uplands to facilitate marsh migration with rising seas. Local watershed groups have gained capacity in recent years and are in good position to continue driving connectivity projects that respond specifically to needs in their watersheds. Regional salt marsh working groups, including the Salt Marsh RAMP and the Massachusetts Ecosystem Climate Adaptation Network (Mass ECAN) Salt Marsh Working Group, have collaboratively pioneered techniques for restoring and reconnecting subsiding and drowning marshes and are working together to coordinate restoration and monitoring of large projects.
 
-### Resiliency
+## Resiliency
 
 Actions are responsive and resilient to extreme weather events, including more intense precipitation events, storm surge intensification, and higher sea levels. These impacts exacerbate coastal and rain-driven flooding while eroding coastlines, riverbanks, and marshes.
 
 States in the Narragansett Bay region are taking lead roles in planning and funding projects to increase the region’s resilience. The Massachusetts Municipal Vulnerability Preparedness (MVP) Program, first piloted in the Taunton River watershed, was established statewide in 2017 and has since 2018 provided over \$15M to communities in the Massachusetts portion of the Narragansett Bay region to increase their resiliency through vulnerability assessments and project planning. Rhode Island’s Municipal Resilience Program (MRP) has granted over \$18M to cities and towns between 2020–2024 to complete municipal-driven workshop processes and implement priority projects.
 
-### Fairness
+## Fairness
 
 Actions strive to deliver fair distribution of benefits.
 
 Since the publication of the 2012 CCMP, NBEP and partners have worked to plan for fairer distribution of environmental programs and benefits. For example, NBEP has intentionally invited more Massachusetts representatives to participate in its committees and working groups. As a result, NBEP has supported more projects and organizations in the region’s tributaries and watersheds in addition to projects in Narragansett Bay proper. Furthermore, NBEP has worked to engage new partners through grant programs, innovative outreach and convening, and research initiatives that elevate fishers and shellfishers, Tribes, and grassroots organizations.
 
-## CCMP Framework for Action
+# CCMP Framework for Action
 
 With partner consensus, NBEP set four major Goals for People, Water, Habitat, and Public Spaces. Goals are supported by four Action Plans with a hierarchy of 12 Objectives and 24 Actions for achieving those goals (Appendix B).
 
 **2026 CCMP Revision Strategy by Action Plan**
 
-|  **PEOPLE READY TO ACT** | **WATER QUALITY IMPROVEMENT** | **HABITAT PROTECTION AND RESTORATION** |  **PUBLIC SPACES ACCESSIBLE TO ALL** |
-|--------|--------|--------|--------|
-|  VISION: Informed and engaged partners are empowered to implement the CCMP. | VISION: Waters support healthy ecosystems and communities by meeting their designated uses, including healthy fish and wildlife habitat, drinking water supply, fishing, shellfish harvesting, and recreation. | VISION: Resilient and connected landscapes and waterways support healthy habitats and wildlife and provide people with ecosystem services like clean air and water, flood protection, recreation, and sustainable harvest. | VISION: All communities enjoy their right to safe access to nature. |
-| GOAL: Provide foundational knowledge, capacity, and drivers for CCMP implementation. | GOAL: Improve water quality to support healthy ecosystems and communities. | GOAL: Restore and protect habitats to support wildlife and people. | GOAL: Ensure all communities realize long-term benefits of healthy watersheds. | 
-|  OBJECTIVE 1: Increase meaningful and useful partner and public engagement. | OBJECTIVE 1: Improve collection and use of water quality data for decision-making. | OBJECTIVE 1: Improve collection and use of habitat data for decision-making. | OBJECTIVE 1: Increase managed public access to nature. |
-|  OBJECTIVE 2: Improve access to and use of information to improve ecosystem management and public understanding. |  OBJECTIVE 2: Reduce pollution from stormwater runoff. | OBJECTIVE 2: Improve habitat resilience. | OBJECTIVE 2: Improve communication about environmental health hazards. | 
-| OBJECTIVE 3: Accelerate CCMP implementation by supporting efforts to increase regional cooperation. |  OBJECTVIE 3: Reduce pollution from wastewater discharges, onsite wastewater systems, and combined sewer overflows. |  OBJECTIVE 3: Improve habitat connectivity and function. |  |
-| | OBJECTIVE 4: Reduce trash and marine debris pollution. | | |
+| **PEOPLE READY TO ACT** | **WATER QUALITY IMPROVEMENT** | **HABITAT PROTECTION AND RESTORATION** | **PUBLIC SPACES ACCESSIBLE TO ALL** |
+|------------------|------------------|------------------|------------------|
+| VISION: Informed and engaged partners are empowered to implement the CCMP. | VISION: Waters support healthy ecosystems and communities by meeting their designated uses, including healthy fish and wildlife habitat, drinking water supply, fishing, shellfish harvesting, and recreation. | VISION: Resilient and connected landscapes and waterways support healthy habitats and wildlife and provide people with ecosystem services like clean air and water, flood protection, recreation, and sustainable harvest. | VISION: All communities enjoy their right to safe access to nature. |
+| GOAL: Provide foundational knowledge, capacity, and drivers for CCMP implementation. | GOAL: Improve water quality to support healthy ecosystems and communities. | GOAL: Restore and protect habitats to support wildlife and people. | GOAL: Ensure all communities realize long-term benefits of healthy watersheds. |
+| OBJECTIVE 1: Increase meaningful and useful partner and public engagement. | OBJECTIVE 1: Improve collection and use of water quality data for decision-making. | OBJECTIVE 1: Improve collection and use of habitat data for decision-making. | OBJECTIVE 1: Increase managed public access to nature. |
+| OBJECTIVE 2: Improve access to and use of information to improve ecosystem management and public understanding. | OBJECTIVE 2: Reduce pollution from stormwater runoff. | OBJECTIVE 2: Improve habitat resilience. | OBJECTIVE 2: Improve communication about environmental health hazards. |
+| OBJECTIVE 3: Accelerate CCMP implementation by supporting efforts to increase regional cooperation. | OBJECTVIE 3: Reduce pollution from wastewater discharges, onsite wastewater systems, and combined sewer overflows. | OBJECTIVE 3: Improve habitat connectivity and function. |  |
+|  | OBJECTIVE 4: Reduce trash and marine debris pollution. |  |  |
 
-### Anatomy of an Action Brief
+## Anatomy of an Action Brief
 
 -   **Action Description and Statement of Need** – what partners and NBEP staff will do and why
 
@@ -98,7 +95,7 @@ With partner consensus, NBEP set four major Goals for People, Water, Habitat, an
 
 -   **Potential Funding Sources** – organizations or grants with potential to fund projects
 
-### Supporting Documents
+## Supporting Documents
 
 Implementation of the CCMP Strategy is supported by several overarching NBEP guidance documents:
 

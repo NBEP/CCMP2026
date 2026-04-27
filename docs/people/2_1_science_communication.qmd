@@ -1,0 +1,64 @@
+---
+title: "Action People-2.1: Science Communication Tools"
+format: html
+---
+
+Full Action Statement: Develop compelling open-source data visualizations, stories, and dashboards.
+
+# Action Description and Statement of Need
+
+This Action will develop science communication to inform and engage partners and other interested people on estuary and watershed science and restoration.
+
+Synthesizing and communicating estuarine and watershed science is foundational to protecting and restoring water quality and the ecological integrity of the Narragansett Bay region. Too often, science-based information is presented in dense academic literature and government reports, uses language that is not fully understood by non-scientists, and is in a form that is not available or useful to end users with the skills and agency to act. Additionally, information that is freely available may be out of date or incorrect and some information may only be accessible to a small number of people within an organization.
+
+NBEP strives to develop accurate, understandable, accessible, and up-to-date communication tools for groups as diverse as scientists, managers, public officials, educators, and private citizens. NBEP also hosts current and past plans, documents, and datasets in its website’s Resource Library and GIS Data Hub. Using data visualizations and dashboards to display environmental status and trends is a simple and elegant way to accurately and broadly communicate information in a timely, accessible fashion. Narrative stories and StoryMaps are also effective tools. Creating these tools using open-source software that is freely available without a commercial license ensures that tools can be widely shared, modified, and accessible to all.
+
+Through its roles to convene and synthesize and communicate science, NBEP will facilitate widespread adoption of open-source tools; collaborate with data developers, partners, and end users to develop tools that respond to current needs; and advertise new tools and develop training sessions for the tools, if necessary.
+
+# Potential Projects
+
+* Collaborate with local water quality monitoring groups and other National Estuary Programs to develop water quality dashboards that aid in analyzing and sharing data.
+
+* Create tool(s) to document and showcase habitat restoration projects in the region.
+
+* Build tool(s) to help local organizations prioritize areas for conservation or restoration.
+
+* Collaborate with data developers, NBEP committee experts, and end users to develop tools that respond to current needs.
+
+# Outputs
+
+* New tools
+
+* Ongoing maintenance and updates to existing tools
+
+# Outcomes
+
+* Greater ability for end users to understand technical issues and be proactive
+
+* Decreased technical debt and shorter, more efficient workflows for local organizations, leading to faster data analysis and availability
+
+# Indicators
+
+All indicators
+
+# NBEP role
+
+Convene, Synthesize and communicate science
+
+# Implementing Partners
+
+Steering Committee, Science Advisory Committee
+
+# Location
+
+Narragansett Bay region
+
+# Timeline for initiation
+
+Ongoing
+
+# Estimated costs/potential funding sources
+
+\$10K–500K (NBEP staff time)
+
+NBEP 320/SNEP

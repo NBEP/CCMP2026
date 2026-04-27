@@ -1,10 +1,38 @@
 project:
-  title: "2026 Revision to the Comprehensive Conservation and Management Plan for the Narragansett Bay Region"
+  title: "2026 CCMP"
+  type: website
+
+website:
+  title: "NBEP Internal SOPs"
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - text: "Home"
+        href: index.qmd
+      - text: "Preface"
+        href: docs/preface.qmd
+      - text: "About the Narragansett Bay Region"
+        href: docs/about_region.qmd
+      - text: "About NBEP"
+        href: docs/about_nbep.qmd
+      - text: "About the CCMP Vision and Strategy"
+        href: docs/about_ccmp.qmd
+      - text: "People Ready to Act Action Plan"
+        href: docs/people/action_plan.qmd
+      - text: "Water Quality Improvement Action Plan"
+      - text: "Habitat Protection and Restoration Action Plan"
+      - text: "Public Spaces Accessible to All Action Plan"
+      - text: "Acronyms"
+      - text: "References"
+      - text: "Appendices"
 
 format:
   html:
     toc: true
     toc-depth: 2
+    code-overflow: wrap
+    link-external-icon: true
+    link-external-newwindow: true
 
 editor: visual
-

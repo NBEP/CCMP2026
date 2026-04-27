@@ -1,0 +1,72 @@
+---
+title: "Action People-1.2: Research Plan"
+format: html
+---
+
+Full Action Statement: Implement the NBEP Research Plan and Coastal Urban Waters Research Collaborative.
+
+# Action Description and Statement of Need
+
+This Action will implement the NBEP Research Plan (NBEP 2024) to synthesize existing research and, with the guidance of the Science Advisory Committee, prioritize new topics for NBEP investment and identify key knowledge gaps.
+
+The Research Plan unites the scientific interests of NBEP partners to meet the research needs of the CCMP and inform management decisions. Implementation of the Research Plan will:
+
+* Further develop metrics and update indicators of environmental and socioeconomic conditions ([Action: People-2.3](2_3_indicators.qmd))
+
+* Support, improve, and create efficiencies for ecosystem modeling to answer complex questions and improve ecosystem management ([Action: People-2.2](2_2_ecosystem_modeling.qmd))
+
+* Create shared ecosystem restoration targets that span boundaries ([Action: People-3.2](3_2_regional_targets.qmd))
+
+The Research Plan responds to NBEP Science Advisory Committee (SAC) priorities, including synthesis of existing data, collection of baseline and new data, analysis and modeling, and information sharing. A new Coastal Urban Waters Research Collaboration, composed of NBEP Science Advisory Committee (SAC) members, researchers, managers, and local experts, will focus on the region’s coastal urban sub-watersheds Hydrologic Unit Code 12 (HUC12). The initial focus is on the Providence-Seekonk Rivers, which continue to exhibit water quality concerns including low dissolved oxygen and elevated pathogens. Over the next ten years, as resources allow, NBEP will expand the collaborations into Fall River and the Westerly-Stonington areas.
+
+NBEP will fund implementation of the Research Plan through requests for proposals, direct awards, and contracts.
+
+# Potential Projects
+
+* Convene Coastal Urban Waters Research Collaborative focused on the Providence River Estuary, and as time allows, additional focus areas.
+
+* Conduct literature reviews of the three priority coastal urban centers (Providence, Fall River, and Westerly) to identify data resources, seminal papers, and links to other reviews and analyses.
+
+* Compile and improve information sharing on planned and completed research related to the NBEP region.
+
+* Develop requests for proposals or direct awards to implement the Research Plan.
+
+# Outputs
+
+* Ongoing meetings of the Coastal Urban Waters Research Collaborative
+
+* Requests for proposals that advance research needs identified in the Research Plan
+
+* Biennial updates to the Research Plan, including evaluations of Plan implementation
+
+# Outcomes
+
+* Articulated research needs to advance NBEP priorities
+
+* Enhanced interdisciplinary networks of researchers, managers, and local people
+
+# Indicators
+
+All indicators
+
+# NBEP role
+
+Convene, Synthesize and communicate science, Fund capacity and projects
+
+# Implementing Partners
+
+Science Advisory Committee and other researchers from management agencies, NGOs, and academia
+
+# Location
+
+Narragansett Bay region, focusing on the coastal urban sub-watersheds (HUC12 scale)
+
+# Timeline for initiation
+
+Ongoing
+
+# Estimated costs/potential funding sources
+
+\$5M–10M
+
+NBEP 320/SNEP, Rhode Island Sea Grant, NOAA, NSF, private foundations
