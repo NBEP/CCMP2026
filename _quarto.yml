@@ -4,26 +4,45 @@ project:
 
 website:
   title: "NBEP 2026 CCMP"
+  page-navigation: true
+  navbar:
+    background: primary
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        menu:
+          - docs/preface.qmd
+          - docs/about_region.qmd
+          - docs/about_nbep.qmd
+          - docs/about_ccmp.qmd
+      - text: "Action Plans"
+        menu:
+          - docs/people_action_plan.qmd
+      - text: "Appendices"
+        menu:
+          - docs/acronyms.qmd
   sidebar:
     style: "docked"
     search: true
+    collapse-level: 1
     contents:
       - text: "Home"
         href: index.qmd
-      - text: "Preface"
-        href: docs/preface.qmd
-      - text: "About the Narragansett Bay Region"
-        href: docs/about_region.qmd
-      - text: "About NBEP"
-        href: docs/about_nbep.qmd
-      - text: "About the CCMP Vision and Strategy"
-        href: docs/about_ccmp.qmd
+      - docs/preface.qmd
+      - section: "About"
+        contents:
+        - docs/about_region.qmd
+        - docs/about_nbep.qmd
+        - docs/about_ccmp.qmd
       - section: "People Ready to Act"
-        contents: docs/people/*
+        contents:
+        - docs/people_action_plan.qmd
+        - auto: "docs/people/*"
       - text: "Water Quality Improvement Action Plan"
       - text: "Habitat Protection and Restoration Action Plan"
       - text: "Public Spaces Accessible to All Action Plan"
-      - text: "Acronyms"
+      - docs/acronyms.qmd
       - text: "References"
       - text: "Appendices"
 

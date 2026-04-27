@@ -18,29 +18,29 @@ NBEP will collaborate with partners to convene interests across state boundaries
 
 # Potential Projects
 
-* Convene stakeholders and other experts to review available modeling tools and their limitations.
+-   Convene stakeholders and other experts to review available modeling tools and their limitations.
 
-* Convene partners to build consensus on pathways for development of validated and calibrated bay water quality and ecosystem models to support management and assist in setting restoration targets.
+-   Convene partners to build consensus on pathways for development of validated and calibrated bay water quality and ecosystem models to support management and assist in setting restoration targets.
 
-* Collaborate with data developers, NBEP committee experts, and end users to develop technical tools that respond to current needs.
+-   Collaborate with data developers, NBEP committee experts, and end users to develop technical tools that respond to current needs.
 
-* Develop and/or update natural heritage database models to inform land use decisions.
+-   Develop and/or update natural heritage database models to inform land use decisions.
 
 # Outputs
 
-* Assessment of existing water quality and hydrodynamic models, their intended use, and a pathway toward a larger, linked hydrodynamic model
+-   Assessment of existing water quality and hydrodynamic models, their intended use, and a pathway toward a larger, linked hydrodynamic model
 
-* Assessment of data needs for existing models and tools
+-   Assessment of data needs for existing models and tools
 
-* Working group meetings
+-   Working group meetings
 
 # Outcomes
 
-* More efficient and accurate modeling tools for decision-making and policy
+-   More efficient and accurate modeling tools for decision-making and policy
 
-* Broader understanding of available modeling tools and their applicability to resource management
+-   Broader understanding of available modeling tools and their applicability to resource management
 
-* Ecosystem management that is better informed by modeling and monitoring data
+-   Ecosystem management that is better informed by modeling and monitoring data
 
 # Indicators
 

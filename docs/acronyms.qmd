@@ -1,0 +1,91 @@
+---
+title: "Acronyms"
+---
+
+|  |  |
+|---------------|---------------------------------------------------------|
+| ADA | Americans with Disabilities Act |
+| BMP | Best Management Practice |
+| BORIIS2 | Biota of Rhode Island Information System 2 |
+| CCMP | Comprehensive Conservation and Management Plan |
+| CFRF | Commercial Fisheries Research Foundation |
+| CRC | Coastal Resources Center |
+| CRMC | Rhode Island Coastal Resources Management Council |
+| CSO | Combined Sewer Overflow |
+| CSS | Combined Sewer System |
+| CT | Connecticut |
+| CT DEEP | Connecticut Department of Energy and Environmental Protection |
+| CWA | Clean Water Act |
+| CZM | Coastal Zone Management |
+| DO | Dissolved Oxygen |
+| EPA | U.S. Environmental Protection Agency |
+| EPA NCCA | EPA National Coastal Condition Assessment |
+| EPA NPDES | EPA National Pollution Discharge Elimination System |
+| EPA ORD-ACESD | EPA Office of Research and Development, Atlantic Coastal Environmental Sciences Division |
+| EPA WQX | EPA Water Quality Exchange |
+| FEMA | Federal Emergency Management Agency |
+| GIS | Geographic Information System |
+| HAB | Harmful Algal Bloom |
+| HUC12 | Hydrologic Unit Code 12 |
+| IIJA | Infrastructure Investment and Jobs Act |
+| LID | Low Impact Development |
+| MA | Massachusetts |
+| MA CZM | Massachusetts Office of Coastal Zone Management |
+| MADMF | Massachusetts Division of Marine Fisheries |
+| MassDOT | Massachusetts Department of Transportation |
+| MassECAN | Massachusetts Ecosystem Climate Adaptation Network |
+| MA EOEEA | Massachusetts Executive Office of Energy and Environmental Affairs |
+| MassDEP | Massachusetts Department of Environmental Protection |
+| MA DER | Massachusetts Division of Ecological Restoration |
+| MassWildlife | Massachusetts Division of Fisheries and Wildlife |
+| MRP | Municipal Resilience Program |
+| MS4 | Municipal Separate Storm Sewer System |
+| MVP | Municipal Vulnerability Preparedness Program |
+| NAACC | North Atlantic Aquatic Connectivity Collaborative |
+| NBC | Narragansett Bay Commission |
+| NBEP | Narragansett Bay Estuary Program |
+| NBNERR | Narragansett Bay National Estuarine Research Reserve |
+| NEIWPCC | New England Interstate Water Pollution Control Commission |
+| NEP | National Estuary Program |
+| NFWF | National Fish and Wildlife Foundation |
+| NGO | Non-Governmental Organization |
+| NOAA | National Oceanic and Atmospheric Administration |
+| NOAA B-WET | NOAA Bay Watershed Education and Training |
+| NPDES | National Pollutant Discharge Elimination System |
+| NRA | Natural Resource Area |
+| NRCS | National Resource Conservation Service |
+| NRCS EQIP | NRCS Environmental Quality Incentives Program |
+| NRICD | Northern Rhode Island Conservation District |
+| OWTS | Onsite Wastewater Treatment Systems |
+| PCB | Polychlorinated Biphenyl |
+| PFAS | Per- and polyfluoroalkyl substances |
+| RAMP | Restoration, Assessment, and Monitoring Program |
+| RI | Rhode Island |
+| RIDEM | Rhode Island Department of Environmental Management |
+| RIDOT | Rhode Island Department of Transportation |
+| RIEMC | Rhode Island Environmental Monitoring Collaborative |
+| RINHS | Rhode Island Natural History Survey |
+| RIPDES | Rhode Island Point Discharge Elimination System |
+| RIRRC | Rhode Island Resource Recovery Corporation |
+| RWU | Roger Williams University |
+| SAC | NBEP Science Advisory Committee |
+| SAMP | Special Area Management Plan |
+| SLAMM | Sea Level Affecting Marshes Model |
+| SLR | Sea Level Rise |
+| SNEP | Southeast New England Program |
+| SRPEDD | Southeastern Regional Planning and Economic Development District |
+| TMDL | Total Maximum Daily Load |
+| TNC | The Nature Conservancy |
+| TNC-MA | The Nature Conservancy - Massachusetts |
+| TNC-RI | The Nature Conservancy - Rhode Island |
+| UMass | University of Massachusetts |
+| URI | University of Rhode Island |
+| URI-CI | University of Rhode Island - Coastal Institute |
+| USACE | U.S. Army Corps of Engineers |
+| USDOE | U.S. Department of Education |
+| USDOI | U.S. Department of Interior |
+| USDOT | U.S. Department of Transportation |
+| USFS | U.S. Forest Service |
+| USFWS | U.S. Fish and Wildlife Service |
+| USGS | United States Geological Survey |
+| WWTF | Wastewater Treatment Facility |

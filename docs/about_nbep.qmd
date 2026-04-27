@@ -1,6 +1,5 @@
 ---
 title: "About NBEP"
-format: html
 ---
 
 NBEP is a catalyst for scientific inquiry and collective action to restore and protect water quality, wildlife, and quality of life in the Narragansett Bay region, including Narragansett Bay, Little Narragansett Bay, the Coastal Salt Ponds, and their watersheds. NBEP envisions clean water and habitat to sustain all who live, work and play in the Narragansett Bay region. Hosted by Roger Williams University (RWU), with a staff of five and governed by a 28-member Steering Committee, NBEP is the only partner-led organization pursuing place-based conservation across the three-state Narragansett Bay region of Rhode Island, Massachusetts, and Connecticut.

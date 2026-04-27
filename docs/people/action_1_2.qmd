@@ -10,11 +10,11 @@ This Action will implement the NBEP Research Plan (NBEP 2024) to synthesize exis
 
 The Research Plan unites the scientific interests of NBEP partners to meet the research needs of the CCMP and inform management decisions. Implementation of the Research Plan will:
 
--   Further develop metrics and update indicators of environmental and socioeconomic conditions (Action: [People-2.3](2_3_indicators.qmd))
+-   Further develop metrics and update indicators of environmental and socioeconomic conditions (Action: [People-2.3](action_2_3.qmd))
 
--   Support, improve, and create efficiencies for ecosystem modeling to answer complex questions and improve ecosystem management (Action: [People-2.2](2_2_ecosystem_modeling.qmd))
+-   Support, improve, and create efficiencies for ecosystem modeling to answer complex questions and improve ecosystem management (Action: [People-2.2](action_2_2.qmd))
 
--   Create shared ecosystem restoration targets that span boundaries (Action: [People-3.2](3_2_regional_targets.qmd))
+-   Create shared ecosystem restoration targets that span boundaries (Action: [People-3.2](action_3_2.qmd))
 
 The Research Plan responds to NBEP Science Advisory Committee (SAC) priorities, including synthesis of existing data, collection of baseline and new data, analysis and modeling, and information sharing. A new Coastal Urban Waters Research Collaboration, composed of NBEP Science Advisory Committee (SAC) members, researchers, managers, and local experts, will focus on the region’s coastal urban sub-watersheds Hydrologic Unit Code 12 (HUC12). The initial focus is on the Providence-Seekonk Rivers, which continue to exhibit water quality concerns including low dissolved oxygen and elevated pathogens. Over the next ten years, as resources allow, NBEP will expand the collaborations into Fall River and the Westerly-Stonington areas.
 

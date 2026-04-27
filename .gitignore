@@ -11,3 +11,4 @@ renv.lock
 *.html
 /_site/site_libs
 _site/search.json
+/_site
