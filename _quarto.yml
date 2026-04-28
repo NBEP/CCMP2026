@@ -47,7 +47,10 @@ website:
         contents:
         - docs/habitat_action_plan.qmd
         - auto: "docs/habitat/*"
-      - text: "Public Spaces Accessible to All Action Plan"
+      - section: "Public Spaces Accessible to All"
+        contents:
+        - docs/public_spaces_action_plan.qmd
+        - auto: "docs/public_spaces/*"
       - docs/acronyms.qmd
       - text: "References"
       - text: "Appendices"

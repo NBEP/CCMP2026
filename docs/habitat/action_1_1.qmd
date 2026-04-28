@@ -1,4 +1,85 @@
 ---
-title: "action_1_1"
+title: "Action Habitat-1.1: Biodiversity and Habitat Quality Monitoring"
 ---
 
+Full Action Statement: Support, improve, and create efficiencies for monitoring and documenting biodiversity and habitat quality.
+
+# Action Description and Statement of Need
+
+This Action will monitor and document the region’s biodiversity, habitat quality, and habitat restoration project impacts.
+
+Significant monitoring of the Narragansett Bay region’s natural habitats and biodiversity takes place at broad and project-specific scales. Biodiversity and habitat monitoring is integral to understanding the impacts of upland development, restoration efforts, changing water quality, impacts of extreme weather, and socioeconomic pressure on natural resources and biodiversity.
+
+Monitoring has been managed by multiple groups—federal, state, and municipal agencies, non-profits, NGOs, universities, and communities—that collaborate to establish protocols to ensure consistent and useful data are delivered to resource managers, decision-makers, and the public. While many agencies and organizations freely share their data, locating and accessing these data can be challenging. In addition, maintaining funding and capacity (both paid and volunteer) to collect, quality control, evaluate, and publish monitoring data remains a perennial challenge. Integrating existing monitoring data strategically can improve efficiency, highlight spatial or temporal gaps, and inform capacity issues.
+
+Post-restoration monitoring is essential to determine restoration successes and lessons learned, as well as determining the long-term ecosystem resilience capabilities of restored habitats. Challenges such as extreme weather, rising seas, and rising temperatures will impact habitats and restoration project outcomes. Monitoring these changes is important for assessing and anticipating the changing management and restoration needs of ecosystems and coastal communities.
+
+NBEP will convene and collaborate with appropriate partners throughout the region to coordinate or otherwise support habitat and biodiversity monitoring activities to address management questions and needs. Activities could include updating methodologies, expanding monitoring into new locations, and revising protocols to prioritize efficiency and incorporate new partners. NBEP will also work with partners to develop and/or update monitoring databases and connect users with habitat and biodiversity data.
+
+# Potential Projects
+
+- Convene interstate interests to coordinate and standardize monitoring activities and methods, including developing new or expanding current monitoring activities (such as seagrass, salt marsh, macroalgae, and cyanobacteria monitoring), and ensure that monitoring aligns with management questions and needs.
+
+- Develop and/or update natural heritage databases for the states as needed, including BORIIS2 and BioMap2.
+
+- Support development of partner-driven habitat and biodiversity monitoring data clearinghouse tools.
+
+- Develop data visualization tools to encourage coordination on restoration projects.
+
+- Support innovations in monitoring strategies that bring efficiencies to and build capacity for data collection and encourage community science programs that help fill priority data gaps.
+
+- Support partners to develop and expand sentinel habitat monitoring sites to explore changes to the habitat with time and under changing conditions.
+
+- Convene and support partners to explore seagrass restoration using seed-dispersal and other techniques.
+
+# Outputs
+
+- New monitoring protocols or programs from new or expanded monitoring activities
+
+- Updated natural heritage databases and State Wildlife Action Plans
+
+- Clearinghouse tool connecting users with data
+
+- Data visualization tools highlighting restoration and monitoring efforts
+
+- Working group meetings to convene on priority topics in the watershed
+
+- Reports on select monitoring objectives
+
+# Outcomes
+
+- Coordinated and efficient monitoring activities
+
+- Improved collection and use of natural heritage information
+
+- Enhanced understanding of ecosystem monitoring gaps and mechanisms to fill them
+
+- Increased understanding of characteristics and changes in the Narragansett Bay region over time
+
+- Ecosystem management that is better informed by monitoring
+
+# Indicators
+
+All indicators
+
+# NBEP role
+
+Convene, Fund capacity and projects
+
+# Implementing Partners
+
+RIDEM, MassDEP, URI Coastal Institute, RI Environmental Monitoring Collaborative, RINHS, NBNERR, Mass Audubon, MassWildlife, TNC (RI and MA), ASRI, Salt Ponds Coalition, URI Watershed Watch, Save The Bay, Brown University, URI, EPA-ORD-ACESD, EPA Region 1
+
+# Location
+
+Narragansett Bay region
+
+# Timeline for initiation
+
+Ongoing
+
+# Estimated costs/potential funding sources
+
+\$1M–5M
+
+NBEP 320/SNEP, National Science Foundation, Congressionally Directed Spending, Foundation Grants, URI-CI, RIDEM, MassDEP, TNC

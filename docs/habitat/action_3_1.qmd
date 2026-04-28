@@ -1,0 +1,77 @@
+---
+title: "Action Habitat-3.1: Aquatic Connectivity"
+---
+
+Full Action Statement: Reconnect freshwater and saltwater systems and improve connectivity within freshwater systems to restore habitats and fisheries.
+
+# Action Description and Statement of Need
+
+This Action will accelerate planning and implementation of projects that improve and restore connectivity within freshwater systems and between freshwater and saltwater systems, such as removing dams and impoundments, replacing culverts, creating fish passageways, naturalizing river channels, and restoring tidal connections. These projects will improve safety, instream water quality and hydrology, wildlife habitat, and cultural and recreational opportunities. To deliver ecosystem benefits, structural improvements should be accompanied by system or sub-watershed scale improvements to reduce stormwater, nutrients, and contaminants (CCMP Water Quality Improvement Action Plan, Bernhardt and Palmer 2011, Wohl *et al.* 2015).
+
+Many dams and undersized culverts were not built to accommodate more intense storms and nuisance flooding, therefore posing significant threats if they fail (NBEP 2021e). Furthermore, abundances of diadromous forage fishes for commercially important fisheries like herring, shad, and eel have declined due to being cut off from spawning habitats. The extent of local cold-water fisheries like brook trout in watershed headwaters are limited by lack of adequate localized habitat connectivity. Resident fish, invertebrates and other aquatic life are also impacted negatively.
+
+Efforts to remove barriers to address safety concerns, improve fishery habitat, and address flood risk from undersized infrastructure have increased significantly over the last decade. For example, from 2010 to 2017, seven dams were removed from the Pawcatuck River and replaced with nature-like rock fishways to allow fish to move 20 miles upstream to historical spawning areas. Remaining restoration priorities include extending passage on the Pawcatuck River with a focus on cold-water streams in the upper watershed, removing barriers in tributaries of the Taunton River, and establishing fish passage between the Blackstone River and Narragansett Bay for the first time since the Industrial Revolution. In 2019, partners convened to reignite planning for the Lower Blackstone Fish Passage Project to achieve fish passage over the four lowest dams on the river.
+
+Despite progress, many challenges face restoration practitioners. Chief among these is the cost of implementing a project from start to finish—often over \$1 million to achieve design, permitting, and construction on a single road culvert. With thousands of undersized culverts and remnant dams across the watershed, there is a clear need to realize efficiencies in design and permitting steps to make any meaningful progress toward connectivity goals. Also important is the presence of contaminated sediments in the region’s river systems, particularly those that have seen industrial use like the Blackstone River. The possible threat of contaminated sediments often stops dam removal projects before they even begin, yet current information about sediment quality in the region’s rivers is nonexistent or difficult to find. A comprehensive effort to document information about sediment quality and fill information gaps where needed would accelerate restoration efforts.
+
+NBEP will convene workgroups to share information, identify and prioritize projects, realize efficiencies to accelerate projects, support work to better understand sediment quality in the region’s rivers, and maintain priority project databases. NBEP will also help fund community outreach and project planning for priority dam removal, culvert replacement, and fish passage projects.
+
+# Potential Projects
+
+- Identify and prioritize opportunities to restore diadromous fish and to address high-hazard barriers; develop site-specific information and tools to assist decision-making, including cost-benefit analyses.
+
+- Conduct a comprehensive assessment of sediment contamination in the Blackstone River and its tributaries, as well as other rivers and streams with widespread sediment contamination concerns, to inform dam removal efforts.
+
+- Partner with federal, state, and local agencies, officials, and indigenous communities to secure funding for large connectivity construction projects, including Lower Blackstone and other high priority areas.
+
+- Conduct training opportunities to assess culverts and dams for safety, resilience to heavy precipitation events, and aquatic connectivity restoration opportunities.
+
+- Incorporate North Atlantic Aquatic Connectivity Collaborative (NAACC) connectivity data into decision-making processes for culvert replacements.
+
+- Engage communities in connectivity efforts to understand community priorities, provide information about common concerns like toxic sediments, water quality, water level changes, and organize support for connectivity projects.
+
+- Work with Dam Safety offices to incorporate potential alternatives into dam emergency scenarios that account for connectivity restoration opportunities.
+
+# Outputs
+
+- Working group meetings
+
+- Updated Rhode Island Anadromous Fish Restoration Plan
+
+- A prioritized list of connectivity needs for the six major basins in the region
+
+- Additional connectivity project designs completed
+
+- Outreach materials to support community engagement about ecosystem changes and post-dam removal, including water level changes, toxic sediments, and water quality
+
+# Outcomes
+
+- Reconnection of miles of river and acres of habitat
+
+- Return of diadromous fish to river systems
+
+# Indicators
+
+Temperature, Precipitation, Sea Level Rise, Stream Invertebrates, Aquatic Life Use General, Recreation Use, Coldwater Fisheries
+
+# NBEP role
+
+Convene, Synthesize and communicate science, Fund capacity and projects
+
+# Implementing Partners
+
+EPA, The Nature Conservancy in Rhode Island, Blackstone Watershed Collaborative, Save The Bay, Mass Audubon, Woonasquatucket River Watershed Council, RIRC, SRPEDD, RIDEM, RIDOT, MA EOEEA, MA DER, Narragansett Indian Tribe, Hassanamisco Nipmuc Band, Blackstone River Watershed Council, RI Saltwater Anglers Association
+
+# Location
+
+Narragansett Bay region
+
+# Timeline for initiation
+
+Ongoing
+
+# Estimated costs/potential funding sources
+
+\$10M+
+
+NBEP 320/SNEP, NBEP IIJA, EPA SNEP, NOAA, NFWF, USDOT, USDOE, RIDEM, MA DER, MADOT, FEMA, Private Foundations
