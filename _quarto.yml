@@ -39,8 +39,14 @@ website:
         contents:
         - docs/people_action_plan.qmd
         - auto: "docs/people/*"
-      - text: "Water Quality Improvement Action Plan"
-      - text: "Habitat Protection and Restoration Action Plan"
+      - section: "Water Quality Improvement"
+        contents:
+        - docs/water_action_plan.qmd
+        - auto: "docs/water/*"
+      - section: "Habitat Protection and Restoration"
+        contents:
+        - docs/habitat_action_plan.qmd
+        - auto: "docs/habitat/*"
       - text: "Public Spaces Accessible to All Action Plan"
       - docs/acronyms.qmd
       - text: "References"

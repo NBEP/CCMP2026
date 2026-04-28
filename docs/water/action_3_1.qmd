@@ -1,0 +1,77 @@
+---
+title: "Action Water-3.1: Centralized Wastewater Infrastructure"
+---
+
+Full Action Statement: Prioritize and support wastewater treatment facility and combined sewer system infrastructure upgrades to improve treatment of pollutants and increase resilience.
+
+# Action Description and Statement of Need
+
+This action supports continued upgrades at WWTFs and their associated infrastructure to improve treatment of pollutants and increase resilience.
+
+Centralized WWTFs are regulated by delegated state National Pollution Discharge Elimination System (NPDES) programs in Rhode Island and Connecticut, and Environmental Protection Agency National Pollutant Discharge Elimination System (EPA NPDES) permits in Massachusetts. Rhode Island and Massachusetts have made strides to improve nutrient treatment at facilities that discharge to Narragansett Bay and its tributaries. Between 2000–2012, summer nitrogen loadings to Narragansett Bay were reduced by 50 percent due to upgrades to nutrient treatment capacity at WWTFs in Rhode Island and Massachusetts. Between 2016–2021, nitrogen loads were reduced by 70–76 percent when compared to pre-nitrogen reduction efforts in the early 2000s (RIDEM 2024b). Further, significant work is ongoing to reduce combined sewer overflows by repairing and replacing sewer infrastructure and constructing large stormwater collection tunnels (see RestoredWatersRI callout).
+
+As of Summer 2025, final design of upgrades to the City of Westerly’s wastewater treatment facility, which discharges to the Pawcatuck River, have been completed to meet new reduced nutrient limits in their Rhode Island Pollutant Discharge Elimination System (RIPDES) permit, with construction planned through fall of 2028. Upgrades may also be necessary at previously upgraded facilities to maintain pollution reductions or add treatment for other pollutants, such as contaminants of emerging concern. Upgrades should be prioritized based on permit compliance status, extreme weather impact risk, and other factors. As of 2018, RIDEM has included a resiliency planning condition in wastewater treatment facility RIPDES permits as they are reissued. These planning conditions require that treatment facilities develop a schedule of short- and long-term actions that will be taken to maintain operation and protect key collection and treatment system assets in the event of intensifying weather.
+
+The Water Utility Resilience Program in Massachusetts supports local drinking water and wastewater utilities in their efforts to improve resilience to extreme weather impacts. The Program develops and maintains statewide critical infrastructure maps and service maps to enhance critical infrastructure resilience planning, asset management planning, and adaptation to extreme weather. The ResilientMass Plan (Massachusetts 2023) guides efforts for wastewater utilities to integrate resilience strategies into their operations, addressing extreme weather, flood potential, and aging infrastructure.
+
+Alongside facility upgrades, continuing efforts are needed to address conveyance infrastructure, which has generally deteriorated over time, leading to increased sanitary sewer overflows. Further, increasing the implementation of low-impact development practices in new and redevelopment is necessary to reduce current and future burdens on treatment infrastructure (Action Water-1.2: Land Use and Watershed Planning).
+
+NBEP will support partners in the implementation of this action. In addition, NBEP can work with partners to track permit compliance at WWTFs to prioritize upgrades.
+
+# Potential Projects
+
+- Compile a matrix of WWTFs with estimated pollutant loadings, major infrastructure projects, and track the status of permit compliance and project completion to foster community support and awareness.
+
+- Continue to implement Narragansett Bay Commission’s Phase III CSO Project in RI.
+
+- Continue to explore options for expanding the types of projects aligned with the CCMP that might benefit from participation in the Clean Water State Revolving Fund.
+
+- Support CSO operators to implement Long Term Control Plans and associated public outreach campaigns.
+
+# Outputs
+
+- Report card identifying permit compliance or changes to pollution loading at WWTFs
+
+- Treatment capacity upgraded/compliance achieved by WWTFs in the region
+
+- Continued implementation of Narragansett Bay Commission Phase III combined sewer overflow project
+
+- Annual WWTF tracking internship maintained for at least five years
+
+- Improved access for municipalities to funding for infrastructure projects
+
+# Outcomes
+
+- Greater community awareness and support for wastewater treatment facility infrastructure projects
+
+- Greater Clean Water Act compliance at WWTFs and in receiving waters
+
+- More resilient WWTFs
+
+- Reduced wastewater pollution discharges to waterbodies and improved water quality
+
+# Indicators
+
+Precipitation, Sea Level, Population, Impervious Cover, Wastewater Infrastructure, Nutrient Loading, Legacy Contaminants, Emerging Contaminants, Dissolved Oxygen, Chlorophyll, Water Clarity, Water Quality Condition for Aquatic Life, Water Quality Condition for Recreation, Marine Beaches, Shellfishing Areas
+
+# NBEP role
+
+Synthesize and communicate science
+
+# Implementing Partners
+
+EPA Region 1, Narragansett Bay Commission, Upper Blackstone Clean Water, Blackstone Watershed Collaborative, Taunton River Watershed Alliance, Save The Bay, NEIWPCC, RIDEM, MA EOEEA
+
+# Location
+
+Narragansett Bay region
+
+# Timeline for initiation
+
+Ongoing
+
+# Estimated costs/potential funding sources
+
+\$10M+
+
+EPA SNEP, RI and MA Clean Water State Revolving Funds
