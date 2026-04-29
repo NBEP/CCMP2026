@@ -16,7 +16,7 @@ NBEP’s first CCMP was adopted in 1992, then updated in 2012 (NBEP 2012). In 20
 
 -   a dedicated website providing public access to planning materials and meeting invitations
 
-NBEP’s process focused on priority actions that NBEP and its partners have the expertise and agency to complete within ten years, rather than long lists of aspirational actions. A crosswalk of the status of 2012 CCMP Actions versus 2026 CCMP Actions highlights the more focused approach (Appendix C).
+NBEP’s process focused on priority actions that NBEP and its partners have the expertise and agency to complete within ten years, rather than long lists of aspirational actions. A crosswalk of the status of 2012 CCMP Actions versus 2026 CCMP Actions highlights the more focused approach ([Appendix C](appendix/appendix_c.qmd)).
 
 # Strategic Lenses for Action
 
@@ -48,7 +48,7 @@ Since the publication of the 2012 CCMP, NBEP and partners have worked to plan fo
 
 # CCMP Framework for Action
 
-With partner consensus, NBEP set four major Goals for People, Water, Habitat, and Public Spaces. Goals are supported by four Action Plans with a hierarchy of 12 Objectives and 24 Actions for achieving those goals (Appendix B).
+With partner consensus, NBEP set four major Goals for People, Water, Habitat, and Public Spaces. Goals are supported by four Action Plans with a hierarchy of 12 Objectives and 24 Actions for achieving those goals ([Appendix B](appendix/appendix_b.qmd)).
 
 **2026 CCMP Revision Strategy by Action Plan**
 

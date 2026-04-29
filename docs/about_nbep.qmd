@@ -140,7 +140,7 @@ NBEP pursues independent convening, planning, and consensus-building among diver
 
 NBEP provides scientific data analysis and communication using innovative storytelling and open-source web application tools to investigate complex socioenvironmental topics. NBEP serves as a hub for information-sharing tools such as:
 
--   2017 State of Narragansett Bay and its Watershed Report: This technical report, co-authored by NBEP and partners, describes 24 environmental and socioeconomic condition and stressor indicators that assess Narragansett Bay and its watershed (NBEP 2017). Since publication, NBEP has updated numerous indicators with more recent data, added new focus areas to existing indicators, and expanded indicators to cover the entire Narragansett Bay region to include the Rhode Island Coastal Ponds, Little Narragansett Bay, and their respective watersheds (See Appendix A).
+-   2017 State of Narragansett Bay and its Watershed Report: This technical report, co-authored by NBEP and partners, describes 24 environmental and socioeconomic condition and stressor indicators that assess Narragansett Bay and its watershed (NBEP 2017). Since publication, NBEP has updated numerous indicators with more recent data, added new focus areas to existing indicators, and expanded indicators to cover the entire Narragansett Bay region to include the Rhode Island Coastal Ponds, Little Narragansett Bay, and their respective watersheds (See [Appendix A](appendix/appendix_a.qmd)).
 
 -   A publicly-accessible GIS Data Hub that facilitates data-sharing and hosts interactive maps and StoryMaps to dive into complex topics, including:
 
