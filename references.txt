@@ -1,0 +1,127 @@
+August, P. 2019. High Resolution Salt Marsh Mapping Using Unmanned Aerial Systems (UAS) in Rhode Island. NBEP-2019-001. 11 pp. [PDF: https://static1.squarespace.com/static/5eea260cea828333324dba1c/t/5fc951e73825126da63c3995/1607029247050/NBEP-19-219.pdf].
+
+Bernhardt, E.S. and M.A. Palmer. 2011. River restoration—The fuzzy logic of repairing reaches to reverse watershed scale degradation. Ecological Applications 21: 1926–1931. [DOI: 10.1890/10-1574.1].
+
+Burman E., K. Mulvaney, N. Merrill, M. Bradley, and C. Wigand. 2023. Hazardous and contaminated sites within salt marsh migration corridors in Rhode Island, USA. Journal of Environmental Management 331:117218. [DOI: 10.1016/j.jenvman.2023.117218].
+
+Cohen, E. 2015. Closing the Gap: Public and Private Funding Strategies for Neighborhood Parks. City Parks Alliance and Minneapolis Park and Recreation Board. 34 pp. CRMC (Coastal Resources Management Council). 2015. The Rhode Island Sea Level Affecting Marshes Model (SLAMM) Project Summary Report. Coastal Resources Management Council. 25 pp.
+
+Cole, M. L., Kroeger, K. D., McClelland, J. W., Valiela, I. 2006. Effects of watershed land use on nitrogen concentrations and delta(15) nitrogen in groundwater. Biogeochemistry 77 (2) 199– 215
+
+CT DEEP (Connecticut Department of Energy and Environmental Protection). 2024. Connecticut Stormwater Quality Manual. 564 pp.
+
+CWP (Center for Watershed Protection). 2003. Impacts of Impervious cover on Aquatic Systems. Watershed Protection Research Monograph No. 1. Center for Watershed Protection. Ellicott City. Maryland.
+
+Deegan, L.A., D.S. Johnson, R.S. Warren, B.J. Peterson, J.W. Fleeger, S. Fagherazzi, and W.M. Wollheim. 2012. Coastal eutrophication as a driver of sale marsh loss. Nature 490: 388–392. [DOI: https://doi.org/10.1038/nature11533]
+
+Detenbeck, N.E., and Rego, S. 2015. Predictive Seagrass Habitat Model. Atlantic Ecology Division, US EPA, Narragansett, RI. EPA/600/R-15/003.
+
+Fuller, V.M. and J.P. Walsh. 2023. Extensive estuarine sedimentary storage of plastics from city to sea: Narragansett Bay, Rhode Island USA. Scientific Reports 13: 10195. [DOI: 10.1038/s41598-023-36228-8].
+
+Humphries, A., K. Gorospe, A. Innes-Gold, J. McNamee, C. McManus, C. Oviatt, and J. Collie. 2022. In Pursuit of Ecosystem-Based Management for Narragansett Bay: An Overview of Previous Models and Roadmap for Future Research. Coastal Management 50: 262–283. [DOI: 10.1080/08920753.2022.2037396.].
+
+Kamman, N.C., N.M. Burgess, C.T. Driscoll, et al. 2005. Mercury in Freshwater Fish of Northeast North America – A Geographic Perspective Based on Fish Tissue Monitoring Databases. Ecotoxicology 14: 163–180. [DOI: 10.1007/s10646-004-6267-9].
+
+Kopp, R. 2023. Monitoring Existing Green Infrastructure Function for Future Planning Success. Prepared by Audubon Society of Rhode Island for NBEP. NBEP-2023-005. 12 pp. [PDF: https://static1.squarespace.com/static/5eea260cea828333324dba1c/t/65aea2dbcd5a6464f7a1f00e/1705943772908/NBEP-2023-005.pdf}.
+
+Kutcher, T., C. Chaffee, and K. Raposa. 2018. Rhode Island Coastal Wetland Restoration Strategy. 56 pp. [http://www.crmc.ri.gov/habitatrestoration/RICWRestorationStrategy.pdf].
+
+Leonard, K. 2021. WAMPUM Adaptation framework: eastern coastal Tribal Nations and sea level impacts on water security. Climate and Development 13(9): 842–851. [DOI: 10.1080/17565529.2020.1862739].
+
+Manion, M., Thompson, J.R., Pickrell, K., Lee, L., Ricci, H., Collins, J., Plisinski, J., Jones, R., Kwok, G., Powell, D., & Rhatigan, W. 2023. Growing Solar, Protecting Nature. Mass Audubon and Harvard Forest. DOI:10.5281/zenodo.8403839
+
+Massachusetts. 2023. ResilientMass Plan: 2023 Massachusetts State Hazard Mitigation and Climate Adaptation Plan. 362 pp.
+
+MassDEP (Massachusetts Department of Environmental Protection). 2008. Massachusetts Stormwater Handbook and Stormwater Standards. Volumes 1–3.
+
+MassDEP (Massachusetts Department of Environmental Protection). 2024. Final Massachusetts Statewide Total Maximum Daily Load for Pathogen-Impaired Waterbodies. Massachusetts Department of Environmental Protection, Bureau of Water Resources, Division of Watershed Management, Watershed Planning Program. Worcester, MA. 72 pp.
+
+McKown, J.G., D.M. Burdick, G.E. Moore, J.L. Gibson, and W. Ferguson. 2024. Evaluation of drainage enhancement for vegetation recovery in New England salt marshes using public domain, high-resolution aerial imagery. Journal of Coastal Research [DOI: 10.2112/JCOASTRES-D-24-00011.1].
+
+NBEP (Narragansett Bay Estuary Program). 2003. Ecological Indicators for Narragansett Bay and its Watersheds. Prepared by Kleinschmidt for The Partnership of Narragansett Bay (precursor to NBEP). 34 pp.
+
+NBEP (Narragansett Bay Estuary Program). 2012. Comprehensive Conservation and Management Plan Update 2012: Envisioning an Ecological Future for the Narragansett Bay Region. 80 pp.
+
+NBEP (Narragansett Bay Estuary Program). 2017. The State of Narragansett Bay and Its Watershed. Prepared for NBEP, USEPA, and New England Interstate Water Pollution Control Commission. 499 pp.
+
+NBEP (Narragansett Bay Estuary Program). 2020a. Further Analysis and Synthesis of Narragansett Bay (RI/MA USA) Oxygen, Chlorophyll, and Temperature. NBEP-2020-002A. 162 pp. [DOI: 10.6084/m9.figshare.12547676.v1].
+
+NBEP (Narragansett Bay Estuary Program). 2020b. Daily-Resolution 2001–2017 Time Series of Total Nitrogen Load to Narragansett Bay from Bay-Wide Treatment Facility and Watershed Sources. NBEP-2020-002B. 35 pp. [DOI: 10.6084/m9.figshare.12573851.v1].
+
+NBEP (Narragansett Bay Estuary Program). 2020c. Recovery on the Seafloor. StoryMap prepared for NBEP by Julia Twichell. [https://storymaps.arcgis.com/stories/3a3ae7c75b8944d787a6a0b49a5e4e77]
+
+NBEP (Narragansett Bay Estuary Program). 2021a. Blackstone River Watershed Needs Assessment Report. Final Report 2021. 106 pp.
+
+NBEP (Narragansett Bay Estuary Program). 2021b. Analysis and Synthesis of Eutrophication-Related Conditions in Narragansett Bay. NBEP-2021-007. 128 pp. [DOI: 10.6084/m9.figshare.14830890.v1].
+
+NBEP (Narragansett Bay Estuary Program). 2021c. Science Update: Land Use in the Little Narragansett Bay and the Coastal Salt Ponds Between 2001–2016. NBEP-21-244. 17 pp. [DOI: 10.6084/m9.figshare.14838819.v1].
+
+NBEP (Narragansett Bay Estuary Program). 2021d. Clean Water and Quahogs: Changes in Narragansett Bay. StoryMap prepared for NBEP by Mariel Sorlien. [https://storymaps.arcgis.com/stories/7ce14bd64a254cd1903edb0c486d1bf6].
+
+NBEP (Narragansett Bay Estuary Program). 2021e. Science Update: Nuisance Flooding in the Narragansett Bay Region. Prepared by Courtney Schmidt for NBEP. NBEP-21-245. 4 pp. [DOI: 10.6084/m9.figshare.14838876].
+
+NBEP (Narragansett Bay Estuary Program). 2021f. How Do We Use Our Coasts? StoryMap prepared for NBEP by Julia Twichell. [https://storymaps.arcgis.com/stories/b994fadc18bb4f1bb82dea62956c3139]
+
+NBEP (Narragansett Bay Estuary Program). 2023a. Science Update: Social Science Indicators for Narragansett Bay. Prepared by Courtney Schmidt, Bryce DuBois, and Rob Griffin for NBEP. NBEP-2023-001. [DOI: 10.6084/m9.figshare.21464037].
+
+NBEP (Narragansett Bay Estuary Program). 2023b. Science Update: Seagrass Extent in Narragansett Bay Between 2006–2021. Prepared by Courtney Schmidt et al. for NBEP. NBEP-23-003. [DOI: 10.6084/m9.figshare.24205686].
+
+NBEP (Narragansett Bay Estuary Program). 2024a. Narragansett Bay Estuary Program Research Plan for 2024–2034. NBEP-2024-001. Prepared by Courtney Schmidt and the NBEP Science Advisory Committee for NBEP. 40 pp. [DOI: 10.6084/m9.figshare.25534393].
+
+NBEP (Narragansett Bay Estuary Program). 2024b. Science Update: Precipitation and Snowfall in the Narragansett Bay Region. NBEP-24-006. DOI: 10.6084/m9.figshare.27228618.
+
+NBEP and URI-CI (Narragansett Bay Estuary Program and University of Rhode Island Coastal Institute). 2014. Narragansett Bay Watershed Report with a Spotlight on Marine and Freshwater Beaches. 34 pp.
+
+NPS (National Park Service). 2022. Deferred Maintenance and Repairs by Park and Asset Category. Rhode Island Parks Infrastructure Fact Sheet. 1 pp.
+
+Pappal, A. and K. Kahl. 2022. Gaining Ground: Defining Priority Research for Resilient Salt Marshes. Prepared for the Salt Marsh Working Group, a working group of the Massachusetts Ecosystem Climate Adaptation Network. 10 pp.
+
+Phillips, P.J., Schubert, C., Argue, D., Fisher, I., Furlong, E.T., Foreman, W., Gray, J., Chalmers, A. 2015. Concentrations of hormones, pharmaceuticals and other micropollutants in groundwater affected by septic systems in New England and New York. Science of The Total Environment (512-513): 43-54. https://doi.org/10.1016/j.scitotenv.2014.12.067
+
+Reay, W. G. 2004. Septic tank impacts on ground water quality and nearshore sediment nutrient flux. Groundwater 42 (7): 1079– 1089
+
+Rhode Island. 2018. Resilient Rhody: An Actionable Vision for Addressing the Impacts of Climate Change in Rhode Island. 44pp.
+
+Rice, M. 2006. A Brief History of Oyster Aquaculture in Rhode Island. In: Rhode Island Coastal Resources Management Council. Aquaculture in Rhode Island: 2006 Yearly Status report. pp. 24–38.
+
+RIDOA (Rhode Island Department of Administration). 2006. Rhode Island Land Use 2025. State Guide Plan Element 121, Report Number 109. Prepared by Division of Planning, Statewide Planning Program. 156 pp.
+
+RIDEM (Rhode Island Department of Environmental Management) and CRMC (Coastal Resources Management Council). 2015. Rhode Island Stormwater Design and Installation Standards Manual. 483 pp.
+
+RIDEM (Rhode Island Department of Environmental Management). 2017. Implications of Climate Change for RI Wastewater Collection and Treatment Infrastructure. Prepared for RIDEM by RPS ASA–USA and Woodward and Curran. 246 pp.
+
+RIDEM (Rhode Island Department of Environmental Management). 2023. Cyanobacteria Monitoring Program 2023 Report. Summer–Fall 2023. Office of Water Resources. 70 pp.
+
+RIDEM (Rhode Island Department of Environmental Management). 2024a. Rhode Island Nonpoint Source Management Program Plan. Prepared by the Office of Water Resources. 125 pp.
+
+RIDEM (Rhode Island Department of Environmental Management). 2024b. 2024 Integrated Water Quality Monitoring and Assessment Report. 55 pp.
+
+Save The Bay. 2017. Bay-Friendly Living: Yard Care and Lifestyle Tips to Save Time, Money, and The Bay. 19 pp.
+
+Save The Bay. 2021a. A Comprehensive Plan to Restore Water Quality in Hundred Acre Cove. NBEP-2021-014. 29 pp. [PDF: https://savebay.org/wp-content/uploads/HAC-Report_FINAL_8-16-2021_ForWeb.pdf].
+
+Save The Bay. 2021b. Save The Bay Salt Marsh Adaptation Projects: Enhancing The Resiliency Of Marshes In The Salt Ponds Region. 15 pp.
+
+Shumchenia, E. and J. King. 2019. Sediment profile imagery survey to evaluate benthic habitat quality in Narragansett Bay. Technical Report NBEP-2019-002. 40 pp. [https://static1.squarespace.com/static/5eea260cea828333324dba1c/t/5fc92447d36c7c1f841792af/1607017545349/NBEP-19-220.pdf].
+
+Smith, R. 2023. Developers Withdraw Proposal for Storage Facility on Pawtuxet River Site. ecoRI News. [https://ecori.org/developers-withdraw-proposal-for-storage-facility-on-pawtuxet-river-site/ Accessed July 31, 2024].
+
+Smith. R. 2024. Survey Says: Rhode Islanders Believe Parking Biggest Deterrent to Shoreline Access. ecoRI News. [https://ecori.org/survey-says-rhode-islanders-believe-parking-biggest-deterrent-to-shoreline-access/https://ecori.org/survey-says-rhode-islanders-believe-parking-biggest-deterrent-to-shoreline-access/ Accessed July 31, 2024].
+
+SNEP (EPA Southeast New England Program) and VHB. 2022. New England Stormwater Retrofit Manual. Developed by VHB with technical support from SNEP Stage Agencies.152 pp.
+
+Sowah, R.A., Habteselassie, M.Y., Radcliffe, D.E., Bauske, E., Risse, M. 2017. Isolating the impact of septic systems on fecal pollution in streams of suburban watersheds in Georgia, United States. Water Research 108: 330-338.
+
+Stevens, R.A., S. Shull, J. Carter, E. Bishop, N. Herold, C.A. Riley, et al. (2023) Marsh migration and beyond: A scalable framework to assess tidal wetland resilience and support strategic management. PLoS ONE 18(11): e0293177. [DOI: 10.1371/journal.pone.0293177].
+
+Swartz, C.H., Reddy, S., Benotti, M.J., Yin, H.F., Barber, L.B., Brownawell, B.J., Rudel, R.A., 2006. Steroid estrogens, nonylphenol ethoxylate metabolites, and other wastewater contaminants in groundwater affected by a residential septic system on Cape Cod, MA. Environ. Sci. Technol. 40 (16), 4894-4902.
+
+Taylor, D.L. and P.R. Williamson. 2017. Mercury contamination in Southern New England coastal fisheries and dietary habits of recreational anglers and their families: Implications to human health and issuance of consumption advisories. Mar Pollution Bulletin 114(1):144–156. [DOI: 10.1016/j.marpolbul.2016.08.072].
+
+Thibodeau, P.S., G. Puggioni, J. Strock, and T.A. Rynearson. 2024. Long-term declines in chlorophyll-a and variable phenology revealed by a 60-year estuarine plankton time series. PNAS 121(21): e2311086121. [DOI: 10.1073/pnas.2311086121].
+
+Uchida, E., Mead A., Giroux, A., & Hayden, S. (2019). Narragansett Bay Watershed Economy: The ebb and flow of natural capital. Narragansett, R.I.: Coastal Institute at the University of Rhode Island.
+
+Twichell, J.H., K.K. Mulvaney, N.H. Merrill, and J.J. Bousquin. 2022. Geographies of Dirty Water: Landscape-Scale Inequities in Coastal Access in Rhode Island. Frontiers in Marine Science 26: 760684. [DOI: 10.3389/fmars.2021.760684]. USFWS (United States Fish and Wildlife Service). 2011. Net worth: the economic value of fisheries conservation. Adapted from: Conserving America’s Fisheries, An Assessment of Economic Contributions from Fisheries and Aquatic Resource Conservation, prepared by J. Charbonneau and J. Caudhill. U.S. Fish and Wildlife Service Division of Economics. 8 pp.
+
+Wohl, E., S.N. Lane, and A.C. Wilcox. 2015. The science and practice of river restoration. Water Resources Research 51: 5974–5997. [DOI: 10.1002/ 2014WR016874].
