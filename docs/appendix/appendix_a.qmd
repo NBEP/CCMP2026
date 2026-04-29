@@ -1,5 +1,54 @@
 ---
-title: "appendix_a"
-format: html
+title: "Appendix A. NBEP Bay and Watershed Indicators"
 ---
 
+The following table lists the original 2017 indicators, shows if and how those indicators have been updated since the 2017 publication, and lists new indicators proposed for development during the span of this 2026 CCMP Revision.
+
+| Indicator | Type | Published | Watershed |
+|----|----|----|----|
+| Temperature | Environmental Condition | 2017 | NB |
+| Precipitation | Environmental Condition | 2024 | NB |
+| Sea Level (Nuisance Flooding) | Environmental Condition | 2017 (2021) | NB (Providence) |
+| Population | Landscape | 2017 | NB |
+| Land Use (Solar Arrays) | Landscape | 2021 (2024) | NB/LNB/CSP |
+| Impervious Cover | Landscape | 2017 | NB |
+| Wastewater Infrastructure | Landscape | 2017 | NB |
+| Nutrient Loading (Atmospheric Nitrogen Deposition) | Landscape | 2017 (2021) | NB |
+| Legacy Contaminants | Chemical | 2017 | NB |
+| Emerging Contaminants | Chemical | 2017 | NB |
+
+: Stressor Indicators
+
+| Indicator | Type | Published | Watershed |
+|----|----|----|----|
+| Seagrasses | Bay Ecosystem | 2023 | NB/LNB/CSP |
+| Salt Marsh | Bay Ecosystem | 2017 | NB |
+| Benthic Habitat | Bay Ecosystem | 2018 | NB |
+| Estuarine Fish Communities | Bay Ecosystem | 2017 | NB |
+| Dissolved Oxygen | Bay Ecosystem | 2021 | NB |
+| Chlorophyll | Bay Ecosystem | 2021 | NB |
+| Water Clarity | Bay Ecosystem | 2022 | NB |
+| Water Quality Conditions for Aquatic Life | Watershed Ecosystem | 2017 | NB |
+| Stream Invertebrates | Watershed Ecosystem | 2017 | NB |
+| Freshwater Fish Communities | Watershed Ecosystem | 2017 | NB |
+| Open Space | Watershed Ecosystem | 2017 | NB |
+| Aquatic Connectivity | Watershed Ecosystem | \* | NB/LNB/CSP |
+| Water Quality Conditions for Recreation | Public Health | 2017 | NB |
+| Marine Beaches | Public Health | 2017 | NB |
+| Shellfishing Areas | Public Health | 2022 | NB/LNB/CSP |
+| Public Access | Social Science | \* |  |
+| Resilient Municipalities | Social Science | \*\* |  |
+| Public Health | Social Science | \*\* |  |
+| Economy | Social Science | \*\* |  |
+
+: Condition Indicators
+
+\* In progress
+
+\*\* Proposed
+
+NB Narragansett Bay
+
+LNB Little Narragansett Bay
+
+CSP Coastal Salt Ponds

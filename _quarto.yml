@@ -53,7 +53,8 @@ website:
         - auto: "docs/public_spaces/*"
       - docs/acronyms.qmd
       - text: "References"
-      - text: "Appendices"
+      - section: "Appendices"
+        contents: docs/appendix/*
 
 format:
   html:
