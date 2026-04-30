@@ -20,7 +20,7 @@ Three Standing Committees—Steering Committee, Executive Committee, and Science
 
 ::: {#tbl-committee}
 |  |
-|:-----------------------------------------------------------------------|
+|:---|
 | **Chair** Caitlin Chaffee, Chief, Narragansett Bay National Estuarine Research Reserve |
 | **Vice Chair** David Monti, Journalist, Recreational Fisherman, Charter Captain, No Fluke Fishing Charters |
 | Richard Carey, Director, Watershed Planning Program, Massachusetts Department of Environmental Protection |
@@ -33,7 +33,7 @@ Three Standing Committees—Steering Committee, Executive Committee, and Science
 : Executive Committee {#tbl-ec}
 
 |  |
-|:-----------------------------------------------------------------------|
+|:---|
 | **Chair** Caitlin Chaffee\*, Chief, Narragansett Bay National Estuarine Research Reserve |
 | **Vice Chair** David Monti\*, Journalist, Recreational Fisherman, Charter Captain, No Fluke Fishing Charters |
 | Molly Allard, District Manager, Northern Rhode Island Conservation District |
@@ -68,7 +68,7 @@ Three Standing Committees—Steering Committee, Executive Committee, and Science
 : Steering Committee (\*Executive Committee Member) {#tbl-sc}
 
 |  |
-|:-----------------------------------------------------------------------|
+|:---|
 | Catie Alves, South County Coast Keeper, Save The Bay |
 | Michaela Cashman, Chemist, U.S. Environmental Protection Agency, Office of Research and Development, Atlantic Coastal Environmental Sciences Division |
 | Sue Flint, Environmental Analyst, Watershed Planning Program, Massachusetts Department of Environmental Protection |

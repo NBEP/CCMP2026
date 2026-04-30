@@ -6,7 +6,7 @@ Full Action Statement: Implement the NBEP Research Plan and Coastal Urban Waters
 
 # Action Description and Statement of Need
 
-This Action will implement the NBEP Research Plan (NBEP 2024) to synthesize existing research and, with the guidance of the Science Advisory Committee, prioritize new topics for NBEP investment and identify key knowledge gaps.
+This Action will implement the NBEP Research Plan [@nbep2024a] to synthesize existing research and, with the guidance of the Science Advisory Committee, prioritize new topics for NBEP investment and identify key knowledge gaps.
 
 The Research Plan unites the scientific interests of NBEP partners to meet the research needs of the CCMP and inform management decisions. Implementation of the Research Plan will:
 
