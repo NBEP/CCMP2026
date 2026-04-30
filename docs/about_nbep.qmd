@@ -10,7 +10,7 @@ NBEP was one of the first four estuaries to be included in the National Estuary 
 
 NBEP’s shared governance structure, consisting of dedicated staff and interns along with three volunteer Standing Committees, ensures that open discussion, cooperation, consensus-building, and collaborative decision-making among diverse partners advances the CCMP and mission.
 
-Three Standing Committees—Steering Committee, Executive Committee, and Science Advisory Committee—include partners that represent the States in the region, the US Environmental Protection Agency (EPA) and other interested Federal agencies, local governments, interstate or regional entities, nonprofit conservation organizations, educational institutions, general public, and the host institution (Table 1). As NBEP’s host institution, Roger Williams University administers program funding and provides fiscal and program oversight. Each committee aspires to include a broad representation of interests that reflect the geographic, economic, and cultural diversity of the region.
+Three Standing Committees—Steering Committee, Executive Committee, and Science Advisory Committee—include partners that represent the States in the region, the US Environmental Protection Agency (EPA) and other interested Federal agencies, local governments, interstate or regional entities, nonprofit conservation organizations, educational institutions, general public, and the host institution (@tbl-committee). As NBEP’s host institution, Roger Williams University administers program funding and provides fiscal and program oversight. Each committee aspires to include a broad representation of interests that reflect the geographic, economic, and cultural diversity of the region.
 
 -   **The Steering Committee** is NBEP’s primary governing body and assists the EPA, Host Institution, and NBEP Executive Director with setting the direction for NBEP. The Steering Committee of 28 members serves as a forum for open discussion, consensus building, and collaborative partner decision-making to advance implementation of the NBEP CCMP and mission.
 
@@ -18,10 +18,9 @@ Three Standing Committees—Steering Committee, Executive Committee, and Science
 
 -   **The Science Advisory Committee** provides a forum for NBEP and its partners to examine, discuss, synthesize, and share scientific findings to facilitate integration of science with management decisions, and offers guidance to ensure the scientific integrity of NBEP’s work.
 
-**NBEP Standing Committee Members** (as of December 2025)
-
-| Executive Committee |
-|------------------------------------------------------------------------|
+::: {#tbl-committee}
+|  |
+|:-----------------------------------------------------------------------|
 | **Chair** Caitlin Chaffee, Chief, Narragansett Bay National Estuarine Research Reserve |
 | **Vice Chair** David Monti, Journalist, Recreational Fisherman, Charter Captain, No Fluke Fishing Charters |
 | Richard Carey, Director, Watershed Planning Program, Massachusetts Department of Environmental Protection |
@@ -31,8 +30,10 @@ Three Standing Committees—Steering Committee, Executive Committee, and Science
 | E. Heidi Ricci, Director of Policy and Advocacy, Mass Audubon |
 | Peter Wong, Director, Office of Research and Sponsored Programs, Roger Williams University |
 
-| Steering Committee (\*Executive Committee Member) |
-|------------------------------------------------------------------------|
+: Executive Committee {#tbl-ec}
+
+|  |
+|:-----------------------------------------------------------------------|
 | **Chair** Caitlin Chaffee\*, Chief, Narragansett Bay National Estuarine Research Reserve |
 | **Vice Chair** David Monti\*, Journalist, Recreational Fisherman, Charter Captain, No Fluke Fishing Charters |
 | Molly Allard, District Manager, Northern Rhode Island Conservation District |
@@ -64,8 +65,10 @@ Three Standing Committees—Steering Committee, Executive Committee, and Science
 | Caitlyn Whittle, Program Officer, U.S. Environmental Protection Agency – Region 1 |
 | Peter Wong, Director, Office of Research and Sponsored Programs, Roger Williams University |
 
-| **Science Advisory Committee** |
-|------------------------------------------------------------------------|
+: Steering Committee (\*Executive Committee Member) {#tbl-sc}
+
+|  |
+|:-----------------------------------------------------------------------|
 | Catie Alves, South County Coast Keeper, Save The Bay |
 | Michaela Cashman, Chemist, U.S. Environmental Protection Agency, Office of Research and Development, Atlantic Coastal Environmental Sciences Division |
 | Sue Flint, Environmental Analyst, Watershed Planning Program, Massachusetts Department of Environmental Protection |
@@ -87,6 +90,11 @@ Three Standing Committees—Steering Committee, Executive Committee, and Science
 | David Taylor, Professor of Marine Biology, Feinstein School of Social and Natural Sciences, Roger Williams University |
 | Alicia R. Timme-Laragy, Assistant Professor, School of Public Health and Health Sciences, University of Massachusetts – Amherst |
 | Jamie Vaudrey, Associate Research Professor and Research Coordinator, University of Connecticut and Connecticut National Estuarine Research Reserve |
+
+: Science Advisory Committee {#tbl-sac}
+
+NBEP Standing Committee Members (as of December 2025)
+:::
 
 # NBEP’s Evolution
 
@@ -118,7 +126,7 @@ Guided by science and the shared will of the partnership, NBEP pursues lasting s
 
 NBEP pursues independent convening, planning, and consensus-building among diverse groups of partners and communities to address shared issues and opportunities. Key examples of NBEP’s collaborative planning work include:
 
--   The *Blackstone Needs Assessment* project, in which NBEP convened Blackstone River Watershed interests to explore local needs, develop the Blackstone River Watershed Needs Assessment Report (NBEP 2021a), and establish a local coordinating organization to lead implementation of the report. As of this document’s publication, the Blackstone Watershed Collaborative is an independent nonprofit organization operating as an impact network to promote learning and coordinate action to solve complex watershed issues that no one organization could solve on its own. This work also provided a replicable model for creating the pre-conditions necessary to advance paired ecosystem and community health in other large and complex watersheds in the Narragansett Bay region.
+-   The *Blackstone Needs Assessment* project, in which NBEP convened Blackstone River Watershed interests to explore local needs, develop the Blackstone River Watershed Needs Assessment Report [@nbep2021a], and establish a local coordinating organization to lead implementation of the report. As of this document’s publication, the Blackstone Watershed Collaborative is an independent nonprofit organization operating as an impact network to promote learning and coordinate action to solve complex watershed issues that no one organization could solve on its own. This work also provided a replicable model for creating the pre-conditions necessary to advance paired ecosystem and community health in other large and complex watersheds in the Narragansett Bay region.
 
 -   The *Lower Blackstone Fish Passage Project*, in which NBEP led partners to reinvigorate progress on efforts to establish diadromous fish passage across four dams on the lower Blackstone River in Pawtucket, Rhode Island. In 2022, NBEP transitioned to a funder role and now supports the capacity of lead partners to continue convening, advocacy, and planning work on the largest fish passage project in the Narragansett Bay watershed with over \$500,000 of NBEP’s Infrastructure Investment and Jobs Act funds allocated to date.
 
@@ -140,17 +148,17 @@ NBEP pursues independent convening, planning, and consensus-building among diver
 
 NBEP provides scientific data analysis and communication using innovative storytelling and open-source web application tools to investigate complex socioenvironmental topics. NBEP serves as a hub for information-sharing tools such as:
 
--   2017 State of Narragansett Bay and its Watershed Report: This technical report, co-authored by NBEP and partners, describes 24 environmental and socioeconomic condition and stressor indicators that assess Narragansett Bay and its watershed (NBEP 2017). Since publication, NBEP has updated numerous indicators with more recent data, added new focus areas to existing indicators, and expanded indicators to cover the entire Narragansett Bay region to include the Rhode Island Coastal Ponds, Little Narragansett Bay, and their respective watersheds (See [Appendix A](appendix/appendix_a.qmd)).
+-   2017 State of Narragansett Bay and its Watershed Report: This technical report, co-authored by NBEP and partners, describes 24 environmental and socioeconomic condition and stressor indicators that assess Narragansett Bay and its watershed [@nbep2017]. Since publication, NBEP has updated numerous indicators with more recent data, added new focus areas to existing indicators, and expanded indicators to cover the entire Narragansett Bay region to include the Rhode Island Coastal Ponds, Little Narragansett Bay, and their respective watersheds (See [Appendix A](appendix/appendix_a.qmd)).
 
 -   A publicly-accessible GIS Data Hub that facilitates data-sharing and hosts interactive maps and StoryMaps to dive into complex topics, including:
 
-    -   How Do We Use Our Coasts? StoryMap (NBEP 2021): NBEP, alongside partners at US EPA, used anonymized cell phone visitation data to assess usage of public coastal access sites.
+    -   How Do We Use Our Coasts? StoryMap [@nbep2021f]: NBEP, alongside partners at US EPA, used anonymized cell phone visitation data to assess usage of public coastal access sites.
 
-    -   Hundred Acre Cove Septic Viewer and Stormwater Infrastructure Dashboard (Save The Bay 2021a): NBEP, in partnership with Save The Bay, created GIS tools to inform actions to better protect water quality in Hundred Acre Cove in the tidal Barrington River.
+    -   Hundred Acre Cove Septic Viewer and Stormwater Infrastructure Dashboard [@savethebay2021a]: NBEP, in partnership with Save The Bay, created GIS tools to inform actions to better protect water quality in Hundred Acre Cove in the tidal Barrington River.
 
-    -   Clean Water and Quahogs StoryMap (NBEP 2022): NBEP created an interactive tool to explain and celebrate the conditional opening of 1,900 acres of the lower Providence River for shellfishing for the first time in 75 years.
+    -   Clean Water and Quahogs StoryMap [@nbep2022]: NBEP created an interactive tool to explain and celebrate the conditional opening of 1,900 acres of the lower Providence River for shellfishing for the first time in 75 years.
 
-    -   Into the Woods: Solar in the Forest StoryMap (NBEP 2024): NBEP created a tool to visualize the number and location of ground-mounted solar projects in the Narragansett Bay region and assess how much undeveloped land has been lost to solar development across the region and at subwatershed scales.
+    -   Into the Woods: Solar in the Forest StoryMap [@nbep2025solar]: NBEP created a tool to visualize the number and location of ground-mounted solar projects in the Narragansett Bay region and assess how much undeveloped land has been lost to solar development across the region and at subwatershed scales.
 
 -   Open-source data visualization tools:
 

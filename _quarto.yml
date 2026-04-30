@@ -2,6 +2,8 @@ project:
   title: "2026 CCMP"
   type: website
 
+bibliography: references.bib
+
 website:
   title: "NBEP 2026 CCMP"
   page-navigation: true

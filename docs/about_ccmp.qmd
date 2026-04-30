@@ -6,7 +6,7 @@ This 2026 CCMP Revision is a regional call to action for shared efforts that can
 
 # Partner Engagement for Revising the CCMP
 
-NBEP’s first CCMP was adopted in 1992, then updated in 2012 (NBEP 2012). In 2019, NBEP began work on this 10-year Revision. The program sought, obtained, and responded to broad input from scientists, resource managers, and environmental advocates through:
+NBEP’s first CCMP was adopted in 1992, then updated in 2012 [@nbep2012]. In 2019, NBEP began work on this 10-year Revision. The program sought, obtained, and responded to broad input from scientists, resource managers, and environmental advocates through:
 
 -   17 meetings attended by 150 individuals
 
@@ -53,7 +53,7 @@ With partner consensus, NBEP set four major Goals for People, Water, Habitat, an
 **2026 CCMP Revision Strategy by Action Plan**
 
 | **PEOPLE READY TO ACT** | **WATER QUALITY IMPROVEMENT** | **HABITAT PROTECTION AND RESTORATION** | **PUBLIC SPACES ACCESSIBLE TO ALL** |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | VISION: Informed and engaged partners are empowered to implement the CCMP. | VISION: Waters support healthy ecosystems and communities by meeting their designated uses, including healthy fish and wildlife habitat, drinking water supply, fishing, shellfish harvesting, and recreation. | VISION: Resilient and connected landscapes and waterways support healthy habitats and wildlife and provide people with ecosystem services like clean air and water, flood protection, recreation, and sustainable harvest. | VISION: All communities enjoy their right to safe access to nature. |
 | GOAL: Provide foundational knowledge, capacity, and drivers for CCMP implementation. | GOAL: Improve water quality to support healthy ecosystems and communities. | GOAL: Restore and protect habitats to support wildlife and people. | GOAL: Ensure all communities realize long-term benefits of healthy watersheds. |
 | OBJECTIVE 1: Increase meaningful and useful partner and public engagement. | OBJECTIVE 1: Improve collection and use of water quality data for decision-making. | OBJECTIVE 1: Improve collection and use of habitat data for decision-making. | OBJECTIVE 1: Increase managed public access to nature. |
