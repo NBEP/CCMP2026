@@ -2,67 +2,71 @@
 title: "Action Habitat-2.1: Habitat Plans"
 ---
 
-Full Action Statement: Update existing and develop new regional habitat restoration plans and strategies to facilitate cross-boundary projects and address emerging challenges for habitat resilience.
+::: callout-note
+# Full Action Statement
+
+Update existing and develop new regional habitat restoration plans and strategies to facilitate cross-boundary projects and address emerging challenges for habitat resilience.
+:::
 
 # Action Description and Statement of Need
 
 This Action will update existing and publish new regional plans for freshwater and estuarine habitat restoration. ‘Plans’ refers broadly to strategies, designs, assessments, and protocols that apply from an ecosystem to a habitat location. Restoration plans have been developed for salt marshes, shellfish, coastal ponds, reefs, rivers, and forests. Seagrass and oyster restoration planning, along with broader aquaculture oversight, are underway locally and in the greater New England region.
 
-Many existing plans were developed more than a decade ago and need to be updated to reflect a regional approach to emerging challenges for habitat resilience. Some are confined by geopolitical boundaries and may lack specific implementation details necessary to ensure responsive projects. Opportunities exist to improve cross-state and other regional coordination, collaboration, and information sharing about habitat restoration, land use planning, and biodiversity conservation (Stevens *et al.* 2023).
+Many existing plans were developed more than a decade ago and need to be updated to reflect a regional approach to emerging challenges for habitat resilience. Some are confined by geopolitical boundaries and may lack specific implementation details necessary to ensure responsive projects. Opportunities exist to improve cross-state and other regional coordination, collaboration, and information sharing about habitat restoration, land use planning, and biodiversity conservation [@stevens2023].
 
 Involvement of watershed-based organizations, land trusts, commercial aquaculture organizations, and other experts working at the local scale is also important for establishing watershed and estuarine habitat restoration priorities. Local and regional collaboration ensures that priorities can be guided by partners most familiar with local issues and supported by partners who are experienced with working at larger scales.
 
 NBEP will convene partners to share restoration expertise and emerging best practices, coordinate habitat planning efforts, and prioritize restoration projects across institutional and state boundaries, with a goal of developing the NBEP Habitat Restoration Plan by 2028. NBEP will also assist to leverage resources with projects like the Blackstone Needs Assessment (2019–2021), the Blackstone Fish Passage Project (2021–current), and the Salt Marsh Restoration, Assessment and Monitoring Program (RAMP) (2022–current). NBEP will help fund partner and community outreach, efforts to update planning documents, and research to fill knowledge gaps.
 
-# Potential Projects 
+# Potential Projects
 
-- Develop the NBEP Habitat Restoration Plan.
+-   Develop the NBEP Habitat Restoration Plan.
 
-- Update Rhode Island Anadromous Fish Restoration Plan.
+-   Update Rhode Island Anadromous Fish Restoration Plan.
 
-- Update existing restoration strategies to include updated data, information, and completed projects.
+-   Update existing restoration strategies to include updated data, information, and completed projects.
 
-- Develop a Narragansett Bay region salt marsh restoration strategy or update the Rhode Island Coastal Wetland Restoration Strategy to include the upper part of Narragansett Bay in Massachusetts and portions of Little Narragansett Bay in Connecticut, where useful. Strategy should highlight areas where marsh migration is possible and should be supported.
+-   Develop a Narragansett Bay region salt marsh restoration strategy or update the Rhode Island Coastal Wetland Restoration Strategy to include the upper part of Narragansett Bay in Massachusetts and portions of Little Narragansett Bay in Connecticut, where useful. Strategy should highlight areas where marsh migration is possible and should be supported.
 
-- Support the development and implementation of the Rhode Island Shellfish Restoration and Enhancement Plan.
+-   Support the development and implementation of the Rhode Island Shellfish Restoration and Enhancement Plan.
 
-- Develop a Narragansett Bay and/or broader regional submerged aquatic vegetation restoration plan that reviews restoration strategies that have been tried in Narragansett Bay to date, including current seed-based restoration strategies, and assesses whether recent water quality improvements could improve restoration success. This restoration plan should also include new data collected on flowering phenology and seed collection and seed transfer guidance.
+-   Develop a Narragansett Bay and/or broader regional submerged aquatic vegetation restoration plan that reviews restoration strategies that have been tried in Narragansett Bay to date, including current seed-based restoration strategies, and assesses whether recent water quality improvements could improve restoration success. This restoration plan should also include new data collected on flowering phenology and seed collection and seed transfer guidance.
 
-- Expand and update Sea Level Affecting Marsh Migration (SLAMM) models to include the Palmer and Runnins Rivers and other areas of MA, CT, and RI that were not covered in state models.
+-   Expand and update Sea Level Affecting Marsh Migration (SLAMM) models to include the Palmer and Runnins Rivers and other areas of MA, CT, and RI that were not covered in state models.
 
-- Pursue or expand state level management plans for lakes and ponds, inclusive of invasive species and educational outreach to boaters.
+-   Pursue or expand state level management plans for lakes and ponds, inclusive of invasive species and educational outreach to boaters.
 
-- Develop plans and actions to protect cold-water streams and rivers, or specific endangered and/or threatened freshwater species, such as native brook trout.
+-   Develop plans and actions to protect cold-water streams and rivers, or specific endangered and/or threatened freshwater species, such as native brook trout.
 
 # Outputs
 
-- NBEP Habitat Restoration Plan
+-   NBEP Habitat Restoration Plan
 
-- RI Shellfish Restoration and Enhancement Plan
+-   RI Shellfish Restoration and Enhancement Plan
 
-- A multi-state salt marsh restoration strategy
+-   A multi-state salt marsh restoration strategy
 
-- At least one regional submerged aquatic vegetation restoration strategy
+-   At least one regional submerged aquatic vegetation restoration strategy
 
-- Updated freshwater restoration and conservation plans and protocols
+-   Updated freshwater restoration and conservation plans and protocols
 
-- Coordinated meetings among habitat restoration practitioners
+-   Coordinated meetings among habitat restoration practitioners
 
-- Expanded SLAMM to cover entire region seamlessly
+-   Expanded SLAMM to cover entire region seamlessly
 
 # Outcomes
 
-- Increased coordination on habitat restoration priorities, techniques, and projects across boundaries
+-   Increased coordination on habitat restoration priorities, techniques, and projects across boundaries
 
-- Shared habitat restoration goals, objectives, and targets
+-   Shared habitat restoration goals, objectives, and targets
 
-- Better designed and more impactful estuarine restoration projects
+-   Better designed and more impactful estuarine restoration projects
 
-- Healthier and more sustainable estuarine habitat
+-   Healthier and more sustainable estuarine habitat
 
-- Increased coordination on freshwater restoration priorities, techniques, and projects across institutional and state boundaries
+-   Increased coordination on freshwater restoration priorities, techniques, and projects across institutional and state boundaries
 
-- Shared plans for achieving freshwater restoration goals, objectives, and targets
+-   Shared plans for achieving freshwater restoration goals, objectives, and targets
 
 # Indicators
 

@@ -2,13 +2,17 @@
 title: "Action People-2.2: Ecosystem Modeling and Decision-Support Tools"
 ---
 
-Full Action Statement: Support, improve, and create efficiencies for integrated ecosystem models and decision-support tools that foster effective resource management.
+::: {.callout-note}
+# Full Action Statement
+
+Support, improve, and create efficiencies for integrated ecosystem models and decision-support tools that foster effective resource management.
+:::
 
 # Action Description and Statement of Need
 
 This Action will advance the development and use of ecosystem modeling and decision-support tools for filling knowledge gaps, informing key management decisions, and setting and tracking progress toward environmental protection and restoration targets.
 
-Significant environmental research and monitoring has occurred in the Narragansett Bay region since at least the 1950s which has fueled multiple modeling efforts to understand how ecosystems respond to pollution drivers and management actions (Humphries *et al.* 2022). Applied models focus on answering key management-related questions related to water quality, food-chain dynamics, fisheries resources, and larger ecosystem-based challenges. Localized needs have been met with models and other tools that support TMDL development and permitting, prioritize restoration projects, and highlight gaps in current monitoring activities.
+Significant environmental research and monitoring has occurred in the Narragansett Bay region since at least the 1950s which has fueled multiple modeling efforts to understand how ecosystems respond to pollution drivers and management actions [@humphries2022]. Applied models focus on answering key management-related questions related to water quality, food-chain dynamics, fisheries resources, and larger ecosystem-based challenges. Localized needs have been met with models and other tools that support TMDL development and permitting, prioritize restoration projects, and highlight gaps in current monitoring activities.
 
 There has long been a desire for linked hydrodynamic, water quality, and ecosystem-based models to help increase understanding of the impact of system stressors and responsive management actions. Using monitoring data in models can assist in forecasting future conditions, selecting responsive actions, tracking their effectiveness, and adapting as needed. Ecosystem models can be used to compare multiple future ecosystem scenarios and identify management strategies that sustain benefits for ecosystem, people, and economies across various time scales and uncertainties.
 

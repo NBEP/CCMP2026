@@ -2,7 +2,11 @@
 title: "Action People-1.2: Research Plan"
 ---
 
-Full Action Statement: Implement the NBEP Research Plan and Coastal Urban Waters Research Collaborative.
+::: {.callout-note}
+# Full Action Statement 
+
+Implement the NBEP Research Plan and Coastal Urban Waters Research Collaborative.
+:::
 
 # Action Description and Statement of Need
 

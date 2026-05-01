@@ -2,7 +2,11 @@
 title: "Action Water-1.1: Water Quality Monitoring"
 ---
 
-Full Action Statement: Support, improve, and create efficiencies for water quality monitoring programs to continue to provide information needed for management decision-making and filling knowledge gaps.
+::: {.callout-info}
+# Full Action Statement
+
+Support, improve, and create efficiencies for water quality monitoring programs to continue to provide information needed for management decision-making and filling knowledge gaps.
+:::
 
 # Action Description and Statement of Need
 
@@ -20,35 +24,35 @@ NBEP will work with partners to develop and update monitoring databases and conn
 
 # Potential Projects
 
-- Facilitate Science Advisory Committee and staff participation on the RI Environmental Monitoring Collaborative to provide multi-state support for cross-boundary monitoring needs including coordinating or standardizing monitoring activities and methods, developing new or expanding current monitoring activities (such as water column chemistry, emerging pollutants, or increased focus on embayments), and ensure that monitoring aligns with management questions and needs.
+-   Facilitate Science Advisory Committee and staff participation on the RI Environmental Monitoring Collaborative to provide multi-state support for cross-boundary monitoring needs including coordinating or standardizing monitoring activities and methods, developing new or expanding current monitoring activities (such as water column chemistry, emerging pollutants, or increased focus on embayments), and ensure that monitoring aligns with management questions and needs.
 
-- Develop and/or update water quality monitoring databases.
+-   Develop and/or update water quality monitoring databases.
 
-- Support expanded water quality monitoring in newly restored areas, such as the Kickemuit River, to establish a scientific basis for considering recreation and shellfish harvesting.
+-   Support expanded water quality monitoring in newly restored areas, such as the Kickemuit River, to establish a scientific basis for considering recreation and shellfish harvesting.
 
-- Facilitate Science Advisory Committee participation in the update to the Rhode Island Statewide Water Monitoring Strategy (2026).
+-   Facilitate Science Advisory Committee participation in the update to the Rhode Island Statewide Water Monitoring Strategy (2026).
 
-- Support innovations in monitoring strategies that bring efficiencies to and build capacity for data collection; encourage community science programs that help fill priority data gaps.
+-   Support innovations in monitoring strategies that bring efficiencies to and build capacity for data collection; encourage community science programs that help fill priority data gaps.
 
-- Support innovations for funding and staff capacity to continue data collection, analysis, and reporting.
+-   Support innovations for funding and staff capacity to continue data collection, analysis, and reporting.
 
 # Outputs
 
-- New monitoring protocols or programs for new or expanded monitoring activities
+-   New monitoring protocols or programs for new or expanded monitoring activities
 
-- Appropriately updated water quality databases and Statewide Water Monitoring Strategies
+-   Appropriately updated water quality databases and Statewide Water Monitoring Strategies
 
 # Outcomes
 
-- Enhanced capacity for water quality monitoring throughout the region
+-   Enhanced capacity for water quality monitoring throughout the region
 
-- Better coordinated water monitoring activities
+-   Better coordinated water monitoring activities
 
-- Improved collection and use of water quality information
+-   Improved collection and use of water quality information
 
-- Enhanced understanding of monitoring gaps and mechanisms to fill them
+-   Enhanced understanding of monitoring gaps and mechanisms to fill them
 
-- Ecosystem management that is better informed by monitoring
+-   Ecosystem management that is better informed by monitoring
 
 # Indicators
 

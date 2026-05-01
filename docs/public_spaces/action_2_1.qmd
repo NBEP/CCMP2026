@@ -2,7 +2,11 @@
 title: "Action Public Spaces-2.1: Environmental Health Alerts"
 ---
 
-Full Action Statement: Develop and publicize education campaigns and public alert and incident reporting systems for environmental health risks.
+::: {.callout-info}
+# Full Action Statement
+
+Develop and publicize education campaigns and public alert and incident reporting systems for environmental health risks.
+:::
 
 # Action Description and Statement of Need
 
@@ -12,9 +16,9 @@ Water quality improvements in the region’s estuaries and rivers have led to ov
 
 Massachusetts and Connecticut, but not Rhode Island, have legal requirements for public notification when untreated sewage flows into State waters. In Rhode Island, the Narragansett Bay Commission operates an online Combined Sewer Overflow (CSO) Alarm Map, as required by their Pollutant Discharge Elimination System (RIPDES) permit. The City of Newport, which has one CSO discharge, does not operate an online overflow notification system. Rhode Island wastewater facilities are required to report sewer system overflows to both RIDEM and EPA, but not to the public. A comprehensive web-based public notification system, mandatory for all types of sewage discharges in Rhode Island, would contribute to public awareness and health protection.
 
-State environmental agencies, some state and local health departments, and environmental organizations coordinate to monitor cyanobacteria blooms and toxins. In recent years, advisories have increased in number and duration (RIDEM 2023). Rhode Island’s Department of Environmental Management and Department of Health issue waterbody-specific advisories, usually via signage, as capacity allows.
+State environmental agencies, some state and local health departments, and environmental organizations coordinate to monitor cyanobacteria blooms and toxins. In recent years, advisories have increased in number and duration [@ridem2023]. Rhode Island’s Department of Environmental Management and Department of Health issue waterbody-specific advisories, usually via signage, as capacity allows.
 
-Legacy contamination of the region’s freshwaters makes most freshwater fish unsafe for human consumption (Kamman *et al.* 2005). State Departments of Health provide recommendations for restricting fish consumption, especially for at-risk groups. Both Massachusetts and Rhode Island also issue advisories for specific waterbodies when warranted by available data. Public health agencies often work with medical providers and fishing license agencies to convey this information. However, given language barriers and lack of access to health providers among some user groups, additional effort is needed to expand outreach about unsafe finfish consumption.
+Legacy contamination of the region’s freshwaters makes most freshwater fish unsafe for human consumption [@kamman2005]. State Departments of Health provide recommendations for restricting fish consumption, especially for at-risk groups. Both Massachusetts and Rhode Island also issue advisories for specific waterbodies when warranted by available data. Public health agencies often work with medical providers and fishing license agencies to convey this information. However, given language barriers and lack of access to health providers among some user groups, additional effort is needed to expand outreach about unsafe finfish consumption.
 
 The States have notification systems in the event shellfish are unsafe for harvest—RIDEM Office of Water Resources publicizes shellfish closures in near real-time through web postings, recorded message hotline, press releases, and email. Digital notification systems are more effective than signs or flags and could have even greater reach if distributed in multiple languages.
 

@@ -2,7 +2,11 @@
 title: "Action People-3.2: Regional Targets"
 ---
 
-Full Action Statement: Establish shared regional ecosystem targets with public reporting systems to track progress.
+::: {.callout-note}
+# Full Action Statement
+
+Establish shared regional ecosystem targets with public reporting systems to track progress.
+:::
 
 # Action Description and Statement of Need
 

@@ -2,7 +2,11 @@
 title: "Action People-1.1: Engagement Plan"
 ---
 
-Full Action Statement: Develop and implement the NBEP Engagement Plan to convene and activate partners to implement priority CCMP actions.
+::: {.callout-note}
+# Full Action Statement
+
+Develop and implement the NBEP Engagement Plan to convene and activate partners to implement priority CCMP actions.
+:::
 
 # Action Description and Statement of Need
 

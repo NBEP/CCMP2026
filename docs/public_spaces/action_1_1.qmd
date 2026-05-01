@@ -2,7 +2,11 @@
 title: "Action Public Spaces-1.1: New Public Access"
 ---
 
-Full Action Statement: Assess, prioritize, and support plans and projects to expand public access to waterways, natural areas, and urban green spaces.
+::: {.callout-info}
+# Full Action Statement
+
+Assess, prioritize, and support plans and projects to expand public access to waterways, natural areas, and urban green spaces.
+:::
 
 # Action Description and Statement of Need
 
@@ -10,7 +14,7 @@ This Action will develop science to inform the creation of new public access to 
 
 There are hundreds of natural parks, thousands of urban green spaces, and hundreds of miles of bikeways open to the public; there are hundreds of saltwater access points and thousands for freshwater throughout the region. While most residents in the Narragansett Bay region live within a mile of a waterway and open green space, easy access is still a challenge for some, creating the need to strategically prioritize new and upgraded public access points to these natural amenities.
 
-Hundreds of years of development, industry, and shifting policies have limited access to water and natural lands, sometimes by physical obstruction, sometimes due to polluted waters, sometimes by legal right. Areas with working waterfronts, shoreline armoring, and privatization restrict certain types of use. Rivers and streams have been dammed and completely paved over, hiding and limiting their amenities. Designating new access points or restoring historical access is a challenge as many agencies and departments within state and local governments and often private landowners may be involved (Smith 2023).
+Hundreds of years of development, industry, and shifting policies have limited access to water and natural lands, sometimes by physical obstruction, sometimes due to polluted waters, sometimes by legal right. Areas with working waterfronts, shoreline armoring, and privatization restrict certain types of use. Rivers and streams have been dammed and completely paved over, hiding and limiting their amenities. Designating new access points or restoring historical access is a challenge as many agencies and departments within state and local governments and often private landowners may be involved [@smith2023].
 
 Growth and shifts in population centers and recreational preferences also leave gaps in fair access. Travel time, transportation, parking availability, mobility, and non-accessible programming can pose barriers to accessing nature. An individual’s financial resources and the quality of the natural amenities near their home may also impact their access. There are measurable regional disparities in access, with race and ethnicity strongly correlated to travel distance to high quality public coastal amenities [@twichell2022].
 
@@ -18,27 +22,27 @@ NBEP will develop a new Public Access Indicator and publish a public access data
 
 # Potential Projects
 
-- Create a new State of the Watershed public access indicator that includes access to waterways and natural lands and green spaces and provides decision support for new sites and site improvements.
+-   Create a new State of the Watershed public access indicator that includes access to waterways and natural lands and green spaces and provides decision support for new sites and site improvements.
 
-- Fund and support projects and plans that expand access to nature.
+-   Fund and support projects and plans that expand access to nature.
 
-- Complete and implement plans that increase urban green space and tree canopies.
+-   Complete and implement plans that increase urban green space and tree canopies.
 
 # Outputs
 
-- Public Access Indicator
+-   Public Access Indicator
 
-- Plans and projects that expand access to waterways using resilient design features
+-   Plans and projects that expand access to waterways using resilient design features
 
-- Plans and projects that expand access to greenway trails while restoring habitats
+-   Plans and projects that expand access to greenway trails while restoring habitats
 
-- New urban green space plans and projects that provide access to nature
+-   New urban green space plans and projects that provide access to nature
 
 # Outcomes
 
-- Increased public access to nature
+-   Increased public access to nature
 
-- Greater access to urban green spaces and improved quality of neighborhoods
+-   Greater access to urban green spaces and improved quality of neighborhoods
 
 # Indicators
 

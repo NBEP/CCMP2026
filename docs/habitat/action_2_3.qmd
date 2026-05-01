@@ -2,61 +2,65 @@
 title: "Action Habitat-2.3: Benthic Habitat Assessment and Restoration"
 ---
 
-Full Action Statement: Assess and restore benthic habitats to support dynamic estuarine ecosystems.
+::: callout-note
+# Full Action Statement
+
+Assess and restore benthic habitats to support dynamic estuarine ecosystems.
+:::
 
 # Action Description and Statement of Need
 
 This Action will assess and accelerate restoration activities for key estuarine benthic habitats. The seagrasses, hard-bottom habitats, and other benthos that exist on the bottom of the estuarine waters of Narragansett Bay, Little Narragansett Bay, and the Coastal Salt Ponds support diverse ecosystems, aquaculture, fisheries, and recreation. Understanding how these habitats have changed under shifting conditions, including improved water quality conditions, warmer water temperatures, and higher water levels, is key to advancing restoration activities.
 
-Sediment Profile Images (SPI) throughout Narragansett Bay show improvements in benthic habitats between 2008 and 2018 due to the reduction of nutrients loading from WWTFs (NBEP 2020). [Sled cameras](https://snapshot.narrabay.com/WaterQualityInitiatives/BenthicVideoMonitoring) have also shown changes in the organisms living on top of the sediments in the upper portions of the Bay. Partners should consider prioritizing follow-up benthic assessments during the 10-year life of this CCMP Revision.
+Sediment Profile Images (SPI) throughout Narragansett Bay show improvements in benthic habitats between 2008 and 2018 due to the reduction of nutrients loading from WWTFs [@nbep2020c]. [Sled cameras](https://snapshot.narrabay.com/WaterQualityInitiatives/BenthicVideoMonitoring) have also shown changes in the organisms living on top of the sediments in the upper portions of the Bay. Partners should consider prioritizing follow-up benthic assessments during the 10-year life of this CCMP Revision.
 
-Two types of seagrasses exist in the Narragansett Bay region: eelgrass (*Zostera marina*) and widgeon grass (*Ruppia maritima*). Water pollution, a wasting disease outbreak in the 1930s, the Hurricane of 1938, and coastal development caused severe damage to seagrass beds. Where once eelgrass was found as far north as Providence, eelgrass currently thrives only in the lower bay, the Coastal Salt Ponds, and the outer parts of Little Narragansett Bay (NBEP 2023). Eelgrass extent has increased with the improvement of water quality, especially in the West Passage. However, eelgrass extent has declined in the Coastal Ponds and shallow embayments likely due to high water temperatures stressing the plants (NBEP 2023). Also of note is a persistent bed of widgeon grass in Greenwich Bay which provides some hope that eelgrass may return to the upper bay (NBEP 2023).
+Two types of seagrasses exist in the Narragansett Bay region: eelgrass (*Zostera marina*) and widgeon grass (*Ruppia maritima*). Water pollution, a wasting disease outbreak in the 1930s, the Hurricane of 1938, and coastal development caused severe damage to seagrass beds. Where once eelgrass was found as far north as Providence, eelgrass currently thrives only in the lower bay, the Coastal Salt Ponds, and the outer parts of Little Narragansett Bay [@nbep2023b]. Eelgrass extent has increased with the improvement of water quality, especially in the West Passage. However, eelgrass extent has declined in the Coastal Ponds and shallow embayments likely due to high water temperatures stressing the plants [@nbep2023b]. Also of note is a persistent bed of widgeon grass in Greenwich Bay which provides some hope that eelgrass may return to the upper bay [@nbep2023b].
 
 Artificial reefs have long been used as restoration techniques to improve the attraction and production of key marine species, including lobsters, shellfish, sea bass and other sport fish, thus improving recreational and economic opportunities. In 2019, RIDEM and TNC-RI installed a series of “reef balls”, artificial reef structures in the Providence River near East Providence to enhance fish communities. Since then, RIDEM and TNC-RI have continued monitoring the fish communities in the area. [URI is researching](https://www.providencejournal.com/story/sports/outdoors/2024/10/11/can-artificial-reefs-protect-our-shores-from-erosion-two-uri-professors-think-so/75604493007/) the possibility of adding artificial reefs off the south shore of Rhode Island to protect the region from storms and to enhance habitat including lobster rearing and kelp production.
 
-Renewed interest in these habitats, including [federal funding](https://www.epa.gov/snep/snep-priority-research-awards) to support seagrass research, continued SPI analysis (NBEP 2020), the formation of the Seaweed Ecology and Assessment Collaborative, and continued fish community monitoring highlights the need to understand the variety of stressors that impact benthic habitats. NBEP can synthesize what has been done to assess and restore these habitats and analyze the data collected to inform policy decisions and future management actions, including restoration.
+Renewed interest in these habitats, including [federal funding](https://www.epa.gov/snep/snep-priority-research-awards) to support seagrass research, continued SPI analysis [@nbep2020c], the formation of the Seaweed Ecology and Assessment Collaborative, and continued fish community monitoring highlights the need to understand the variety of stressors that impact benthic habitats. NBEP can synthesize what has been done to assess and restore these habitats and analyze the data collected to inform policy decisions and future management actions, including restoration.
 
 NBEP will continue to convene and coordinate partners across state and institutional boundaries to coordinate and share knowledge, practices, and outcomes of assessing and restoring benthic habitats.
 
 # Potential Projects
 
-- Synthesize past and ongoing regional seagrass restoration efforts including methodologies used, success of restoration efforts, locations, etc. This synthesis should assess if these techniques could be more successful with current, improved water quality.
+-   Synthesize past and ongoing regional seagrass restoration efforts including methodologies used, success of restoration efforts, locations, etc. This synthesis should assess if these techniques could be more successful with current, improved water quality.
 
-- Update seagrass site suitability models or indices (Detenbeck & Rego 2015). Ensure such models include environmental variables of interest including water quality, sediment type and quality. Focus should be given to shallow water habitats to ensure data coverage is of sufficient resolution for a model.
+-   Update seagrass site suitability models or indices [@detenbeck2015]. Ensure such models include environmental variables of interest including water quality, sediment type and quality. Focus should be given to shallow water habitats to ensure data coverage is of sufficient resolution for a model.
 
-- Update monitoring protocols to modernize approaches to tiered seagrass monitoring, include widgeon grass, and develop sentinel seagrass monitoring sites. Sentinel sites should focus on how habitats respond to stress, establishing baselines for restoration, and include an area currently covered with widgeon grass to assess any potential transition from widgeon grass to eelgrass.
+-   Update monitoring protocols to modernize approaches to tiered seagrass monitoring, include widgeon grass, and develop sentinel seagrass monitoring sites. Sentinel sites should focus on how habitats respond to stress, establishing baselines for restoration, and include an area currently covered with widgeon grass to assess any potential transition from widgeon grass to eelgrass.
 
-- Establish long-term goals for benthic habitat monitoring, including the use of sediment profile imaging, sled-cameras, gliders, and autonomous underwater vehicles.
+-   Establish long-term goals for benthic habitat monitoring, including the use of sediment profile imaging, sled-cameras, gliders, and autonomous underwater vehicles.
 
-- Update 2018 benthic sediment profile imaging (SPI) for Narragansett Bay. Expand SPI to other areas of the region (Salt Ponds and Little Narragansett Bay) and new sites of interest, including shallow water portions of the coastal ponds. SPI can provide an assessment of benthic habitat quality trends, particularly in the upper part of the Bay due to improved water quality.
+-   Update 2018 benthic sediment profile imaging (SPI) for Narragansett Bay. Expand SPI to other areas of the region (Salt Ponds and Little Narragansett Bay) and new sites of interest, including shallow water portions of the coastal ponds. SPI can provide an assessment of benthic habitat quality trends, particularly in the upper part of the Bay due to improved water quality.
 
-- Update benthic sled camera monitoring in the Providence River Estuary.
+-   Update benthic sled camera monitoring in the Providence River Estuary.
 
-- Synthesize artificial reef work that has been completed throughout the bay assessing the method and materials used, and if the reef has improved fish habitat in the area. Use this synthesis to develop an artificial reef plan to guide future work to focus on both habitat creation and resilience in high-erosion areas.
+-   Synthesize artificial reef work that has been completed throughout the bay assessing the method and materials used, and if the reef has improved fish habitat in the area. Use this synthesis to develop an artificial reef plan to guide future work to focus on both habitat creation and resilience in high-erosion areas.
 
-- Implement the Macroalgae Monitoring Protocol developed by SEAC-RI to understand the seasonal abundance/distribution of drift and attached algae, habitat impacts from drift algae, and changes to algae due to stress.
+-   Implement the Macroalgae Monitoring Protocol developed by SEAC-RI to understand the seasonal abundance/distribution of drift and attached algae, habitat impacts from drift algae, and changes to algae due to stress.
 
-- Explore using dredged materials to restore areas of exposed sediment containing high concentrations of contaminants.
+-   Explore using dredged materials to restore areas of exposed sediment containing high concentrations of contaminants.
 
 # Outputs
 
-- White papers synthesizing seagrass and artificial reef restoration efforts
+-   White papers synthesizing seagrass and artificial reef restoration efforts
 
-- Updated Seagrass Site Suitability models
+-   Updated Seagrass Site Suitability models
 
-- Updated seagrass, macroalgae, and benthic habitat monitoring protocols
+-   Updated seagrass, macroalgae, and benthic habitat monitoring protocols
 
-- Updated and expanded SPI analysis
+-   Updated and expanded SPI analysis
 
 # Outcomes
 
-- Activated and coordinated local partners in assessment and restoration projects
+-   Activated and coordinated local partners in assessment and restoration projects
 
-- Increased number of benthic habitat restoration projects
+-   Increased number of benthic habitat restoration projects
 
-- More acres of benthic habitats restored
+-   More acres of benthic habitats restored
 
-- Increased number of artificial reefs
+-   Increased number of artificial reefs
 
 # Indicators
 

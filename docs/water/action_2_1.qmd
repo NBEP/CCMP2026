@@ -2,15 +2,19 @@
 title: "Action Water-2.1: Stormwater Guidance and Education"
 ---
 
-Full Action Statement: Update and standardize stormwater design manuals, support stormwater workforce training and capacity-building, and encourage public education and involvement to reduce stormwater pollution.
+::: {.callout-info}
+# Full Action Statement
+
+Update and standardize stormwater design manuals, support stormwater workforce training and capacity-building, and encourage public education and involvement to reduce stormwater pollution.
+:::
 
 # Action Description and Statement of Need
 
 This Action will support the necessary preconditions to accelerate the use and maintenance of effective designs for stormwater best management practices and support public education and involvement to reduce stormwater pollution. Specifically, partners will update and standardize stormwater BMP design manuals; support training and education for BMP design, construction, and maintenance; and encourage public involvement in reducing stormwater pollution.
 
-Massachusetts, Rhode Island, and Connecticut maintain stormwater BMP manuals that provide guidance on stormwater management. Connecticut recently updated its manual (CT DEEP 2024). Older manuals for Massachusetts (MassDEP 2008) and Rhode Island (RIDEM 2015) will be updated to incorporate scientific advances, regulatory changes, and newer practices for LID site planning and green infrastructure BMP installation and maintenance.
+Massachusetts, Rhode Island, and Connecticut maintain stormwater BMP manuals that provide guidance on stormwater management. Connecticut recently updated its manual [@ctdeep2024]. Older manuals for Massachusetts [@massdep2008] and Rhode Island [@ridem2015] will be updated to incorporate scientific advances, regulatory changes, and newer practices for LID site planning and green infrastructure BMP installation and maintenance.
 
-Workforce education and professional development can encourage and support municipalities to implement and properly maintain stormwater BMPs. The SNEP Network Stormwater Planning Series offers free training and technical assistance to guide communities through the process of developing a conceptual design for a nature-based stormwater retrofit in a selected drainage area. The Providence Stormwater Innovation Center monitors water quality and the effectiveness of stormwater BMPs and teaches and trains others about the successes and failures of BMP design, implementation, maintenance, and lifespan. NBEP funded a project to monitor and evaluate the performance of 25 regional green infrastructure projects and offer critical insights for retrofit or repairs for underperforming projects (Kopp 2023).
+Workforce education and professional development can encourage and support municipalities to implement and properly maintain stormwater BMPs. The SNEP Network Stormwater Planning Series offers free training and technical assistance to guide communities through the process of developing a conceptual design for a nature-based stormwater retrofit in a selected drainage area. The Providence Stormwater Innovation Center monitors water quality and the effectiveness of stormwater BMPs and teaches and trains others about the successes and failures of BMP design, implementation, maintenance, and lifespan. NBEP funded a project to monitor and evaluate the performance of 25 regional green infrastructure projects and offer critical insights for retrofit or repairs for underperforming projects [@kopp2023].
 
 NBEP and partners will support work to reduce stormwater pollution through enhanced public education campaigns and new public policies. Regional partners will convene to develop strategies to assist municipalities with pollution reduction program development, implementation, and enforcement, and to design innovative and effective public awareness strategies for adoption by local groups. This action for public pollution mitigation and education also includes support for professional training programs for commercial service providers such as landscapers whose practices have consequences for stormwater quality. Professional training programs, certifications, and registries can also elevate BMPs to industry standard practices.
 
@@ -18,39 +22,39 @@ NBEP will fund stormwater manual updates, trainings, and public education activi
 
 # Potential Projects
 
-- Update stormwater design and installation manuals for each state, as necessary, including protocols for maintenance, monitoring, and evaluation. NBEP has partnered with RIDEM to secure funding to update the Rhode Island Stormwater Design Manual.
+-   Update stormwater design and installation manuals for each state, as necessary, including protocols for maintenance, monitoring, and evaluation. NBEP has partnered with RIDEM to secure funding to update the Rhode Island Stormwater Design Manual.
 
-- Support education and professional development to increase municipal and NGO capacities to maintain green infrastructure, nature-based solutions, or other stormwater infrastructure.
+-   Support education and professional development to increase municipal and NGO capacities to maintain green infrastructure, nature-based solutions, or other stormwater infrastructure.
 
-- Support public engagement and involvement activities to spread awareness about ways to reduce stormwater pollution.
+-   Support public engagement and involvement activities to spread awareness about ways to reduce stormwater pollution.
 
-- Convene partners to review existing plans, identify priority needs for new policies and programs that target stormwater pollution, and seek avenues for policy and program development and adoption.
+-   Convene partners to review existing plans, identify priority needs for new policies and programs that target stormwater pollution, and seek avenues for policy and program development and adoption.
 
 # Outputs
 
-- Updated stormwater manuals
+-   Updated stormwater manuals
 
-- Educational materials
+-   Educational materials
 
-- Trainings
+-   Trainings
 
-- Working group meetings
+-   Working group meetings
 
-- Studies to understand and improve stormwater BMPs
+-   Studies to understand and improve stormwater BMPs
 
 # Outcomes
 
-- Improved water quality
+-   Improved water quality
 
-- Reduced flooding
+-   Reduced flooding
 
-- Improved protection for public health and property
+-   Improved protection for public health and property
 
-- Expanded use of LID and green infrastructure
+-   Expanded use of LID and green infrastructure
 
-- A trained workforce capable of designing, installing, and maintaining stormwater infrastructure, especially LID and green infrastructure
+-   A trained workforce capable of designing, installing, and maintaining stormwater infrastructure, especially LID and green infrastructure
 
-- Increased public awareness about stormwater pollution drivers, consequences, and solutions
+-   Increased public awareness about stormwater pollution drivers, consequences, and solutions
 
 # Indicators
 

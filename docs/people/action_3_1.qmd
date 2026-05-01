@@ -2,7 +2,11 @@
 title: "Action People-3.1: Finance Plan"
 ---
 
-Full Action Statement: Develop the NBEP Finance Plan to catalyze fundraising and investments for projects that implement the CCMP.
+::: {.callout-note}
+# Full Action Statement
+
+Develop the NBEP Finance Plan to catalyze fundraising and investments for projects that implement the CCMP.
+:::
 
 # Action Description and Statement of Need
 
@@ -12,7 +16,9 @@ In addition to consistent funding through the National Estuary Program, watershe
 
 Since 2022, NBEP’s staff has grown from two to five full-time employees. This growth has enabled NBEP to increase and diversify services that it provides to partners and other organizations, including convening, science communication, and project funding. With the recent hires of two new positions, Watershed Outreach Manager and Staff Ecologist, NBEP anticipates further diversifying its services to include direct outreach and habitat project implementation. The NBEP Finance Plan will seek to balance NBEP’s internal operations requirements with external subawards and contracts to support CCMP implementation.
 
-Due to realized and anticipated reductions in federal investments in conservation efforts over early implementation of this CCMP Revision, it is important for NBEP to develop a targeted strategy for granting subawards and contracts. NBEP will work closely with partners during development of the Finance Plan to identify the highest-priority projects in this CCMP Revision to pursue with external awards within the framework of NBEP’s nine-step Project Development Process (Figure 4).
+Due to realized and anticipated reductions in federal investments in conservation efforts over early implementation of this CCMP Revision, it is important for NBEP to develop a targeted strategy for granting subawards and contracts. NBEP will work closely with partners during development of the Finance Plan to identify the highest-priority projects in this CCMP Revision to pursue with external awards within the framework of NBEP’s nine-step Project Development Process (@fig-project-development).
+
+![NBEP Project Development Process](../images/project_development_process.png){#fig-project-development fig-alt="Project development process. Arrow with nine steps. Labels above arrow: 1 is education, 2 through 5 is selection, 6 through 8 is design and planning, and 9 is implementation. Arrow steps: 1 engagement, 2 problem identifcation, 3 solution development, 4 partner committment, 5 grant writing and management, 6 study and assessment, 7 conceptual design, 8 final design and permitting, 9 construciton. Step 1 and 5, engagement and grant writing, can take place across all steps of project development."}
 
 Despite decades of consistent—and in recent years, increased—federal and state financial support for restoration, project funding remains insufficient. The Narragansett Bay region receives roughly one-fifth of the federal dollars per square mile that are received to support comparable project needs in Chesapeake Bay, Puget Sound, Long Island Sound, and Lake Champlain regions. Through development and implementation of its Finance Plan and Engagement Plan (Action: [People-1.1](action_1_1.qmd)), NBEP will convene partners to seek additional funding for water quality and habitat restoration.
 

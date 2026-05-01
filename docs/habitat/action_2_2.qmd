@@ -2,13 +2,17 @@
 title: "Action Habitat-2.2: Habitat Projects"
 ---
 
-Full Action Statement: Identify, prioritize, and coordinate partner opportunities and funding to implement habitat restoration projects.
+::: callout-note
+# Full Action Statement
+
+Identify, prioritize, and coordinate partner opportunities and funding to implement habitat restoration projects.
+:::
 
 # Action Description and Statement of Need
 
 This action will enhance regional coordination and implementation of habitat restoration projects. Priority habitats for restoration include salt marshes, seagrass beds, tidal shorelines, rivers, riparian shorelines, floodplains, wetlands, ponds, and lakes. Restoration projects are designed to improve water quality, natural water flow and sediment regimes, and health of native freshwater and marine life. Habitat restoration also supports resilience by increasing flood protection from storms and higher sea levels. Restored and resilient habitats improve community access and health and economic prospects for commercially important harvests.
 
-Habitat restoration in the region has generally been opportunistic, with practitioners implementing projects as they arise when willing landowners, staff capacity, and funding align. Salt marsh practitioners participating in the Salt Marsh RAMP have made significant progress on collaboratively prioritizing restorations based on condition, value, and migration potential; this coordination can serve as a model for other habitat types. NBEP will continue to support or fund smaller projects, but this action will accelerate coordinated and holistic efforts directed at system or sub-watershed scale improvements. Recovery of ecological systems and natural processes in a degraded watershed requires restoration at the appropriate scale (Whol *et al.* 2015).
+Habitat restoration in the region has generally been opportunistic, with practitioners implementing projects as they arise when willing landowners, staff capacity, and funding align. Salt marsh practitioners participating in the Salt Marsh RAMP have made significant progress on collaboratively prioritizing restorations based on condition, value, and migration potential; this coordination can serve as a model for other habitat types. NBEP will continue to support or fund smaller projects, but this action will accelerate coordinated and holistic efforts directed at system or sub-watershed scale improvements. Recovery of ecological systems and natural processes in a degraded watershed requires restoration at the appropriate scale [@wohl2015].
 
 NBEP will maintain priority restoration project databases and coordinate funding opportunities for priority projects through existing federal sources like EPA and NOAA, and state sources like the RI Coastal and Estuarine Habitat Restoration Program and Trust and the MA Coastal Resilience Grant Program.
 
@@ -16,35 +20,35 @@ NBEP will also coordinate outreach and project support to local watershed or lak
 
 # Potential Projects
 
-- Coordinate among groups pursuing priority habitat assessment, planning, and restoration in the greater Narragansett Bay region.
+-   Coordinate among groups pursuing priority habitat assessment, planning, and restoration in the greater Narragansett Bay region.
 
-- Maintain priority project lists for major estuarine, riverine, and riparian habitat types/ecosystems in the Narragansett Bay region.
+-   Maintain priority project lists for major estuarine, riverine, and riparian habitat types/ecosystems in the Narragansett Bay region.
 
-- Support states, municipalities, and local NGOs with planning, project identification, and prioritization.
+-   Support states, municipalities, and local NGOs with planning, project identification, and prioritization.
 
-- Maintain a resource library of Quality Assurance Project Plans (QAPPs) and other project documents as a resource for practitioner reference.
+-   Maintain a resource library of Quality Assurance Project Plans (QAPPs) and other project documents as a resource for practitioner reference.
 
 # Outputs
 
-- Coordination meetings and tools for groups pursuing restorations in the same areas
+-   Coordination meetings and tools for groups pursuing restorations in the same areas
 
-- Annually updated list of priority estuarine and freshwater restoration projects
+-   Annually updated list of priority estuarine and freshwater restoration projects
 
-- Additional fully funded requests for proposals for freshwater and estuarine habitat projects
+-   Additional fully funded requests for proposals for freshwater and estuarine habitat projects
 
-- Additional completed restoration projects from approved restoration plans.
+-   Additional completed restoration projects from approved restoration plans.
 
-- Education and invasive species removal events and programs
+-   Education and invasive species removal events and programs
 
 # Outcomes
 
-- Accelerated system or sub-watershed scale habitat improvements
+-   Accelerated system or sub-watershed scale habitat improvements
 
-- Activated and coordinated local partners in restoration and outreach projects
+-   Activated and coordinated local partners in restoration and outreach projects
 
-- More engaged watershed or pond groups with more members
+-   More engaged watershed or pond groups with more members
 
-- More estuarine and freshwater systems meet both habitat and recreational use standards and sustain healthy wildlife and human use
+-   More estuarine and freshwater systems meet both habitat and recreational use standards and sustain healthy wildlife and human use
 
 # Indicators
 

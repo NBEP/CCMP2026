@@ -2,7 +2,11 @@
 title: "Action Habitat-1.1: Biodiversity and Habitat Quality Monitoring"
 ---
 
-Full Action Statement: Support, improve, and create efficiencies for monitoring and documenting biodiversity and habitat quality.
+::: callout-note
+# Full Action Statement
+
+Support, improve, and create efficiencies for monitoring and documenting biodiversity and habitat quality.
+:::
 
 # Action Description and Statement of Need
 
@@ -18,45 +22,45 @@ NBEP will convene and collaborate with appropriate partners throughout the regio
 
 # Potential Projects
 
-- Convene interstate interests to coordinate and standardize monitoring activities and methods, including developing new or expanding current monitoring activities (such as seagrass, salt marsh, macroalgae, and cyanobacteria monitoring), and ensure that monitoring aligns with management questions and needs.
+-   Convene interstate interests to coordinate and standardize monitoring activities and methods, including developing new or expanding current monitoring activities (such as seagrass, salt marsh, macroalgae, and cyanobacteria monitoring), and ensure that monitoring aligns with management questions and needs.
 
-- Develop and/or update natural heritage databases for the states as needed, including BORIIS2 and BioMap2.
+-   Develop and/or update natural heritage databases for the states as needed, including BORIIS2 and BioMap2.
 
-- Support development of partner-driven habitat and biodiversity monitoring data clearinghouse tools.
+-   Support development of partner-driven habitat and biodiversity monitoring data clearinghouse tools.
 
-- Develop data visualization tools to encourage coordination on restoration projects.
+-   Develop data visualization tools to encourage coordination on restoration projects.
 
-- Support innovations in monitoring strategies that bring efficiencies to and build capacity for data collection and encourage community science programs that help fill priority data gaps.
+-   Support innovations in monitoring strategies that bring efficiencies to and build capacity for data collection and encourage community science programs that help fill priority data gaps.
 
-- Support partners to develop and expand sentinel habitat monitoring sites to explore changes to the habitat with time and under changing conditions.
+-   Support partners to develop and expand sentinel habitat monitoring sites to explore changes to the habitat with time and under changing conditions.
 
-- Convene and support partners to explore seagrass restoration using seed-dispersal and other techniques.
+-   Convene and support partners to explore seagrass restoration using seed-dispersal and other techniques.
 
 # Outputs
 
-- New monitoring protocols or programs from new or expanded monitoring activities
+-   New monitoring protocols or programs from new or expanded monitoring activities
 
-- Updated natural heritage databases and State Wildlife Action Plans
+-   Updated natural heritage databases and State Wildlife Action Plans
 
-- Clearinghouse tool connecting users with data
+-   Clearinghouse tool connecting users with data
 
-- Data visualization tools highlighting restoration and monitoring efforts
+-   Data visualization tools highlighting restoration and monitoring efforts
 
-- Working group meetings to convene on priority topics in the watershed
+-   Working group meetings to convene on priority topics in the watershed
 
-- Reports on select monitoring objectives
+-   Reports on select monitoring objectives
 
 # Outcomes
 
-- Coordinated and efficient monitoring activities
+-   Coordinated and efficient monitoring activities
 
-- Improved collection and use of natural heritage information
+-   Improved collection and use of natural heritage information
 
-- Enhanced understanding of ecosystem monitoring gaps and mechanisms to fill them
+-   Enhanced understanding of ecosystem monitoring gaps and mechanisms to fill them
 
-- Increased understanding of characteristics and changes in the Narragansett Bay region over time
+-   Increased understanding of characteristics and changes in the Narragansett Bay region over time
 
-- Ecosystem management that is better informed by monitoring
+-   Ecosystem management that is better informed by monitoring
 
 # Indicators
 

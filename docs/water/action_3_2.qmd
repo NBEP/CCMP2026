@@ -2,15 +2,19 @@
 title: "Action Water-3.2: Onsite Wastewater Systems"
 ---
 
-Full Action Statement: Support cesspool phaseouts and onsite system maintenance region-wide, and advanced septic system upgrades or extension of central sewer service in priority areas.
+::: callout-info
+# Full Action Statement
+
+Support cesspool phaseouts and onsite system maintenance region-wide, and advanced septic system upgrades or extension of central sewer service in priority areas.
+:::
 
 # Action Description and Statement of Need
 
-About 38 percent of the Narragansett Bay Watershed’s residents are served by septic systems and cesspools (Chapter 7 in NBEP 2017). Cesspools are outdated, low-performing onsite wastewater treatment and disposal systems (OWTDS) that are already being phased out in Rhode Island and Massachusetts, although thousands still remain in the Narragansett Bay region. Septic systems can threaten ecosystem and public health when they underperform or fail due to improper use, maintenance, location, or saturated leachfield soils. Residential septic systems have been linked to nitrogen loading (Valiela *et al*. 1992, Cole *et al.* 2006; Reay 2004), micropollutant pollution (Phillips *et al*. 2015), and organic wastewater contaminant pollution (Swarts *et al*. 2006) in coastal bays via transport through groundwater. Further, areas with high septic system density have been shown to contribute more to pathogen loading in waterways compared to areas with low septic density (Sowah *et al*. 2017). Within the Narragansett Bay region, the Coastal Salt Ponds watersheds have been the focus of significant management action to address OWTDS given the known contribution of onsite systems to water quality degradation in this area.
+About 38 percent of the Narragansett Bay Watershed’s residents are served by septic systems and cesspools (Chapter 7 in @nbep2017). Cesspools are outdated, low-performing onsite wastewater treatment and disposal systems (OWTDS) that are already being phased out in Rhode Island and Massachusetts, although thousands still remain in the Narragansett Bay region. Septic systems can threaten ecosystem and public health when they underperform or fail due to improper use, maintenance, location, or saturated leachfield soils. Residential septic systems have been linked to nitrogen loading [@valiela1992; @cole2006; @reay2004], micropollutant pollution [@phillips2015], and organic wastewater contaminant pollution [@swartz2006] in coastal bays via transport through groundwater. Further, areas with high septic system density have been shown to contribute more to pathogen loading in waterways compared to areas with low septic density [@sowah2017]. Within the Narragansett Bay region, the Coastal Salt Ponds watersheds have been the focus of significant management action to address OWTDS given the known contribution of onsite systems to water quality degradation in this area.
 
 For priority water quality hotspots, OWTDS may be converted to central sewer service or, where sewer service is unavailable, cost prohibitive, or otherwise undesired, traditional systems may be upgraded to advanced treatment systems that deliver enhanced nitrogen removal. Wastewater treatment facility plans should be updated on a regular basis to reflect changing conditions and actual population growth.
 
-Region-wide, efforts are needed to encourage regular inspection, maintenance, and pumping of septic systems. In Rhode Island, municipalities can establish local management programs to encourage or require OWTDS maintenance and Onsite Wastewater Management Plans to meet local needs. As of 2024, 21 towns in Rhode Island have adopted Onsite Wastewater Plans. Approved Plans make towns eligible to apply to the Community Septic System Loan Program for funding to provide interest-free loans for homeowners to fund septic system repairs and upgrades. Over the past 20 years (Spring 2024), 65 loans have been issued to 19 towns totaling 23 million dollars (RIDEM 2024a). RIDEM establishes minimum standards for alternative or experimental OWTDS and requires advanced nitrogen-removing treatment for new and repaired systems in targeted areas, including the Coastal Salt Pond and Narrow River watersheds. There were 8,537 alternative or experimental treatment components installed in the state as of July 2024. RIDEM cautions that these systems require a greater level of oversight to ensure they operate and perform according to design and desired level of treatment (RIDEM 2024a).
+Region-wide, efforts are needed to encourage regular inspection, maintenance, and pumping of septic systems. In Rhode Island, municipalities can establish local management programs to encourage or require OWTDS maintenance and Onsite Wastewater Management Plans to meet local needs. As of 2024, 21 towns in Rhode Island have adopted Onsite Wastewater Plans. Approved Plans make towns eligible to apply to the Community Septic System Loan Program for funding to provide interest-free loans for homeowners to fund septic system repairs and upgrades. Over the past 20 years (Spring 2024), 65 loans have been issued to 19 towns totaling 23 million dollars [@ridem2024a]. RIDEM establishes minimum standards for alternative or experimental OWTDS and requires advanced nitrogen-removing treatment for new and repaired systems in targeted areas, including the Coastal Salt Pond and Narrow River watersheds. There were 8,537 alternative or experimental treatment components installed in the state as of July 2024. RIDEM cautions that these systems require a greater level of oversight to ensure they operate and perform according to design and desired level of treatment [@ridem2024a].
 
 Massachusetts requires new construction in nitrogen-sensitive Natural Resource Areas to install nitrogen-reducing septic system technologies. Others in Natural Resource Areas must upgrade their systems by 2030, unless their town applies for a Watershed Permit to provide other nitrogen-reduction solutions. Currently, there are no Natural Resource Areas in the Narragansett Bay region. Massachusetts offers an OWTDS repair tax credit and the state’s Housing Financing Agency offers septic repair loans.
 
@@ -18,23 +22,23 @@ NBEP will fund OWTDS assessments, plans, public outreach, and other projects tha
 
 # Potential Projects
 
-- Fund studies to assess the contribution of OWTDS to water pollution where there are gaps in understanding.
+-   Fund studies to assess the contribution of OWTDS to water pollution where there are gaps in understanding.
 
-- Support efforts to encourage property owners to properly maintain OWTDS, including those operating with advanced treatment technologies.
+-   Support efforts to encourage property owners to properly maintain OWTDS, including those operating with advanced treatment technologies.
 
 # Outputs
 
-- White papers or other research products that document OWTDS performance in areas that currently lack information
+-   White papers or other research products that document OWTDS performance in areas that currently lack information
 
-- Cesspool removals
+-   Cesspool removals
 
-- Advanced treatment systems installed in priority areas
+-   Advanced treatment systems installed in priority areas
 
 # Outcomes
 
-- More OWTDS meet high standards of performance
+-   More OWTDS meet high standards of performance
 
-- More waterways previously impaired by OWTDS pollution meet designated uses
+-   More waterways previously impaired by OWTDS pollution meet designated uses
 
 # Indicators
 

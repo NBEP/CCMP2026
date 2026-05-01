@@ -2,13 +2,17 @@
 title: "Action Water-2.2: Stormwater Retrofits and Maintenance"
 ---
 
-Full Action Statement: Support stormwater retrofit opportunities and associated maintenance activities to improve resilience and treatment capacity.
+::: {.callout-info}
+# Full Action Statement
+
+Support stormwater retrofit opportunities and associated maintenance activities to improve resilience and treatment capacity.
+:::
 
 # Action Description and Statement of Need
 
 This Action will support design, construction, and maintenance of stormwater retrofit projects, especially green infrastructure BMPs, that improve water quality, help mitigate flooding, and increase resilience to intensifying precipitation.
 
-Green infrastructure BMP retrofits, which use filtration, infiltration, and evapotranspiration to treat and soak up rainwater where it falls, can deliver environmental, social, and economic benefits beyond stormwater management alone. Retrofits can augment underperforming or failing systems or add additional capacity or lifespan to functioning systems. Examples of common green infrastructure BMPs in urban and suburban environments include bioswales, cisterns and rain barrels, dry wells and infiltration trenches, rain gardens and bioretention, permeable paving, and trees. New technologies and approaches continue to evolve (SNEP and VHB 2022). For example, by using green infrastructure BMP retrofits alongside other water quality improvement actions, the bacterial impairment for recreation use in Greenwich Cove was removed from Rhode Island’s 2016 303(d) list of impaired waters. The project featured stormwater catch basin upgrades, street sweeping, sewer main replacement, correcting illicit connections, and connecting a failing septic system to central sewer. Greenwich Cove remains on the Rhode Island 303(d) list for other impairments.
+Green infrastructure BMP retrofits, which use filtration, infiltration, and evapotranspiration to treat and soak up rainwater where it falls, can deliver environmental, social, and economic benefits beyond stormwater management alone. Retrofits can augment underperforming or failing systems or add additional capacity or lifespan to functioning systems. Examples of common green infrastructure BMPs in urban and suburban environments include bioswales, cisterns and rain barrels, dry wells and infiltration trenches, rain gardens and bioretention, permeable paving, and trees. New technologies and approaches continue to evolve [@snep2022]. For example, by using green infrastructure BMP retrofits alongside other water quality improvement actions, the bacterial impairment for recreation use in Greenwich Cove was removed from Rhode Island’s 2016 303(d) list of impaired waters. The project featured stormwater catch basin upgrades, street sweeping, sewer main replacement, correcting illicit connections, and connecting a failing septic system to central sewer. Greenwich Cove remains on the Rhode Island 303(d) list for other impairments.
 
 Farms can also implement stormwater BMPs such as manure management, manure retaining systems, conservation buffers, and livestock fencing. In the Narragansett Bay watershed, state Natural Resources Conservation Service (NRCS) offices and conservation districts assist farmers and ranchers with creating conservation plans and implementing beneficial practices.
 
@@ -20,29 +24,29 @@ NBEP will fund studies and planning efforts that lead to stormwater retrofits, w
 
 # Potential Projects
 
-- Support under-resourced and under-staffed communities to design and implement holistic and coordinated landscape-scale approaches to meeting stormwater requirements.
+-   Support under-resourced and under-staffed communities to design and implement holistic and coordinated landscape-scale approaches to meeting stormwater requirements.
 
-- Fund studies and efforts to develop sustainable financing mechanisms to support more effective stormwater management at state and local levels.
+-   Fund studies and efforts to develop sustainable financing mechanisms to support more effective stormwater management at state and local levels.
 
-- Support partners to work with farms to develop and implement Conservation Plans that identify BMPs that mitigate stormwater impacts.
+-   Support partners to work with farms to develop and implement Conservation Plans that identify BMPs that mitigate stormwater impacts.
 
 # Outputs
 
-- Retrofit designs
+-   Retrofit designs
 
-- Completed retrofit projects
+-   Completed retrofit projects
 
-- Stormwater retrofit funding mechanisms
+-   Stormwater retrofit funding mechanisms
 
 # Outcomes
 
-- Water quantity and quality are better managed
+-   Water quantity and quality are better managed
 
-- Public health and property are better protected from the impacts of stormwater
+-   Public health and property are better protected from the impacts of stormwater
 
-- Municipalities have reliable funding pathways for stormwater retrofits and maintenance
+-   Municipalities have reliable funding pathways for stormwater retrofits and maintenance
 
-- Expanded use of green infrastructure
+-   Expanded use of green infrastructure
 
 # Indicators
 

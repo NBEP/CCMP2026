@@ -2,7 +2,11 @@
 title: "Action People-2.1: Science Communication Tools"
 ---
 
-Full Action Statement: Develop compelling open-source data visualizations, stories, and dashboards.
+::: {.callout-note}
+# Full Action Statement
+
+Develop compelling open-source data visualizations, stories, and dashboards.
+:::
 
 # Action Description and Statement of Need
 
