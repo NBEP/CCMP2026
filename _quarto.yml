@@ -7,23 +7,6 @@ bibliography: references.bib
 website:
   title: "NBEP 2026 CCMP"
   page-navigation: true
-  navbar:
-    background: primary
-    left:
-      - text: "Home"
-        href: index.qmd
-      - text: "About"
-        menu:
-          - docs/preface.qmd
-          - docs/about_region.qmd
-          - docs/about_nbep.qmd
-          - docs/about_ccmp.qmd
-      - text: "Action Plans"
-        menu:
-          - docs/people_action_plan.qmd
-      - text: "Appendices"
-        menu:
-          - docs/acronyms.qmd
   sidebar:
     style: "docked"
     search: true
@@ -31,7 +14,6 @@ website:
     contents:
       - text: "Home"
         href: index.qmd
-      - docs/preface.qmd
       - section: "About"
         contents:
         - docs/about_region.qmd
@@ -54,7 +36,6 @@ website:
         - docs/public_spaces_action_plan.qmd
         - auto: "docs/public_spaces/*"
       - docs/acronyms.qmd
-      - text: "References"
       - section: "Appendices"
         contents: docs/appendix/*
 
