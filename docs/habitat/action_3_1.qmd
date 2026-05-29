@@ -2,13 +2,13 @@
 title: "Action Habitat-3.1: Aquatic Connectivity"
 ---
 
-::: {.callout-note} 
-# Full Action Statement 
+::: callout-note
+## Full Action Statement
 
 Reconnect freshwater and saltwater systems and improve connectivity within freshwater systems to restore habitats and fisheries.
 :::
 
-# Action Description and Statement of Need
+## Action Description and Statement of Need
 
 This Action will accelerate planning and implementation of projects that improve and restore connectivity within freshwater systems and between freshwater and saltwater systems, such as removing dams and impoundments, replacing culverts, creating fish passageways, naturalizing river channels, and restoring tidal connections. These projects will improve safety, instream water quality and hydrology, wildlife habitat, and cultural and recreational opportunities. To deliver ecosystem benefits, structural improvements should be accompanied by system or sub-watershed scale improvements to reduce stormwater, nutrients, and contaminants ([CCMP Water Quality Improvement Action Plan](../water_action_plan.qmd)) [@bernhardt2011; @wohl2015].
 
@@ -20,7 +20,7 @@ Despite progress, many challenges face restoration practitioners. Chief among th
 
 NBEP will convene workgroups to share information, identify and prioritize projects, realize efficiencies to accelerate projects, support work to better understand sediment quality in the region’s rivers, and maintain priority project databases. NBEP will also help fund community outreach and project planning for priority dam removal, culvert replacement, and fish passage projects.
 
-# Potential Projects
+## Potential Projects
 
 -   Identify and prioritize opportunities to restore diadromous fish and to address high-hazard barriers; develop site-specific information and tools to assist decision-making, including cost-benefit analyses.
 
@@ -36,7 +36,7 @@ NBEP will convene workgroups to share information, identify and prioritize proje
 
 -   Work with Dam Safety offices to incorporate potential alternatives into dam emergency scenarios that account for connectivity restoration opportunities.
 
-# Outputs
+## Outputs
 
 -   Working group meetings
 
@@ -48,33 +48,33 @@ NBEP will convene workgroups to share information, identify and prioritize proje
 
 -   Outreach materials to support community engagement about ecosystem changes and post-dam removal, including water level changes, toxic sediments, and water quality
 
-# Outcomes
+## Outcomes
 
 -   Reconnection of miles of river and acres of habitat
 
 -   Return of diadromous fish to river systems
 
-# Indicators
+## Indicators
 
 Temperature, Precipitation, Sea Level Rise, Stream Invertebrates, Aquatic Life Use General, Recreation Use, Coldwater Fisheries
 
-# NBEP role
+## NBEP role
 
 Convene, Synthesize and communicate science, Fund capacity and projects
 
-# Implementing Partners
+## Implementing Partners
 
 EPA, The Nature Conservancy in Rhode Island, Blackstone Watershed Collaborative, Save The Bay, Mass Audubon, Woonasquatucket River Watershed Council, RIRC, SRPEDD, RIDEM, RIDOT, MA EOEEA, MA DER, Narragansett Indian Tribe, Hassanamisco Nipmuc Band, Blackstone River Watershed Council, RI Saltwater Anglers Association
 
-# Location
+## Location
 
 Narragansett Bay region
 
-# Timeline for initiation
+## Timeline for initiation
 
 Ongoing
 
-# Estimated costs/potential funding sources
+## Estimated costs/potential funding sources
 
 \$10M+
 

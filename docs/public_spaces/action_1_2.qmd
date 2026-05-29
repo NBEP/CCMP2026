@@ -2,13 +2,13 @@
 title: "Action Public Spaces-1.2: Public Access Protection"
 ---
 
-::: {.callout-info}
-# Full Action Statement
+::: callout-info
+## Full Action Statement
 
 Develop policies and awareness campaigns to clarify and ensure legal access to shorelines and inland waterways.
 :::
 
-# Action Description and Statement of Need
+## Action Description and Statement of Need
 
 This Action will improve public access to shorelines and waterways by clarifying legal rights and policies for public rights-of-way and access points. Public awareness campaigns will help ensure those rights are understood and protected.
 
@@ -22,13 +22,13 @@ Inequities exist in public access to the shoreline for mobility-impaired individ
 
 NBEP will fund capacity to clarify or develop policies and voice support for ensuring fair legal access to waterways, especially inland waterways where access issues have received less attention and scrutiny. NBEP will fund capacity to create informational campaigns to better educate residents and visitors alike on access and threats to access.
 
-# Potential Projects
+## Potential Projects
 
 -   Create and continue education and awareness campaigns to clarify public/private boundaries on the beach or along freshwater access points, prevent illegal signage, and ensure rights are protected.
 
 -   Develop policies that clarify legal rights to the shoreline and inland waterways and otherwise expand access in the region.
 
-# Outputs
+## Outputs
 
 -   Database of public access locations in the region and a new corresponding NBEP Public Access Indicator [@nbep2023a]
 
@@ -36,7 +36,7 @@ NBEP will fund capacity to clarify or develop policies and voice support for ens
 
 -   New policies and initiatives to clarify state laws
 
-# Outcomes
+## Outcomes
 
 -   Improved public understanding of how to access coastal and inland waters
 
@@ -44,27 +44,27 @@ NBEP will fund capacity to clarify or develop policies and voice support for ens
 
 -   Clarified state and municipal policies regarding access rights and rules for enforcement
 
-# Indicators
+## Indicators
 
 Precipitation, Sea Level, Water Quality for Recreation, Marine Beaches, Public Access
 
-# NBEP role
+## NBEP role
 
 Fund capacity and projects, Synthesize and communicate science
 
-# Implementing Partners
+## Implementing Partners
 
 Save The Bay, URI Coastal Institute, Blackstone Watershed Collaborative, RWU, CRMC, RIDEM, RI Saltwater Anglers Association
 
-# Location
+## Location
 
 Narragansett Bay region
 
-# Timeline for initiation
+## Timeline for initiation
 
 Ongoing
 
-# Estimated costs/potential funding sources
+## Estimated costs/potential funding sources
 
 \$500K–1M
 

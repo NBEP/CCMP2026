@@ -2,13 +2,13 @@
 title: "Action People-2.3: Indicators"
 ---
 
-::: {.callout-note}
-# Full Action Statement
+::: callout-note
+## Full Action Statement
 
 Develop and update indicators to track environmental and socioeconomic trends.
 :::
 
-# Action Description and Statement of Need
+## Action Description and Statement of Need
 
 This Action calls NBEP and partners to develop and update indicators to track environmental and socioeconomic trends. Stressor indicators provide information about water quality, landscape and chemical processes that can cause changes in the estuaries and their watersheds. Condition indicators provide information about the status and trends of natural ecosystems and human socioeconomic systems, like public health [@nbep2017].
 
@@ -18,7 +18,7 @@ In 2023, NBEP’s Social Science Working Group nominated four new socioeconomic 
 
 NBEP will lead development, metric refinement, and updates of environmental and socioeconomic indicators as guided by the Research Plan, Science Advisory Committee, Steering Committee, and topical work groups. NBEP will also expand the geographic scope of indicators to include Little Narragansett Bay and Rhode Island Coastal Ponds watersheds. Results will be published as an update to *The State of Narragansett Bay and Its Watershed* report.
 
-# Potential Projects
+## Potential Projects
 
 -   Develop refined metrics, assess and update existing indicators, and create new environmental and socioeconomic indicators.
 
@@ -26,7 +26,7 @@ NBEP will lead development, metric refinement, and updates of environmental and 
 
 -   Update *The State of Narragansett Bay and Its Watershed* report in 2027, emphasizing indicators that facilitate tracking CCMP goals and objectives.
 
-# Outputs
+## Outputs
 
 -   Indicator updates
 
@@ -36,7 +36,7 @@ NBEP will lead development, metric refinement, and updates of environmental and 
 
 -   Expanded geographic scope of indicators
 
-# Outcomes
+## Outcomes
 
 -   Improved understanding of environmental stressors and conditions in the region
 
@@ -44,27 +44,27 @@ NBEP will lead development, metric refinement, and updates of environmental and 
 
 -   Improved understanding of human-ecosystem interactions
 
-# Indicators
+## Indicators
 
 All indicators
 
-# NBEP role
+## NBEP role
 
 Convene, Synthesize and communicate science
 
-# Implementing Partners
+## Implementing Partners
 
 Science Advisory Committee, Southeast New England Program (SNEP), EPA Region 1, Other researchers
 
-# Location
+## Location
 
 Narragansett Bay region
 
-# Timeline for initiation
+## Timeline for initiation
 
 Ongoing
 
-# Estimated costs/potential funding sources
+## Estimated costs/potential funding sources
 
 \$500K–1M
 

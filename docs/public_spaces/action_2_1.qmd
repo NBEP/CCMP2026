@@ -2,13 +2,13 @@
 title: "Action Public Spaces-2.1: Environmental Health Alerts"
 ---
 
-::: {.callout-info}
-# Full Action Statement
+::: callout-info
+## Full Action Statement
 
 Develop and publicize education campaigns and public alert and incident reporting systems for environmental health risks.
 :::
 
-# Action Description and Statement of Need
+## Action Description and Statement of Need
 
 This Action will help protect public health by developing and/or publicizing consistent and education campaigns and notification systems to alert resource users to unsafe environmental conditions. Partners will coordinate efforts to design and implement public outreach strategies to target and alert users at the right places, at the right times, and with accurate messaging.
 
@@ -24,7 +24,7 @@ The States have notification systems in the event shellfish are unsafe for harve
 
 NBEP will help synthesize and communicate the science of environmental health risks associated with recreational use of local waters, coordinate partners to design shared multilingual education materials on environmental health risks, and fund capacity and projects to develop comprehensive public alert systems for environmental health risks.
 
-# Potential Projects
+## Potential Projects
 
 -   Increase public awareness of CSO alert systems.
 
@@ -34,39 +34,39 @@ NBEP will help synthesize and communicate the science of environmental health ri
 
 -   Track WWTF and CSO permits for compliance and notification of violations.
 
-# Outputs
+## Outputs
 
 -   Notification system for raw and partially treated sewage in Rhode Island waters
 
 -   New multilingual alert materials for priority public health concerns
 
-# Outcomes
+## Outcomes
 
 -   Improved public health
 
 -   Increased public awareness of water pollution and contamination problems and causes
 
-# Indicators
+## Indicators
 
 Shellfishing Areas, Marine Beaches, Legacy Contaminants, Water Quality Conditions for Recreation, Water Quality Conditions for Aquatic Life
 
-# NBEP role
+## NBEP role
 
 Synthesize and communicate science, Fund capacity and projects
 
-# Implementing Partners
+## Implementing Partners
 
 MassDEP, RIDEM, EPA, RIDOH, Narragansett Bay Commission, Stormwater Innovation Center, URI Watershed Watch, NEIWPCC, RWU, Blackstone Watershed Collaborative, Blackstone River Coalition, Mass Audubon, Taunton River Watershed Alliance, Save The Bay, SRPEDD, MA EOEEA, Mass Rivers, RI Saltwater Anglers Association
 
-# Location
+## Location
 
 Narragansett Bay region, with particular focus on freshwater resources for cyanobacteria and fish consumption alerts
 
-# Timeline for initiation
+## Timeline for initiation
 
 2030-2032
 
-# Estimated costs/potential funding sources
+## Estimated costs/potential funding sources
 
 \$1M–5M
 

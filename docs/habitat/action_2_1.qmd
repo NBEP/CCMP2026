@@ -3,12 +3,12 @@ title: "Action Habitat-2.1: Habitat Plans"
 ---
 
 ::: callout-note
-# Full Action Statement
+## Full Action Statement
 
 Update existing and develop new regional habitat restoration plans and strategies to facilitate cross-boundary projects and address emerging challenges for habitat resilience.
 :::
 
-# Action Description and Statement of Need
+## Action Description and Statement of Need
 
 This Action will update existing and publish new regional plans for freshwater and estuarine habitat restoration. ‘Plans’ refers broadly to strategies, designs, assessments, and protocols that apply from an ecosystem to a habitat location. Restoration plans have been developed for salt marshes, shellfish, coastal ponds, reefs, rivers, and forests. Seagrass and oyster restoration planning, along with broader aquaculture oversight, are underway locally and in the greater New England region.
 
@@ -18,7 +18,7 @@ Involvement of watershed-based organizations, land trusts, commercial aquacultur
 
 NBEP will convene partners to share restoration expertise and emerging best practices, coordinate habitat planning efforts, and prioritize restoration projects across institutional and state boundaries, with a goal of developing the NBEP Habitat Restoration Plan by 2028. NBEP will also assist to leverage resources with projects like the Blackstone Needs Assessment (2019–2021), the Blackstone Fish Passage Project (2021–current), and the Salt Marsh Restoration, Assessment and Monitoring Program (RAMP) (2022–current). NBEP will help fund partner and community outreach, efforts to update planning documents, and research to fill knowledge gaps.
 
-# Potential Projects
+## Potential Projects
 
 -   Develop the NBEP Habitat Restoration Plan.
 
@@ -38,7 +38,7 @@ NBEP will convene partners to share restoration expertise and emerging best prac
 
 -   Develop plans and actions to protect cold-water streams and rivers, or specific endangered and/or threatened freshwater species, such as native brook trout.
 
-# Outputs
+## Outputs
 
 -   NBEP Habitat Restoration Plan
 
@@ -54,7 +54,7 @@ NBEP will convene partners to share restoration expertise and emerging best prac
 
 -   Expanded SLAMM to cover entire region seamlessly
 
-# Outcomes
+## Outcomes
 
 -   Increased coordination on habitat restoration priorities, techniques, and projects across boundaries
 
@@ -68,27 +68,27 @@ NBEP will convene partners to share restoration expertise and emerging best prac
 
 -   Shared plans for achieving freshwater restoration goals, objectives, and targets
 
-# Indicators
+## Indicators
 
 Sea Level Rise, Nutrient Loading, DO, Chlorophyll, Water Clarity, Benthic Habitat, Seagrasses, Salt Marsh, Aquatic Life Use, Estuarine Fish Use, Recreation Use, Open Space, Marine Beaches, Shell Fishing Areas, Land Use, Impervious Surface, Stream Invertebrates, Coldwater Fish
 
-# NBEP role
+## NBEP role
 
 Convene, Synthesize and communicate science, Fund capacity and projects
 
-# Implementing Partners
+## Implementing Partners
 
 EPA Region 1, NBNERR, MassDEP, MA DER, MA CZM, Mass Wildlife, Massachusetts DCR, RIDEM, CRMC, URI CRC, RISG, Mass ECAN, RINHS, Mass Audubon, Blackstone Watershed Collaborative
 
-# Location
+## Location
 
 Narragansett Bay region
 
-# Timeline for initiation
+## Timeline for initiation
 
 2026
 
-# Estimated costs/potential funding sources
+## Estimated costs/potential funding sources
 
 \$5M–10M
 

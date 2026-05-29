@@ -2,13 +2,13 @@
 title: "Action Water-1.1: Water Quality Monitoring"
 ---
 
-::: {.callout-info}
-# Full Action Statement
+::: callout-info
+## Full Action Statement
 
 Support, improve, and create efficiencies for water quality monitoring programs to continue to provide information needed for management decision-making and filling knowledge gaps.
 :::
 
-# Action Description and Statement of Need
+## Action Description and Statement of Need
 
 This Action will advance collection and use of water quality monitoring data to enhance management decision-making, track progress towards environmental and human health protection and restoration targets, and fill priority knowledge gaps.
 
@@ -22,7 +22,7 @@ NBEP will support statewide monitoring strategy development and collaborate with
 
 NBEP will work with partners to develop and update monitoring databases and connect users with data. This could include identifying capacity, funding, and support for existing initiatives, such as the Narragansett Bay Data Portal or Snapshot of the Bay.
 
-# Potential Projects
+## Potential Projects
 
 -   Facilitate Science Advisory Committee and staff participation on the RI Environmental Monitoring Collaborative to provide multi-state support for cross-boundary monitoring needs including coordinating or standardizing monitoring activities and methods, developing new or expanding current monitoring activities (such as water column chemistry, emerging pollutants, or increased focus on embayments), and ensure that monitoring aligns with management questions and needs.
 
@@ -36,13 +36,13 @@ NBEP will work with partners to develop and update monitoring databases and conn
 
 -   Support innovations for funding and staff capacity to continue data collection, analysis, and reporting.
 
-# Outputs
+## Outputs
 
 -   New monitoring protocols or programs for new or expanded monitoring activities
 
 -   Appropriately updated water quality databases and Statewide Water Monitoring Strategies
 
-# Outcomes
+## Outcomes
 
 -   Enhanced capacity for water quality monitoring throughout the region
 
@@ -54,27 +54,27 @@ NBEP will work with partners to develop and update monitoring databases and conn
 
 -   Ecosystem management that is better informed by monitoring
 
-# Indicators
+## Indicators
 
 All indicators
 
-# NBEP role
+## NBEP role
 
 Convene, Fund capacity and projects
 
-# Implementing Partners
+## Implementing Partners
 
 RIDEM, MassDEP, URI Coastal Institute, RI Environmental Monitoring Collaborative, NBNERR, TNC (RI and MA), Salt Ponds Coalition, URI Watershed Watch, Save The Bay, Brown University, URI, Narragansett Bay Commission, EPA-ORD-ACESD
 
-# Location
+## Location
 
 Narragansett Bay region
 
-# Timeline for initiation
+## Timeline for initiation
 
 2026-2029
 
-# Estimated costs/potential funding sources
+## Estimated costs/potential funding sources
 
 \$5M–10M
 

@@ -2,13 +2,13 @@
 title: "Action Water-2.1: Stormwater Guidance and Education"
 ---
 
-::: {.callout-info}
-# Full Action Statement
+::: callout-info
+## Full Action Statement
 
 Update and standardize stormwater design manuals, support stormwater workforce training and capacity-building, and encourage public education and involvement to reduce stormwater pollution.
 :::
 
-# Action Description and Statement of Need
+## Action Description and Statement of Need
 
 This Action will support the necessary preconditions to accelerate the use and maintenance of effective designs for stormwater best management practices and support public education and involvement to reduce stormwater pollution. Specifically, partners will update and standardize stormwater BMP design manuals; support training and education for BMP design, construction, and maintenance; and encourage public involvement in reducing stormwater pollution.
 
@@ -20,7 +20,7 @@ NBEP and partners will support work to reduce stormwater pollution through enhan
 
 NBEP will fund stormwater manual updates, trainings, and public education activities. NBEP will also support activities to monitor and evaluate the effectiveness of green infrastructure projects.
 
-# Potential Projects
+## Potential Projects
 
 -   Update stormwater design and installation manuals for each state, as necessary, including protocols for maintenance, monitoring, and evaluation. NBEP has partnered with RIDEM to secure funding to update the Rhode Island Stormwater Design Manual.
 
@@ -30,7 +30,7 @@ NBEP will fund stormwater manual updates, trainings, and public education activi
 
 -   Convene partners to review existing plans, identify priority needs for new policies and programs that target stormwater pollution, and seek avenues for policy and program development and adoption.
 
-# Outputs
+## Outputs
 
 -   Updated stormwater manuals
 
@@ -42,7 +42,7 @@ NBEP will fund stormwater manual updates, trainings, and public education activi
 
 -   Studies to understand and improve stormwater BMPs
 
-# Outcomes
+## Outcomes
 
 -   Improved water quality
 
@@ -56,27 +56,27 @@ NBEP will fund stormwater manual updates, trainings, and public education activi
 
 -   Increased public awareness about stormwater pollution drivers, consequences, and solutions
 
-# Indicators
+## Indicators
 
 Precipitation, Impervious Cover, Wastewater Infrastructure, Water Quality Condition for Aquatic Life, Water Quality Condition for Recreation, Marine Beaches, Shellfishing Areas
 
-# NBEP role
+## NBEP role
 
 Fund capacity and projects
 
-# Implementing Partners
+## Implementing Partners
 
 EPA, RIDEM, MassDEP, Rhode Island Infrastructure Bank, Stormwater Innovation Center, SNEP Network, Conservation Districts, MS4 communities
 
-# Location
+## Location
 
 Tasks will be targeted to specific areas identified by partners as hotspots, especially areas with CSOs and communities with rain-driven flooding issues.
 
-# Timeline for initiation
+## Timeline for initiation
 
 2026
 
-# Estimated costs/potential funding sources
+## Estimated costs/potential funding sources
 
 \$1M–5M
 

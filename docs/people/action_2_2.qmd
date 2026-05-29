@@ -2,13 +2,13 @@
 title: "Action People-2.2: Ecosystem Modeling and Decision-Support Tools"
 ---
 
-::: {.callout-note}
-# Full Action Statement
+::: callout-note
+## Full Action Statement
 
 Support, improve, and create efficiencies for integrated ecosystem models and decision-support tools that foster effective resource management.
 :::
 
-# Action Description and Statement of Need
+## Action Description and Statement of Need
 
 This Action will advance the development and use of ecosystem modeling and decision-support tools for filling knowledge gaps, informing key management decisions, and setting and tracking progress toward environmental protection and restoration targets.
 
@@ -20,7 +20,7 @@ The rising and interlaced challenges of nutrient loading, stormwater pollution, 
 
 NBEP will collaborate with partners to convene interests across state boundaries to coordinate modeling and tool development. Activities could include assessing current modeling and tool-development projects to avoid duplication of efforts, discussing gaps in monitoring needed to accurately develop or update models and tools, and gaining consensus on a preferred pathway to developing a bay-wide water quality model. NBEP will participate on partner-led committees to develop or improve models or tools. NBEP can partially or fully fund development, update, or implementation of open-source models or tools to answer key management questions. NBEP will regularly provide guidance and updates to ensure modeling and tool development aligns with CCMP actions.
 
-# Potential Projects
+## Potential Projects
 
 -   Convene stakeholders and other experts to review available modeling tools and their limitations.
 
@@ -30,7 +30,7 @@ NBEP will collaborate with partners to convene interests across state boundaries
 
 -   Develop and/or update natural heritage database models to inform land use decisions.
 
-# Outputs
+## Outputs
 
 -   Assessment of existing water quality and hydrodynamic models, their intended use, and a pathway toward a larger, linked hydrodynamic model
 
@@ -38,7 +38,7 @@ NBEP will collaborate with partners to convene interests across state boundaries
 
 -   Working group meetings
 
-# Outcomes
+## Outcomes
 
 -   More efficient and accurate modeling tools for decision-making and policy
 
@@ -46,27 +46,27 @@ NBEP will collaborate with partners to convene interests across state boundaries
 
 -   Ecosystem management that is better informed by modeling and monitoring data
 
-# Indicators
+## Indicators
 
 All indicators
 
-# NBEP role
+## NBEP role
 
 Convene, Fund capacity and projects
 
-# Implementing Partners
+## Implementing Partners
 
 RIDEM, MassDEP, URI Coastal Institute, RI Environmental Monitoring Collaborative, Rhode Island Natural History Survey, NBNERR, Mass Audubon, MassWildlife, TNC (RI and MA), ASRI, Salt Ponds Coalition, URI Watershed Watch, Save The Bay, Brown University, URI, EPA-ORD-ACESD
 
-# Location
+## Location
 
 Narragansett Bay region
 
-# Timeline for Initiation
+## Timeline for Initiation
 
 2030-2032
 
-# Estimated costs/potential funding sources
+## Estimated costs/potential funding sources
 
 \$5M–10M
 

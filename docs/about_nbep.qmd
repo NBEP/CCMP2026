@@ -6,7 +6,7 @@ NBEP is a catalyst for scientific inquiry and collective action to restore and p
 
 NBEP was one of the first four estuaries to be included in the National Estuary Program (NEP), which is now 28 members strong. The NEP, administered by the Environmental Protection Agency (EPA), was created by Congress through 1987 Amendments to the federal Clean Water Act. The enabling legislation was drafted by late Rhode Island Senator John H. Chafee and other leaders in Congress to protect and restore “estuaries of national significance.” The NEP designation provided funding and structure for the nascent Narragansett Bay Program to publish the results and recommendations from seven years of intensive study of Narragansett Bay and its watershed as the first Comprehensive Conservation and Management Plan (CCMP) for Narragansett Bay (1992). The 1992 CCMP laid the groundwork for NBEP to operate as a locally-led, collaborative, non-regulatory program focused on protecting and restoring the water quality and ecological integrity of Narragansett Bay. NBEP is one of six NEPs with watersheds in New England. While NBEP engages with all NEPs, NBEP coordinates particularly closely with neighboring Buzzards Bay National Estuary Program and Long Island Sound Partnership due to small study area overlaps (2.8 square miles and 75.6 square miles, respectively). Staff carefully communicate with each other about funded projects and other work within the overlap areas to ensure appropriate levels of support across all communities within NEP regions.
 
-# Management Conference
+## Management Conference
 
 NBEP’s shared governance structure, consisting of dedicated staff and interns along with three volunteer Standing Committees, ensures that open discussion, cooperation, consensus-building, and collaborative decision-making among diverse partners advances the CCMP and mission.
 
@@ -20,7 +20,7 @@ Three Standing Committees—Steering Committee, Executive Committee, and Science
 
 ::: {#tbl-committee}
 |  |
-|:---|
+|:-----------------------------------------------------------------------|
 | **Chair** Caitlin Chaffee, Chief, Narragansett Bay National Estuarine Research Reserve |
 | **Vice Chair** David Monti, Journalist, Recreational Fisherman, Charter Captain, No Fluke Fishing Charters |
 | Richard Carey, Director, Watershed Planning Program, Massachusetts Department of Environmental Protection |
@@ -33,7 +33,7 @@ Three Standing Committees—Steering Committee, Executive Committee, and Science
 : Executive Committee {#tbl-ec}
 
 |  |
-|:---|
+|:-----------------------------------------------------------------------|
 | **Chair** Caitlin Chaffee\*, Chief, Narragansett Bay National Estuarine Research Reserve |
 | **Vice Chair** David Monti\*, Journalist, Recreational Fisherman, Charter Captain, No Fluke Fishing Charters |
 | Molly Allard, District Manager, Northern Rhode Island Conservation District |
@@ -68,7 +68,7 @@ Three Standing Committees—Steering Committee, Executive Committee, and Science
 : Steering Committee (\*Executive Committee Member) {#tbl-sc}
 
 |  |
-|:---|
+|:-----------------------------------------------------------------------|
 | Catie Alves, South County Coast Keeper, Save The Bay |
 | Michaela Cashman, Chemist, U.S. Environmental Protection Agency, Office of Research and Development, Atlantic Coastal Environmental Sciences Division |
 | Sue Flint, Environmental Analyst, Watershed Planning Program, Massachusetts Department of Environmental Protection |
@@ -96,11 +96,11 @@ Three Standing Committees—Steering Committee, Executive Committee, and Science
 NBEP Standing Committee Members (as of December 2025)
 :::
 
-# NBEP’s Evolution
+## NBEP’s Evolution
 
 Over the past 10 years, NBEP intentionally built upon its identity as a funder of research and restoration to emerge as a more collaborative, interdisciplinary, and nimble body that provides a range of services and financial support to projects that respond to local needs and scientific findings across the Narragansett Bay region. To make this transition, NBEP leveraged partnerships to fully acknowledge issues and opportunities throughout the entire watershed and associated estuaries with a key focus on engagement with partners in Massachusetts. NBEP conducted deep relationship-building through hundreds of one-on-one meetings with new partners to expand participation in decision-making and understand how NBEP’s services could fill needs. Since 2018, NBEP’s Steering Committee has added new representation from fishing, health, transportation, non-governmental organizations, and the general public while retaining a nearly balanced membership across Rhode Island and Massachusetts. NBEP’s committee meetings, working groups, and funded projects function as collaboration hubs for these partners to work on common issues and opportunities outside of regular geopolitical, organizational, and cultural boundaries. As of the publication of this 2026 CCMP Revision, NBEP has solidified an organizational niche as a collaborative and partnership-based organization with a service-oriented and science-based approach to addressing complex environmental issues.
 
-# NBEP’s Services
+## NBEP’s Services
 
 Guided by science and the shared will of the partnership, NBEP pursues lasting solutions to the region’s interrelated environmental challenges of urbanization, pollution, and a shifting baseline of environmental conditions to improve wildlife habitat and water quality. NBEP catalyzes collective action across geopolitical boundaries by providing collaborative planning services, science synthesis and communication tools, and project funding (@fig-services).
 
@@ -122,7 +122,7 @@ Guided by science and the shared will of the partnership, NBEP pursues lasting s
 
 -   Be of service to partners
 
-## Collaborative Planning
+### Collaborative Planning
 
 NBEP pursues independent convening, planning, and consensus-building among diverse groups of partners and communities to address shared issues and opportunities. Key examples of NBEP’s collaborative planning work include:
 
@@ -144,7 +144,7 @@ NBEP pursues independent convening, planning, and consensus-building among diver
 
     -   Coastal Urban Waters Research Collaborative: Established in 2024 to provide cross-state collaboration and coordination to understand ecosystem change in urban coastal waters informing resource management, resilience, and habitat improvement.
 
-## Science Synthesis and Communication
+### Science Synthesis and Communication
 
 NBEP provides scientific data analysis and communication using innovative storytelling and open-source web application tools to investigate complex socioenvironmental topics. NBEP serves as a hub for information-sharing tools such as:
 
@@ -166,7 +166,7 @@ NBEP provides scientific data analysis and communication using innovative storyt
 
     -   MarshMap (2025): At the request of the Salt Marsh RAMP Working Group, NBEP built a tool that displays information about salt marsh restoration and monitoring projects in Rhode Island.
 
-## Project Funding
+### Project Funding
 
 NBEP provides watershed project funding that helps build a pipeline of future projects that restore and sustain the natural environment. Funding supports research, staff capacity, and project planning steps, including studies, assessments, and engineering design. NBEP’s far-reaching outreach to partners between 2019–2021 identified a lack of local capacity in state agencies, municipalities, and non-governmental organizations as the single biggest barrier to new project development in the Narragansett Bay region. In response, NBEP developed a nine-step Project Development Process (@fig-project-development) that aims to communicate the importance of often-underfunded pre-project development steps, from engagement to design and planning. As a result of this outreach and the significant influx of Infrastructure and Jobs Act funds beginning in 2022, NBEP cemented its niche as a funder of pre-construction engagement and planning. While the sunset of Infrastructure Investment and Jobs Act funds will impact NBEP’s ability to support project development, this CCMP Revision lays the foundation for work to secure alternative sustainable funding sources.
 

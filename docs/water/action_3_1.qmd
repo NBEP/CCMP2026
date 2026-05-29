@@ -2,13 +2,13 @@
 title: "Action Water-3.1: Centralized Wastewater Infrastructure"
 ---
 
-::: {.callout-info}
-# Full Action Statement
+::: callout-info
+## Full Action Statement
 
 Prioritize and support wastewater treatment facility and combined sewer system infrastructure upgrades to improve treatment of pollutants and increase resilience.
 :::
 
-# Action Description and Statement of Need
+## Action Description and Statement of Need
 
 This action supports continued upgrades at WWTFs and their associated infrastructure to improve treatment of pollutants and increase resilience.
 
@@ -22,7 +22,7 @@ Alongside facility upgrades, continuing efforts are needed to address conveyance
 
 NBEP will support partners in the implementation of this action. In addition, NBEP can work with partners to track permit compliance at WWTFs to prioritize upgrades.
 
-# Potential Projects
+## Potential Projects
 
 -   Compile a matrix of WWTFs with estimated pollutant loadings, major infrastructure projects, and track the status of permit compliance and project completion to foster community support and awareness.
 
@@ -32,7 +32,7 @@ NBEP will support partners in the implementation of this action. In addition, NB
 
 -   Support CSO operators to implement Long Term Control Plans and associated public outreach campaigns.
 
-# Outputs
+## Outputs
 
 -   Report card identifying permit compliance or changes to pollution loading at WWTFs
 
@@ -44,7 +44,7 @@ NBEP will support partners in the implementation of this action. In addition, NB
 
 -   Improved access for municipalities to funding for infrastructure projects
 
-# Outcomes
+## Outcomes
 
 -   Greater community awareness and support for wastewater treatment facility infrastructure projects
 
@@ -54,27 +54,27 @@ NBEP will support partners in the implementation of this action. In addition, NB
 
 -   Reduced wastewater pollution discharges to waterbodies and improved water quality
 
-# Indicators
+## Indicators
 
 Precipitation, Sea Level, Population, Impervious Cover, Wastewater Infrastructure, Nutrient Loading, Legacy Contaminants, Emerging Contaminants, Dissolved Oxygen, Chlorophyll, Water Clarity, Water Quality Condition for Aquatic Life, Water Quality Condition for Recreation, Marine Beaches, Shellfishing Areas
 
-# NBEP role
+## NBEP role
 
 Synthesize and communicate science
 
-# Implementing Partners
+## Implementing Partners
 
 EPA Region 1, Narragansett Bay Commission, Upper Blackstone Clean Water, Blackstone Watershed Collaborative, Taunton River Watershed Alliance, Save The Bay, NEIWPCC, RIDEM, MA EOEEA
 
-# Location
+## Location
 
 Narragansett Bay region
 
-# Timeline for initiation
+## Timeline for initiation
 
 Ongoing
 
-# Estimated costs/potential funding sources
+## Estimated costs/potential funding sources
 
 \$10M+
 

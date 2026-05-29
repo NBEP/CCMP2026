@@ -2,13 +2,13 @@
 title: "Action People-3.1: Finance Plan"
 ---
 
-::: {.callout-note}
-# Full Action Statement
+::: callout-note
+## Full Action Statement
 
 Develop the NBEP Finance Plan to catalyze fundraising and investments for projects that implement the CCMP.
 :::
 
-# Action Description and Statement of Need
+## Action Description and Statement of Need
 
 This Action calls NBEP to lead development of a Finance Plan to 1) ensure NBEP secures sufficient funding to provide its core services, 2) guide NBEP’s funding decisions on a five to ten-year timescale, and 3) convene efforts to increase funding for priority restoration projects.
 
@@ -22,7 +22,7 @@ Due to realized and anticipated reductions in federal investments in conservatio
 
 Despite decades of consistent—and in recent years, increased—federal and state financial support for restoration, project funding remains insufficient. The Narragansett Bay region receives roughly one-fifth of the federal dollars per square mile that are received to support comparable project needs in Chesapeake Bay, Puget Sound, Long Island Sound, and Lake Champlain regions. Through development and implementation of its Finance Plan and Engagement Plan (Action: [People-1.1](action_1_1.qmd)), NBEP will convene partners to seek additional funding for water quality and habitat restoration.
 
-# Potential Projects
+## Potential Projects
 
 -   Convene partners to identify the highest-priority projects in this CCMP Revision to pursue with external awards within the framework of NBEP’s nine-step Project Development Process.
 
@@ -30,7 +30,7 @@ Despite decades of consistent—and in recent years, increased—federal and sta
 
 -   Solicit and award funding for staffing, planning, design, and construction of water quality, habitat, and public access projects.
 
-# Outputs
+## Outputs
 
 -   NBEP Finance Plan
 
@@ -40,7 +40,7 @@ Despite decades of consistent—and in recent years, increased—federal and sta
 
 -   Funded planning and construction projects
 
-# Outcomes
+## Outcomes
 
 -   Increased collaborative and strategic fundraising
 
@@ -52,27 +52,27 @@ Despite decades of consistent—and in recent years, increased—federal and sta
 
 -   Improved ecosystem and community health and resilience
 
-# Indicators
+## Indicators
 
 All indicators
 
-# NBEP role
+## NBEP role
 
 Convene, Fund capacity and projects
 
-# Implementing Partners
+## Implementing Partners
 
 Steering Committee
 
-# Location
+## Location
 
 Narragansett Bay region
 
-# Timeline for initiation
+## Timeline for initiation
 
 2026
 
-# Estimated costs/potential funding sources
+## Estimated costs/potential funding sources
 
 \$10K–500K
 

@@ -8,7 +8,7 @@ title: "Water Quality Improvement Action Plan"
 | **Goal**   | Improve water quality to support healthy ecosystems and communities.                                                                                                                                   |
 +------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-# Priority Opportunities and Challenges
+## Priority Opportunities and Challenges
 
 Water quality in Narragansett Bay has improved since 2000. Between 2000–2012, summer nitrogen loadings to Narragansett Bay were reduced by 50 percent due to upgrades to nutrient treatment capacity at Rhode Island and Massachusetts wastewater treatment facilities (WWTFs) that discharge into the upper Narragansett Bay region [@ridem2024b]. Between 2016–2021, nitrogen loads were reduced by 70–76 percent when compared to pre-nitrogen reduction efforts in the early 2000s.
 
@@ -25,14 +25,14 @@ Reduced pathogen pollution has supported the recovery of consumable shellfish ha
 While these and other transformative water quality successes have been achieved, many challenges remain. Nonpoint source pollution continues to degrade area waters with pathogens and nutrients, which negatively impacts shellfish harvesting and recreational uses. Elevated pathogens are the most common cause of impairment in the region’s rivers and streams, while low dissolved oxygen is the most common cause in estuarine waters. Across the region, securing sustainable financing for installing and maintaining stormwater best practices remains difficult. Maintaining sewer systems by replacing and upgrading aged and broken infrastructure is similarly taxing. Other pressing water quality management concerns include emerging contaminants, per- and polyfluoroalkyl substances (PFAS), and mercury in fish tissue. Rising sea levels and intensification of precipitation events and storms will interact with and exacerbate the negative effects of anthropogenic stressors on water quality in the Narragansett Bay region, risking the improvements described herein.
 
 ::: {#nte-water-rwri .callout-note collapse="false"}
-## Water Quality Improvement Highlight: Restored Waters RI
+### Water Quality Improvement Highlight: Restored Waters RI
 
 ![](water/images/providence_tunnel.png){fig-alt="Construction workers standing in the massive underground stormwater tunnel under Providence." fig-align="center"}
 
 In 2001, the Narragansett Bay Commission (NBC) started construction on a massive infrastructure project, Restored Waters RI, to build underground tunnels to capture and store stormwater and prevent combined sewer overflows during heavy rainfall. The project also includes green infrastructure, such as rain gardens, that capture stormwater at the surface, and advanced wastewater treatment upgrades, like UV disinfection. The first two phases of the project, a three-mile tunnel under the City of Providence and a network of ancillary pipes, were completed in 2008 and 2015. Together, the Phase One and Two tunnel and pipes capture more than 50% of the combined sewage flows that would have otherwise drained into the Providence River. The third and final stage of the project is a 2.2-mile-long storage tunnel through Pawtucket, Central Falls, and East Providence. Drilling for the tunnel was completed in 2024, and work continues to connect piping, pump stations, and shafts. When complete, the tunnel will store and transport storm-related combined sewer and storm water overflow to Bucklin Point Wastewater Treatment Facility for full treatment before being discharged to Narragansett Bay. NBC predicts that when Phase III is complete, there will be a 93% decrease in storm-related discharge to the Seekonk River.
 :::
 
-## Stormwater
+### Stormwater
 
 Untreated stormwater discharges are widespread and a major pollution concern in the Narragansett Bay region. They degrade water and habitat quality and prompt beach and shellfish harvesting area closures [@ridem2024b]. In addition to nutrient pollution, stormwater conveys sediments, bacteria and viruses, oil and grease, metals, and trash. In addition, there is growing public concern and management attention to issues associated with pharmaceuticals, microplastics and especially “forever chemical” per- and polyfluoroalkyl substances (PFAS) in stormwater. Impacts of these pollutants on the environment and public health are not fully understood and continue to be studied while management programs undertake initial actions to prevent and mitigate their impacts.
 
@@ -49,24 +49,24 @@ While agriculture comprises a relatively small percentage of land use in the reg
 While partners work to address wastewater discharges and install stormwater controls that treat polluted runoff across large areas, there are public education and outreach opportunities to further curb stormwater pollution at its sources. Nutrient and bacterial pollutants are released to waterbodies through the public’s everyday activities, from pet waste, fertilizer application, and wildlife feeding to improper handling of vessel sewage and deferred septic system maintenance. Enhanced public education campaigns and new public policy controls can help the public recognize and reduce their contribution of personal pollution (Action: [Water-2.1](water/action_2_1.amd)).
 
 ::: {.callout-note collapse="false"}
-### Water Quality Improvement Highlight: Future Urban Beach Opening
+#### Water Quality Improvement Highlight: Future Urban Beach Opening
 
 ![](water/images/beach.png){alt="Beach" fig-align="center"}
 
 Beaches at Sabin Point and Crescent Park in East Providence, RI have been closed to swimming for decades due to high levels of pathogens that come from stormwater runoff and discharges from wastewater treatment facilities. With improved water quality in the upper reaches of Narragansett Bay, increased beach monitoring, and projects to reduce localized stormwater pollution, both beaches are on a path to welcoming swimmers once again. Crescent Park, which has a target open date of May 2026, will be the first swimmable beach in the Providence area in many decades.
 :::
 
-## Wastewater
+### Wastewater
 
 Untreated or partially treated wastewater contains pathogens, nutrients, heavy metals, pharmaceuticals, and other contaminants harmful to the environment and public health. There are 19 publicly-owned WWTFs in Rhode Island, 19 in Massachusetts, and one in Connecticut that discharge treated effluent into the Narragansett Bay region. Of these facilities, 11 in Rhode Island and six in Massachusetts have implemented additional technologies to reduce nitrogen loading in effluent. These facilities have achieved significant reductions in nutrient loading to the region’s waterways since the publication of NBEP’s 2012 CCMP. Continuing to upgrade facilities to remove more pollutants before discharging effluent will continue to yield water quality improvements in the region (Action: [Water-3.1](water/action_3_1.qmd)). Currently, the Westerly, Rhode Island WWTF has approved design plans for upgrades necessary to reduce nitrogen loading with construction estimated to be completed in 2028. In Massachusetts, many facilities need to have their discharge permits updated, which will provide opportunities to upgrade facilities.
 
 Reducing nutrient and pathogen pollution from underperforming or failing onsite wastewater treatment systems is another priority. About 38 percent of the Narragansett Bay Watershed’s residents are served by septic systems and cesspools (Chapter 7 in @nbep2017). Properly sited and maintained septic systems remove pathogens, but do not effectively remove nitrogen. Cesspools, for the most part, provide no treatment. Onsite systems contribute to nitrogen pollution in coastal waterbodies throughout the Narragansett Bay region, particularly in the Coastal Ponds subregion. Cesspool phaseouts, septic system upgrades for advanced nutrient treatment, increased rates of onsite system maintenance, and centralized sewer service conversions in priority areas are necessary to reduce nitrogen pollution and improve water quality (Action: [Water-3.2](water/action_3_2.qmd)).
 
-## Combined Sewer Overflows
+### Combined Sewer Overflows
 
 Combined sewer systems, where both wastewater and stormwater flow through the same pipes, are present in several urban areas in the Narragansett Bay region, including in the wastewater systems of the Narragansett Bay Commission (including metropolitan Providence, Pawtucket, and Central Falls), City of Newport, City of Taunton, City of Worcester, and City of Fall River. When the capacity of combined sewer systems is exceeded during rain events, combined sewer overflows (CSOs) discharge partially treated or untreated stormwater and sewage into the environment via permitted outfalls. Inspecting, repairing, or replacing underperforming or failing gray infrastructure remains an important priority as CSO abatement infrastructure work continues (See @nte-water-rwri and Action: [Water-3.1](water/action_3_1.qmd)). Sewer separation, retrofitting existing infrastructure, and increasing the use of LID in new development and redevelopment will reduce the volume of stormwater pollution flowing into combined sewer systems, therefore minimizing CSO events (Actions: [Water-2.2](water/action_2_2.qmd) and [Water-3.1](water/action_3_1.qmd)); however, intensifying precipitation will pose challenges by increasing stormwater volumes.
 
-## Resiliency Considerations
+### Resiliency Considerations
 
 Higher sea levels and more intense precipitation (@fig-water-precipitation) and storm surge events will create additional challenges for managing water quality in the Narragansett Bay region. Building resiliency into stormwater best management practices, including overbuilding systems with excess capacity to accommodate projected future sea level and weather conditions, will ensure infrastructure can perform as expected over its design life.
 
@@ -76,7 +76,7 @@ Higher sea levels and more intense precipitation (@fig-water-precipitation) and 
 
 Effects of increased tidal inundation (@fig-water-flooding), storm surge, and precipitation intensity will increase the vulnerability of underperforming or failing wastewater infrastructure and create new issues for infrastructure currently performing as designed. In 2017, RIDEM evaluated the implications of changing environmental conditions on wastewater treatment infrastructure in Rhode Island and suggested adaptive strategies for vulnerable facilities, including hardening, relocation, utilizing readily repairable or replaceable equipment, ensuring redundancy, and wet weather bypass [@ridem2017]. For septic and other onsite wastewater treatment systems (OWTS), increased flooding and soil saturation from increased rainfall or sea level rise can reduce the treatment effectiveness of the leachfield. Long-term planning for extending central sewer service to areas serviced by OWTS must remain engaged with the latest advances in science and predictive tools to be able to anticipate and mitigate failures in a timely manner. Water quality management strategies must adaptively incorporate resilience measures for extreme weather events into stormwater and wastewater infrastructure design, installation, and maintenance best management practices.
 
-# Water Quality Improvement Objectives and Actions
+## Water Quality Improvement Objectives and Actions
 
 Priorities of the Water Quality Improvement Action Plan include reducing pollution from stormwater runoff, wastewater discharges, onsite wastewater systems, CSOs, and trash and marine debris.
 

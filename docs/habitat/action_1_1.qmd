@@ -3,12 +3,12 @@ title: "Action Habitat-1.1: Biodiversity and Habitat Quality Monitoring"
 ---
 
 ::: callout-note
-# Full Action Statement
+## Full Action Statement
 
 Support, improve, and create efficiencies for monitoring and documenting biodiversity and habitat quality.
 :::
 
-# Action Description and Statement of Need
+## Action Description and Statement of Need
 
 This Action will monitor and document the region’s biodiversity, habitat quality, and habitat restoration project impacts.
 
@@ -20,7 +20,7 @@ Post-restoration monitoring is essential to determine restoration successes and 
 
 NBEP will convene and collaborate with appropriate partners throughout the region to coordinate or otherwise support habitat and biodiversity monitoring activities to address management questions and needs. Activities could include updating methodologies, expanding monitoring into new locations, and revising protocols to prioritize efficiency and incorporate new partners. NBEP will also work with partners to develop and/or update monitoring databases and connect users with habitat and biodiversity data.
 
-# Potential Projects
+## Potential Projects
 
 -   Convene interstate interests to coordinate and standardize monitoring activities and methods, including developing new or expanding current monitoring activities (such as seagrass, salt marsh, macroalgae, and cyanobacteria monitoring), and ensure that monitoring aligns with management questions and needs.
 
@@ -36,7 +36,7 @@ NBEP will convene and collaborate with appropriate partners throughout the regio
 
 -   Convene and support partners to explore seagrass restoration using seed-dispersal and other techniques.
 
-# Outputs
+## Outputs
 
 -   New monitoring protocols or programs from new or expanded monitoring activities
 
@@ -50,7 +50,7 @@ NBEP will convene and collaborate with appropriate partners throughout the regio
 
 -   Reports on select monitoring objectives
 
-# Outcomes
+## Outcomes
 
 -   Coordinated and efficient monitoring activities
 
@@ -62,27 +62,27 @@ NBEP will convene and collaborate with appropriate partners throughout the regio
 
 -   Ecosystem management that is better informed by monitoring
 
-# Indicators
+## Indicators
 
 All indicators
 
-# NBEP role
+## NBEP role
 
 Convene, Fund capacity and projects
 
-# Implementing Partners
+## Implementing Partners
 
 RIDEM, MassDEP, URI Coastal Institute, RI Environmental Monitoring Collaborative, RINHS, NBNERR, Mass Audubon, MassWildlife, TNC (RI and MA), ASRI, Salt Ponds Coalition, URI Watershed Watch, Save The Bay, Brown University, URI, EPA-ORD-ACESD, EPA Region 1
 
-# Location
+## Location
 
 Narragansett Bay region
 
-# Timeline for initiation
+## Timeline for initiation
 
 Ongoing
 
-# Estimated costs/potential funding sources
+## Estimated costs/potential funding sources
 
 \$1M–5M
 

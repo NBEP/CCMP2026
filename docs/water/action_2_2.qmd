@@ -2,13 +2,13 @@
 title: "Action Water-2.2: Stormwater Retrofits and Maintenance"
 ---
 
-::: {.callout-info}
-# Full Action Statement
+::: callout-info
+## Full Action Statement
 
 Support stormwater retrofit opportunities and associated maintenance activities to improve resilience and treatment capacity.
 :::
 
-# Action Description and Statement of Need
+## Action Description and Statement of Need
 
 This Action will support design, construction, and maintenance of stormwater retrofit projects, especially green infrastructure BMPs, that improve water quality, help mitigate flooding, and increase resilience to intensifying precipitation.
 
@@ -22,7 +22,7 @@ Further, there is a need to develop sustainable financing mechanisms for stormwa
 
 NBEP will fund studies and planning efforts that lead to stormwater retrofits, with a focus on green infrastructure opportunities. NBEP will also support projects that lead to greater understanding of stormwater infrastructure maintenance needs. Finally, NBEP will support efforts to develop sustainable financing mechanisms for stormwater management.
 
-# Potential Projects
+## Potential Projects
 
 -   Support under-resourced and under-staffed communities to design and implement holistic and coordinated landscape-scale approaches to meeting stormwater requirements.
 
@@ -30,7 +30,7 @@ NBEP will fund studies and planning efforts that lead to stormwater retrofits, w
 
 -   Support partners to work with farms to develop and implement Conservation Plans that identify BMPs that mitigate stormwater impacts.
 
-# Outputs
+## Outputs
 
 -   Retrofit designs
 
@@ -38,7 +38,7 @@ NBEP will fund studies and planning efforts that lead to stormwater retrofits, w
 
 -   Stormwater retrofit funding mechanisms
 
-# Outcomes
+## Outcomes
 
 -   Water quantity and quality are better managed
 
@@ -48,27 +48,27 @@ NBEP will fund studies and planning efforts that lead to stormwater retrofits, w
 
 -   Expanded use of green infrastructure
 
-# Indicators
+## Indicators
 
 Precipitation, Impervious Cover, Wastewater Infrastructure, Water Quality Condition for Aquatic Life, Water Quality Condition for Recreation, Marine Beaches, Shellfishing Areas
 
-# NBEP role
+## NBEP role
 
 Fund capacity and projects
 
-# Implementing Partners
+## Implementing Partners
 
 EPA, RIDOT, MassDOT, RIDEM, MassDEP, Narragansett Bay Commission, Stormwater Innovation Center, municipalities, Mass Audubon, Woonasquatucket River Watershed Council, Blackstone Watershed Collaborative, MA EOEEA, Save The Bay, SNEP Network, Conservation Districts
 
-# Location
+## Location
 
 Tasks will be targeted to specific areas identified by analyses or prioritized by partners as pollution or flooding hotspots to maximize co-benefits.
 
-# Timeline for initiation
+## Timeline for initiation
 
 2030-2032
 
-# Estimated costs/Potential funding sources
+## Estimated costs/Potential funding sources
 
 \$10M+
 

@@ -8,23 +8,23 @@ title: "People Ready to Act Action Plan"
 | **Goal**    | Provide foundational knowledge, capacity, and drivers for CCMP implementation. |
 +-------------+--------------------------------------------------------------------------------+
 
-# Priority Opportunities and Challenges
+## Priority Opportunities and Challenges
 
 As a catalyst for scientific inquiry and collective action, NBEP provides foundational knowledge, capacity, and drivers for people to act. NBEP fulfills its roles by convening partners, synthesizing and communicating science, funding capacity and projects, and voicing support across three objectives to advance engagement, information and tracking, and regional cooperation.
 
-## Engagement
+### Engagement
 
 Implementation of the NBEP CCMP requires informed, engaged, and empowered partners contributing collectively to shared goals. NBEP will build on its track record as a neutral convener and “honest broker” by developing a regional Engagement Plan to prioritize and focus NBEP’s engagement with partners and priority audiences (Action: [People-1.1](people/action_1_1.qmd)).
 
 ::: {.callout-note collapse="false"}
-### Public Engagement Highlight: Blackstone River Watershed Needs Assessment Report
+#### Public Engagement Highlight: Blackstone River Watershed Needs Assessment Report
 
 ![](people/images/public_engagement_highlight.png){fig-alt="Blackstone River Watershed Needs Assessment Report" fig-align="center"}
 
 NBEP convened a broad group of Blackstone River Watershed interests between 2019 and 2021 to explore local needs. The resulting Blackstone River Watershed Needs Assessment Report [@nbep2021a] describes high-priority needs and 20 recommended actions. The first recommendation in the assessment, creation of the Blackstone Watershed Collaborative and hiring of a manager to oversee it, was accomplished in 2021 with NBEP funding. The Blackstone Watershed Collaborative has to date leveraged over \$1M in other funding sources to continue its operation and support of small organizations. This project enabled the Blackstone River to join Narragansett Bay’s other major tributary, the Taunton River, in having an up-to-date plan and coordinating organization to lead its implementation.
 :::
 
-## Information and Tracking
+### Information and Tracking
 
 NBEP consistently tracks and reports on the status and trends of ecological conditions of greatest concern for management and public interest. Monitoring, research, data synthesis, and modeling are necessary to ensure that NBEP’s reporting is based on the best available science.
 
@@ -35,32 +35,32 @@ In 2003, NBEP and partners developed a suite of environmental indicators for Nar
 NBEP strives to communicate effectively with partners and the broader interested public by developing accurate, understandable, and accessible science communication products for different user groups (Action: [People-2.1](people/action_2_1.qmd)). Data visualizations and dashboards are effective tools to display information about environmental status and trends. Narrative stories, GIS StoryMaps, and digestible fact sheets also translate complex science for broad readership and encourage further inquiry. Information provided in clear, accessible formats can assist resource managers, non-governmental organizations, decision-makers, and others to better understand stressors affecting ecosystem health and to identify how environmental conditions are changing and impacting communities. These communications are foundational for building public support for action and informing management decisions, including strategic investment in protection and restoration.
 
 ::: {.callout-note collapse="false"}
-### Information and Tracking Highlight: Narragansett Bay Watershed Economy Report
+#### Information and Tracking Highlight: Narragansett Bay Watershed Economy Report
 
 ![](people/images/information_tracking_highlight.png){fig-alt="Narragansett Bay Watershed Economy. The ebb and flow of natural capital. Tourism. Becah use. Maritime Trade. Aquaculture." fig-align="center"}
 
 The Narragansett Bay Watershed Economy Report [@uchida2019] was a collaborative effort that identified 13 key sectors that rely on the watershed’s natural capital and the cumulative economic impact of those sectors (\$14B, 2016 dollars).
 :::
 
-## Regional Cooperation
+### Regional Cooperation
 
 The Narragansett Bay region requires more funding for conservation, restoration, and resilience projects—and more staff capacity for project development and maintenance—to implement CCMP goals and objectives. Development of the NBEP Finance Plan will ensure NBEP secures sufficient funding to provide its core services and increase funding for CCMP priority projects within the framework of its nine-step Project Development Process (Action: [People-3.1](people/action_3_1.qmd)).
 
 Once the status and trends of key environmental and socioeconomic indicators are determined, the community must reach consensus on measurable targets for those indicators that equate to a desired future condition (Action: [People-3.2](people/action_3_2.qmd)).
 
 ::: {.callout-note collapse="false"}
-### Governance Highlight: Massachusetts Division of Ecological Restoration Expansion
+#### Governance Highlight: Massachusetts Division of Ecological Restoration Expansion
 
 ![](people/images/ma_der_logo.png){fig-alt="Commonwealth of Massachusetts Division of Ecological Restoration. Invested in Nature and Community." fig-align="center"}
 
 The Massachusetts Division of Ecological Restoration (MA DER) was established in 2009 as part of the Massachusetts Department of Fish and Game under the Executive Office of Energy and Environmental Affairs to bring attention, momentum, and capacity to river and wetland restoration. Since then, MA DER and partners have completed more than 160 restoration projects, with over 80 active projects currently underway. Today, MA DER operates three branches (Capacity Building, Habitat Restoration, and Technical Services) and multiple funding programs that support local organizations and project development to improve habitat, reduce flooding, and improve water quality and public safety.
 :::
 
-## Resiliency Considerations
+### Resiliency Considerations
 
 Higher sea levels, warmer water temperatures, and more intense precipitation and storm surge events will create additional challenges for managing natural, built, and socioeconomic systems in the Narragansett Bay region. Empowering partners and communities with the agency and tools to engage on issues related to regional vulnerability, adaptation, and mitigation are key to expanding resilience. Actions in the People Ready to Act Action Plan develop tools designed to empower partners and communities to take proactive action, advocate for decisions, understand the latest science, and identify management strategies that sustain multiple benefits across various time scales and uncertainties.
 
-# People Ready to Act Objectives and Actions
+## People Ready to Act Objectives and Actions
 
 Providing foundational knowledge, capacity, and drivers for people to act is central to building capacity within the region to protect and restore water and habitat quality, fish and wildlife, and quality of life. The People Ready to Act Action Plan incorporates a suite of interconnected actions to improve regional knowledge, coordination, effectiveness, and capacity to better protect and restore the Narragansett Bay region.
 

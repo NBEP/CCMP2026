@@ -2,13 +2,13 @@
 title: "Action People-1.1: Engagement Plan"
 ---
 
-::: {.callout-note}
-# Full Action Statement
+::: callout-note
+## Full Action Statement
 
 Develop and implement the NBEP Engagement Plan to convene and activate partners to implement priority CCMP actions.
 :::
 
-# Action Description and Statement of Need
+## Action Description and Statement of Need
 
 This Action will develop a coordinated and collaborative NBEP Engagement Plan to guide NBEP’s convening services and partnership-building activities. The Engagement Plan will include work to articulate and promote a unique identity for the Narragansett Bay region that highlights specific CCMP implementation opportunities and challenges within the broader southern New England context (see Finance Plan Action: [People-3.1](action_3_1.qmd)).
 
@@ -20,7 +20,7 @@ The Engagement Plan will coordinate and amplify ongoing efforts and identify opp
 
 Implementing the Engagement Plan requires NBEP to continue hosting quarterly Executive and Steering Committee meetings, biannual Science Advisory Committee meetings, and subject-specific subcommittees and working groups as needed. NBEP will also host topic-specific events, including the Annual Science Event, and offer convening services for partner-led workshops, committees, or meetings to implement partner strategic plans, workplans, or equivalent planning documents that align with the CCMP and the Engagement Plan. NBEP will regularly update the Engagement Plan to adapt to changing conditions in the environment and needs of the people in the region.
 
-# Potential Projects
+## Potential Projects
 
 -   Convene NBEP partners and other organizations to advance connections, knowledge, and solutions at local and regional scales.
 
@@ -34,7 +34,7 @@ Implementing the Engagement Plan requires NBEP to continue hosting quarterly Exe
 
 -   Establish a regular schedule of communications with elected and appointed leaders at local, state, and federal levels to share NBEP and partner activities, accomplishments, and benefits.
 
-# Outputs
+## Outputs
 
 -   NBEP Engagement Plan and regular updates
 
@@ -46,7 +46,7 @@ Implementing the Engagement Plan requires NBEP to continue hosting quarterly Exe
 
 -   Reports on select policy topics
 
-# Outcomes
+## Outcomes
 
 -   NBEP decisions, services, and projects that are responsive to current needs
 
@@ -58,27 +58,27 @@ Implementing the Engagement Plan requires NBEP to continue hosting quarterly Exe
 
 -   Adoption of policy changes that advance CCMP goals and objectives
 
-# Indicators
+## Indicators
 
 All indicators
 
-# NBEP role
+## NBEP role
 
 Convene, Fund capacity and projects
 
-# Implementing Partners
+## Implementing Partners
 
 Steering Committee, other agencies and non-governmental organizations
 
-# Location
+## Location
 
 Narragansett Bay region, with priority areas to be determined during development and biannual update of the Engagement Plan
 
-# Timeline for initiation
+## Timeline for initiation
 
 Ongoing
 
-# Estimated costs/potential funding sources
+## Estimated costs/potential funding sources
 
 \$1M–5M (NBEP staff time to develop Engagement Plan; annual RFPs for outreach and education activities)
 

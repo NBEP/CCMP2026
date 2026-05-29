@@ -2,13 +2,13 @@
 title: "Action Public Spaces-1.1: New Public Access"
 ---
 
-::: {.callout-info}
-# Full Action Statement
+::: callout-info
+## Full Action Statement
 
 Assess, prioritize, and support plans and projects to expand public access to waterways, natural areas, and urban green spaces.
 :::
 
-# Action Description and Statement of Need
+## Action Description and Statement of Need
 
 This Action will develop science to inform the creation of new public access to waterways, natural areas, and urban green spaces across the region. This information can help inform the design of access points that are resilient to storms, responsive to potential ecological impacts from overuse [@nbep2021f], and deliver more access through community-centered siting and design.
 
@@ -20,7 +20,7 @@ Growth and shifts in population centers and recreational preferences also leave 
 
 NBEP will develop a new Public Access Indicator and publish a public access database with waterway and green space access sites, fund capacity for project planning for new public access, and support non-governmental organizations, local people, and local and state governments to accelerate projects in areas that lack quality access to nature.
 
-# Potential Projects
+## Potential Projects
 
 -   Create a new State of the Watershed public access indicator that includes access to waterways and natural lands and green spaces and provides decision support for new sites and site improvements.
 
@@ -28,7 +28,7 @@ NBEP will develop a new Public Access Indicator and publish a public access data
 
 -   Complete and implement plans that increase urban green space and tree canopies.
 
-# Outputs
+## Outputs
 
 -   Public Access Indicator
 
@@ -38,33 +38,33 @@ NBEP will develop a new Public Access Indicator and publish a public access data
 
 -   New urban green space plans and projects that provide access to nature
 
-# Outcomes
+## Outcomes
 
 -   Increased public access to nature
 
 -   Greater access to urban green spaces and improved quality of neighborhoods
 
-# Indicators
+## Indicators
 
 Sea Level, Population, Land Use, Open Space, Water Quality Conditions for Recreation, Marine Beaches, Shellfishing Areas, Public Access, Impervious Cover
 
-# NBEP role
+## NBEP role
 
 Fund capacity and projects, Synthesize and communicate science
 
-# Implementing Partners
+## Implementing Partners
 
 RIDEM, MA DER, Massachusetts DCR, National Park Service, Blackstone Watershed Collaborative, RI CRMC, Wood-Pawcatuck Watershed Association, Taunton River Wild and Scenic Stewardship Council, Save The Bay, Groundwork RI, Groundwork Southcoast, MA EOEEA, SRPEDD, NRICD, TNC-RI, Mass Audubon, Blackstone River Watershed Council, Taunton River Watershed Alliance, RI Land Trust Alliance, municipalities, RI Saltwater Anglers Association
 
-# Location
+## Location
 
 Narragansett Bay region with a focus on areas that have fewer high-quality access sites
 
-# Timeline for initiation
+## Timeline for initiation
 
 Ongoing
 
-# Estimated costs/potential funding sources
+## Estimated costs/potential funding sources
 
 \$5M–10M
 

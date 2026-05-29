@@ -3,12 +3,12 @@ title: "Action Habitat-2.3: Benthic Habitat Assessment and Restoration"
 ---
 
 ::: callout-note
-# Full Action Statement
+## Full Action Statement
 
 Assess and restore benthic habitats to support dynamic estuarine ecosystems.
 :::
 
-# Action Description and Statement of Need
+## Action Description and Statement of Need
 
 This Action will assess and accelerate restoration activities for key estuarine benthic habitats. The seagrasses, hard-bottom habitats, and other benthos that exist on the bottom of the estuarine waters of Narragansett Bay, Little Narragansett Bay, and the Coastal Salt Ponds support diverse ecosystems, aquaculture, fisheries, and recreation. Understanding how these habitats have changed under shifting conditions, including improved water quality conditions, warmer water temperatures, and higher water levels, is key to advancing restoration activities.
 
@@ -22,7 +22,7 @@ Renewed interest in these habitats, including [federal funding](https://www.epa.
 
 NBEP will continue to convene and coordinate partners across state and institutional boundaries to coordinate and share knowledge, practices, and outcomes of assessing and restoring benthic habitats.
 
-# Potential Projects
+## Potential Projects
 
 -   Synthesize past and ongoing regional seagrass restoration efforts including methodologies used, success of restoration efforts, locations, etc. This synthesis should assess if these techniques could be more successful with current, improved water quality.
 
@@ -42,7 +42,7 @@ NBEP will continue to convene and coordinate partners across state and instituti
 
 -   Explore using dredged materials to restore areas of exposed sediment containing high concentrations of contaminants.
 
-# Outputs
+## Outputs
 
 -   White papers synthesizing seagrass and artificial reef restoration efforts
 
@@ -52,7 +52,7 @@ NBEP will continue to convene and coordinate partners across state and instituti
 
 -   Updated and expanded SPI analysis
 
-# Outcomes
+## Outcomes
 
 -   Activated and coordinated local partners in assessment and restoration projects
 
@@ -62,27 +62,27 @@ NBEP will continue to convene and coordinate partners across state and instituti
 
 -   Increased number of artificial reefs
 
-# Indicators
+## Indicators
 
 Nutrient Loading, Seagrasses, Benthic Habitats, Water Clarity, Estuarine Fish Communities
 
-# NBEP role
+## NBEP role
 
 Convene, Synthesize and communicate science, Fund capacity and projects
 
-# Implementing Partners
+## Implementing Partners
 
 NBNERR, RIDEM, Save The Bay, Massachusetts DMF, EPA Region 1, Narragansett Bay Commission, TNC-RI
 
-# Location
+## Location
 
 Benthic estuarine and tidal habitats throughout the Narragansett Bay region
 
-# Timeline for initiation
+## Timeline for initiation
 
 2026-2029
 
-# Estimated costs/potential funding sources
+## Estimated costs/potential funding sources
 
 \$5M–10M
 

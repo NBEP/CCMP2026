@@ -3,12 +3,12 @@ title: "Action Habitat-2.2: Habitat Projects"
 ---
 
 ::: callout-note
-# Full Action Statement
+## Full Action Statement
 
 Identify, prioritize, and coordinate partner opportunities and funding to implement habitat restoration projects.
 :::
 
-# Action Description and Statement of Need
+## Action Description and Statement of Need
 
 This action will enhance regional coordination and implementation of habitat restoration projects. Priority habitats for restoration include salt marshes, seagrass beds, tidal shorelines, rivers, riparian shorelines, floodplains, wetlands, ponds, and lakes. Restoration projects are designed to improve water quality, natural water flow and sediment regimes, and health of native freshwater and marine life. Habitat restoration also supports resilience by increasing flood protection from storms and higher sea levels. Restored and resilient habitats improve community access and health and economic prospects for commercially important harvests.
 
@@ -18,7 +18,7 @@ NBEP will maintain priority restoration project databases and coordinate funding
 
 NBEP will also coordinate outreach and project support to local watershed or lake and pond associations to help implement restoration projects. These groups are local experts in providing outreach and education to their communities and many are ready to partner and collaborate on habitat restoration projects.
 
-# Potential Projects
+## Potential Projects
 
 -   Coordinate among groups pursuing priority habitat assessment, planning, and restoration in the greater Narragansett Bay region.
 
@@ -28,7 +28,7 @@ NBEP will also coordinate outreach and project support to local watershed or lak
 
 -   Maintain a resource library of Quality Assurance Project Plans (QAPPs) and other project documents as a resource for practitioner reference.
 
-# Outputs
+## Outputs
 
 -   Coordination meetings and tools for groups pursuing restorations in the same areas
 
@@ -40,7 +40,7 @@ NBEP will also coordinate outreach and project support to local watershed or lak
 
 -   Education and invasive species removal events and programs
 
-# Outcomes
+## Outcomes
 
 -   Accelerated system or sub-watershed scale habitat improvements
 
@@ -50,27 +50,27 @@ NBEP will also coordinate outreach and project support to local watershed or lak
 
 -   More estuarine and freshwater systems meet both habitat and recreational use standards and sustain healthy wildlife and human use
 
-# Indicators
+## Indicators
 
 Sea Level Rise, Nutrient Loading, DO, Chlorophyll, Water Clarity, Benthic Habitat, Seagrasses, Salt Marsh, Aquatic Life Use, Estuarine Fish Use, Recreation Use, Open Space, Marine Beaches, Shell Fishing Areas, Land Use, Impervious Surface, Stream Invertebrates, Coldwater Fish
 
-# NBEP role
+## NBEP role
 
 Convene, Synthesize and communicate science
 
-# Implementing Partners
+## Implementing Partners
 
 EPA Region 1, Save The Bay, TNC-RI, TNC-MA, Mass Audubon, WRWC, Old Colony Planning Council, MA DER, NBNERR, RIDEM, RINHS, MA EOEEA, SRPEDD, RI Saltwater Anglers Association
 
-# Location
+## Location
 
 Narragansett Bay region
 
-# Timeline for initiation
+## Timeline for initiation
 
 Ongoing
 
-# Estimated costs/potential funding sources
+## Estimated costs/potential funding sources
 
 \$10M+
 

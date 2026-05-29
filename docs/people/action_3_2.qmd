@@ -2,13 +2,13 @@
 title: "Action People-3.2: Regional Targets"
 ---
 
-::: {.callout-note}
-# Full Action Statement
+::: callout-note
+## Full Action Statement
 
 Establish shared regional ecosystem targets with public reporting systems to track progress.
 :::
 
-# Action Description and Statement of Need
+## Action Description and Statement of Need
 
 This Action calls for NBEP to lead the development of priority regional ecosystem targets for the Narragansett Bay region to motivate collective action.
 
@@ -18,45 +18,45 @@ In 2017, NBEP and partners identified and characterized the status and trends of
 
 NBEP will collaborate with partners to develop targets at appropriate scales that define desired future conditions for indicators. Target development will take into consideration existing targets, such as those required by the Clean Water Act to support designated uses of waters, Total Maximum Daily Loads (TMDLs), Special Areas Management Plans (SAMPs), and habitat restoration plans. Targets should encompass topics that NBEP and partners have agency and capacity to advance and ideally derive from metrics that NBEP already measures for State of the Watershed indicators (*e.g.*, habitat acres, pollution reductions, number of public access points).
 
-# Potential Projects
+## Potential Projects
 
 -   Convene partners to create numeric targets for priority ecosystem and socioeconomic system indicators that span watershed boundaries and authorities.
 
 -   Establish reporting systems for tracking progress toward shared targets.
 
-# Outputs
+## Outputs
 
 -   Facilitated meetings
 
 -   Numeric targets and reporting system(s) for priority environmental and socioeconomic indicators
 
-# Outcomes
+## Outcomes
 
 -   Improved coordination and collaboration among protection and restoration partners
 
 -   Increased public awareness of management goals and the effectiveness of actions and investments to attain them
 
-# Indicators
+## Indicators
 
 All indicators
 
-# NBEP role
+## NBEP role
 
 Convene, Synthesize and communicate science
 
-# Implementing Partners
+## Implementing Partners
 
 Steering Committee
 
-# Location
+## Location
 
 Narragansett Bay region
 
-# Timeline for initiation
+## Timeline for initiation
 
 2026-2029
 
-# Estimated costs/potential funding sources
+## Estimated costs/potential funding sources
 
 \$500K–1M
 

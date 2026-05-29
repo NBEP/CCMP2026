@@ -10,7 +10,7 @@ NBEP is a catalyst for scientific inquiry and collective action to investigate, 
 
 ![2026 CCMP Revision Framework](docs/images/revision_framework.png){fig-alt="Flowchart. 4 goals to 12 objectives to 24 actions. There are four items listed under goals: 1 people ready to act, 2 water quality improvement, 3 habitat protection and restoration, 4 public spaces available to all."}
 
-# Acknowledgements
+## Acknowledgements
 
 The Narragansett Bay Estuary Program Steering, Executive, and Science Advisory Committees provide invaluable guidance, energy, and expertise for all collaborative endeavors, including this CCMP Revision. Thank you.
 

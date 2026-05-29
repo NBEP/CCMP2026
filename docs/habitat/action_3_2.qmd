@@ -2,13 +2,13 @@
 title: "Action Habitat-3.2: Salt Marsh Restoration"
 ---
 
-::: {.callout-note} 
-# Full Action Statement 
+::: callout-note
+## Full Action Statement
 
 Restore coastal wetlands and reconnect with uplands for habitat migration, wildlife, and recreation.
 :::
 
-# Action Description and Statement of Need
+## Action Description and Statement of Need
 
 This Action will accelerate salt marsh restoration using techniques to restore marsh hydrology and upland connectivity and ensure resilience of these habitats and their associated wildlife to sea level rise. Sustaining salt marshes involves a variety of techniques to restore and enhance subsiding marshes and to conserve adjacent uplands for marshes to migrate inland as sea levels rise [@mckown2024].
 
@@ -18,7 +18,7 @@ Accelerating sea level rise is outpacing natural salt marsh accretion, causing m
 
 NBEP will continue to convene and coordinate partners across state and institutional boundaries to coordinate and share knowledge, practices, and outcomes of saltmarsh restoration projects in the Salt Marsh RAMP workgroup. NBEP will fund capacity for community outreach, planning, and implementation, and support partners by seeking external funding.
 
-# Potential Projects
+## Potential Projects
 
 -   Sustain marshes in place with a suite of hydrology restoration techniques to address legacy human impacts.
 
@@ -34,7 +34,7 @@ NBEP will continue to convene and coordinate partners across state and instituti
 
 -   Maintain the Salt Marsh RAMP workgroup project tool, MarshMap, and expand the tool to include Massachusetts and Connecticut projects.
 
-# Outputs
+## Outputs
 
 -   Coordinated meetings for groups pursuing saltmarsh restoration
 
@@ -42,7 +42,7 @@ NBEP will continue to convene and coordinate partners across state and instituti
 
 -   New land use policy strategies adopted to accommodate marsh migration
 
-# Outcomes
+## Outcomes
 
 -   Federal, regional, state, NGO, and local partners coordinate to plan and implement restoration projects
 
@@ -50,27 +50,27 @@ NBEP will continue to convene and coordinate partners across state and instituti
 
 -   More acres of saltmarsh restored
 
-# Indicators
+## Indicators
 
 Sea Level, Land Use, Salt Marsh, Open Space
 
-# NBEP role
+## NBEP role
 
 Convene, Synthesize and communicate science, Fund capacity and projects
 
-# Implementing Partners
+## Implementing Partners
 
 EPA, NBNERR, RIDEM, Save The Bay, MA DER, NOAA, CRMC, USFWS, Mass Audubon
 
-# Location
+## Location
 
 Coastal and riverine salt marshes
 
-# Timeline for initiation
+## Timeline for initiation
 
 Ongoing
 
-# Estimated costs/potential funding sources
+## Estimated costs/potential funding sources
 
 \$10M+
 

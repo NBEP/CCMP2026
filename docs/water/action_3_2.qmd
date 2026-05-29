@@ -3,12 +3,12 @@ title: "Action Water-3.2: Onsite Wastewater Systems"
 ---
 
 ::: callout-info
-# Full Action Statement
+## Full Action Statement
 
 Support cesspool phaseouts and onsite system maintenance region-wide, and advanced septic system upgrades or extension of central sewer service in priority areas.
 :::
 
-# Action Description and Statement of Need
+## Action Description and Statement of Need
 
 About 38 percent of the Narragansett Bay Watershed’s residents are served by septic systems and cesspools (Chapter 7 in @nbep2017). Cesspools are outdated, low-performing onsite wastewater treatment and disposal systems (OWTDS) that are already being phased out in Rhode Island and Massachusetts, although thousands still remain in the Narragansett Bay region. Septic systems can threaten ecosystem and public health when they underperform or fail due to improper use, maintenance, location, or saturated leachfield soils. Residential septic systems have been linked to nitrogen loading [@valiela1992; @cole2006; @reay2004], micropollutant pollution [@phillips2015], and organic wastewater contaminant pollution [@swartz2006] in coastal bays via transport through groundwater. Further, areas with high septic system density have been shown to contribute more to pathogen loading in waterways compared to areas with low septic density [@sowah2017]. Within the Narragansett Bay region, the Coastal Salt Ponds watersheds have been the focus of significant management action to address OWTDS given the known contribution of onsite systems to water quality degradation in this area.
 
@@ -20,13 +20,13 @@ Massachusetts requires new construction in nitrogen-sensitive Natural Resource A
 
 NBEP will fund OWTDS assessments, plans, public outreach, and other projects that build local capacity for improvements.
 
-# Potential Projects
+## Potential Projects
 
 -   Fund studies to assess the contribution of OWTDS to water pollution where there are gaps in understanding.
 
 -   Support efforts to encourage property owners to properly maintain OWTDS, including those operating with advanced treatment technologies.
 
-# Outputs
+## Outputs
 
 -   White papers or other research products that document OWTDS performance in areas that currently lack information
 
@@ -34,33 +34,33 @@ NBEP will fund OWTDS assessments, plans, public outreach, and other projects tha
 
 -   Advanced treatment systems installed in priority areas
 
-# Outcomes
+## Outcomes
 
 -   More OWTDS meet high standards of performance
 
 -   More waterways previously impaired by OWTDS pollution meet designated uses
 
-# Indicators
+## Indicators
 
 Wastewater Infrastructure, Nutrient Loading, Dissolved Oxygen, Chlorophyll, Water Clarity, Water Quality Conditions for Aquatic Life, and Water Quality Conditions for Recreation, Marine Beaches, Shellfishing
 
-# NBEP role
+## NBEP role
 
 Fund capacity and projects, Synthesize and communicate science
 
-# Implementing Partners
+## Implementing Partners
 
 EPA Region 1, RIDEM, MA EOEEA, MassDEP, NEIWPCC, Save The Bay, URI Cooperative Extension, RI Division of Statewide Planning
 
-# Location
+## Location
 
 Narragansett Bay region
 
-# Timeline for initiation
+## Timeline for initiation
 
 2033-2036
 
-# Estimated costs/potential funding sources
+## Estimated costs/potential funding sources
 
 \$10M+
 
