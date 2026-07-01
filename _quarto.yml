@@ -2,6 +2,9 @@ project:
   title: "2026 CCMP"
   type: website
 
+execute:
+  freeze: auto
+
 bibliography: references.bib
 
 website:
