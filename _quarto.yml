@@ -9,6 +9,7 @@ bibliography: references.bib
 
 website:
   title: "NBEP 2026 CCMP"
+  site-url: "https://nbep.github.io/CCMP2026"
   page-navigation: true
   sidebar:
     style: "docked"
